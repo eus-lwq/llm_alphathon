@@ -1,4 +1,7 @@
 import requests
+from requests.adapters import HTTPAdapter
+from requests.packages.urllib3.util.retry import Retry
+
 from bs4 import BeautifulSoup
 import json
 from datetime import datetime
@@ -63,8 +66,21 @@ class WebScrap:
             # print(title_url)
     
             headers = {'User-Agent': 'Mozilla/5.0 (Windows NT x.y; Win64; x64; rv:10.0) Gecko/20100101 Firefox/10.0 '}
-            page = requests.get(title_url, headers=headers)
-            
+            # page = requests.get(title_url, headers=headers)
+
+            # Create a session
+            session = requests.Session()
+            retry = Retry(total=5, backoff_factor=0.1, status_forcelist=[ 500, 502, 503, 504 ])
+            adapter = HTTPAdapter(max_retries=retry)
+            session.mount('http://', adapter)
+            session.mount('https://', adapter)
+
+            try:
+                page = session.get(title_url, headers=headers)
+            except requests.exceptions.RequestException as e:
+                print(f"Request to {title_url} failed after 5 retries. Skipping...")
+                continue
+
             article_details = []
 
             # Check if the request was successful
@@ -89,7 +105,7 @@ class WebScrap:
                         count_articles = 0
                         # Extract required information from each <article> element
                         for article in article_elements:
-                            print("article:",article)
+                            # print("article:",article)
                             headline_span = article.find('span', class_='WSJTheme--headlineText--He1ANr9C')
                             a_tag = article.find('a')
                             #article_type_span = article.find('span', class_='WSJTheme--articleType--34Gt-vdG')
@@ -208,8 +224,25 @@ if __name__ == '__main__':
     # waiting_time = 1
     # searching_year(year, waiting_time)
 
-    start = "2012-01-01"
-    end = "2012-01-10"
+    # start = "2012-01-01"
+    # end = "2019-12-31"
+    # waiting_time = 1
+    # searching_start_end(start, end, waiting_time)
+    # print("end")
+
+    import argparse
+
+    # Create the parser
+    parser = argparse.ArgumentParser(description='Process start and end dates.')
+
+    # Add the arguments
+    parser.add_argument('--start', type=str, help='The start date in YYYY-MM-DD format')
+    parser.add_argument('--end', type=str, help='The end date in YYYY-MM-DD format')
+
+    # Parse the arguments
+    args = parser.parse_args()
+
+    # Use the arguments in your function
     waiting_time = 1
-    searching_start_end(start, end, waiting_time)
-    print("end")
+    searching_start_end(args.start, args.end, waiting_time)
+    print("end of parsing")
