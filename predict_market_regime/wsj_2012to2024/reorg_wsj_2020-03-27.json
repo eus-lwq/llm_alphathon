@@ -1,0 +1,549 @@
+{
+    "Date": "2020-3-27",
+    "News": [
+        {
+            "news_title": "How I Learned to Stop Worrying and Love the Bear Market",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Microsoft Alters Policy on Facial-Recognition Investments ",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Yes, We Need Cost-Benefit Analysis",
+            "keyword": "Business World"
+        },
+        {
+            "news_title": "\u2018The American Army Makes an Impression\u2019",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Worst-Case Coronavirus Science",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "A Divided Israel\u2019s Unity Government",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Coronavirus and the Ration Book",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "How Epidemics Change Civilizations",
+            "keyword": "The Weekend Interview"
+        },
+        {
+            "news_title": "ViacomCBS Seeks to Raise $2.5 Billion in Debt Amid Stiff Coronavirus Headwinds ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Politicians Target Insurance Contracts",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "U.S. Plans to Stop Collecting Import Tariffs for Three Months, Officials Say ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "EPA Delays Summer Fuel Switchover ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "U.S. Coronavirus Cases Exceed 100,000; Boris Johnson Tests Positive",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Three on the Life and Works of Robert Stone: Globe Jotter",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "\u2018Some Assembly Required\u2019 Review: How Nature Finds a Way",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "\u2018Dressed\u2019 Review: Wear You Want to Be",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Boeing to Emerge as Big Stimulus Winner ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Retreat From Risk Boosts Treasurys",
+            "keyword": "Credit Markets"
+        },
+        {
+            "news_title": "Trump Administration Medical Panel Devises Ventilator-Sharing Protocol ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Stocks Drop, But Finish the Week With Big Gains",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "Coronavirus Delays Showdown Over USA Gymnastics Bankruptcy Plan ",
+            "keyword": "Pro Bankruptcy Bankruptcy"
+        },
+        {
+            "news_title": "How the Coronavirus Attacks Your Body",
+            "keyword": "Your Health"
+        },
+        {
+            "news_title": "Gerard Baker: Nations Push Back Against a Globalized World",
+            "keyword": "Essay"
+        },
+        {
+            "news_title": "Fed Discloses BlackRock\u2019s Fees for Bond-Purchasing Program ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "How the Coronavirus Stimulus Deal Came Back From the Brink ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "New York City Subway Operator Killed in Train-Car Fire ",
+            "keyword": "Crime"
+        },
+        {
+            "news_title": "Consumer Startups See New Demand From Coronavirus Crisis\u2014And Hope It Sticks ",
+            "keyword": "Pro PE Industry News"
+        },
+        {
+            "news_title": "Primark Owner Relies on Cost Cutting, Government Help to Manage Coronavirus Fallout, CFO Says ",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "High-Frequency Traders Feast on Volatile Market ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "\u2018Only 2 Left in Stock! Order Now!\u2019 But Does That Really Work?",
+            "keyword": "Journal Reports: Leadership"
+        },
+        {
+            "news_title": "Corona Countermeasures Also Helping to Combat Flu",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "Carrie Cordero and Richard Fontaine: Health Surveillance Is Here to Stay",
+            "keyword": "After the Pandemic"
+        },
+        {
+            "news_title": "New York Schools to Stay Closed Until at Least April 15 ",
+            "keyword": "Schools"
+        },
+        {
+            "news_title": "BP Agrees to Draft Climate Change Shareholder Resolution",
+            "keyword": "Risk & Compliance Journal"
+        },
+        {
+            "news_title": "Pandemic Forces Hospitals to Consider Rationing Treatment ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "All Those 401(k)s in the Time of Coronavirus",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Allianz Global Investors Liquidates Two Hedge Funds",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Banks Are Stronger Now, but Strong Enough?",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Lyndon Johnson Proved Gresham\u2019s Law Is Correct",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Hoarding Toilet Paper and Avoiding the Y2K Horror",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Real Congregations Start Embracing Virtual Worship",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "FDA Approves Devices to Be Modified Into Ventilators",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "William J. Burns: A Moment to Renew American Statesmanship",
+            "keyword": "After the Pandemic"
+        },
+        {
+            "news_title": "Construction Companies Lobby to Keep Working as Coronavirus Spreads",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Coronavirus Measures Could Cut Economic Activity by a Quarter, Report Says ",
+            "keyword": "Economy"
+        },
+        {
+            "news_title": "Fed Considering Additional Support for State, Local Government Finance",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "U.S. Further Eases Curbs on Seasonal Worker Visas",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "What\u2019s the Best Way to Spend Your Stimulus Money? ",
+            "keyword": "Your Money"
+        },
+        {
+            "news_title": "One Business Winner Amid Coronavirus Lockdowns: the Cloud ",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Boris Johnson\u2019s Coronavirus Diagnosis Shows Challenges Leaders Face",
+            "keyword": "U.K."
+        },
+        {
+            "news_title": "Out of Work and Tips, Restaurant Workers Face Their Own Coronavirus Crisis ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Bernie Sanders\u2019s Supporters Want Him to Stay In, Pressure Joe Biden ",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "Acceptance Rates at Harvard, Other Ivy League Schools Edge Up ",
+            "keyword": "Education"
+        },
+        {
+            "news_title": "Go for the Gold (Lam\u00e9)",
+            "keyword": "What's News"
+        },
+        {
+            "news_title": "Today\u2019s Logistics Report: Shipping\u2019s Demand Shock; Hiring for Logistics; Delivering the Gas",
+            "keyword": "WSJ Logistics Report"
+        },
+        {
+            "news_title": "L Catterton-Backed Businesses Adapt to Coronavirus ",
+            "keyword": "Pro PE Fund News"
+        },
+        {
+            "news_title": "Europe Tracks Residents\u2019 Phones for Coronavirus Research",
+            "keyword": "Pro Cyber News"
+        },
+        {
+            "news_title": "Three Questions With Therapist Karol Ward on How to Deal With Coronavirus Stress",
+            "keyword": "Your Money"
+        },
+        {
+            "news_title": "SEC Grants Extra Time to File Reports",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Putin Exploits Coronavirus to Justify Centralized Russian Power  ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Coronavirus Turmoil Seen Reshaping Secondary Market in 2020",
+            "keyword": "Pro PE Industry News"
+        },
+        {
+            "news_title": "Coronavirus Brings Big Gain to Mall Bears ",
+            "keyword": "Hedge Funds"
+        },
+        {
+            "news_title": "He Quit His Podcasting Job to Qualify for the Olympics. Now What?",
+            "keyword": "Olympics"
+        },
+        {
+            "news_title": "ETFs Have Passed Their Covid-19 Stress Test ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Online Grocers Are Getting a Preview of Their Future ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "U.S., China Trade Blame for Virus, Hampering Global Economy Rescue ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "What Will It Take to Flatten the Coronavirus Curve? ",
+            "keyword": "The Numbers"
+        },
+        {
+            "news_title": "Outside of Hospitals, the Rest of New York Feels \u2018Like the Twilight Zone\u2019",
+            "keyword": "New York"
+        },
+        {
+            "news_title": "Europe Tries to Salvage Decades of Integration as Coronavirus Shuts Borders ",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Pelosi\u2019s Lobbying Ban in Stimulus Bill Quickly Nixed by K Street and Senate ",
+            "keyword": "Washington Wire"
+        },
+        {
+            "news_title": "Coronavirus Pandemic Delays Testing of New Drugs",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Coronavirus Pandemic Changes Policing, Including Fewer Arrests",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Kirin Shareholders Reject Share Buyback in Blow to U.K. Investor",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "U.S. Coronavirus Cases Top China\u2019s",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        },
+        {
+            "news_title": "Casinos Shut by Coronavirus Get a Glimpse of the Future in Macau",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "U.S. Charges Venezuela\u2019s Maduro With Drug Trafficking",
+            "keyword": "Latin America"
+        },
+        {
+            "news_title": "U.S. Moving Forward With Rule to Limit Chips to Huawei ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "House Leaders Rush to Get Quorum for Vote on $2 Trillion Rescue Package",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Wine Stores Rethink Their Business as Coronavirus Curtails Daily Life",
+            "keyword": "Food & Drink"
+        },
+        {
+            "news_title": "Call Me Anytime\u2026No, Really, We\u2019re All Answering the Phone Again",
+            "keyword": "Journal Reports: Health Care"
+        },
+        {
+            "news_title": "Seven Kid-Friendly Songs That Won\u2019t Drive Parents Insane",
+            "keyword": "Journal Reports: Health Care"
+        },
+        {
+            "news_title": "SEC Enforcer Stanley Sporkin Cracked Down on Corporate Bribery ",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "Big Cruise-Ship Lines Won\u2019t Get Aid in Stimulus Package ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "U.S. Drops Proposal to Put Troops at Canadian Border ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Dow Rallies 6.4% After Stimulus Vote",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "Defining \u2018End of Life\u2019\u2014Nursing Home Visitor Ban Raises Difficult Questions ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Italy\u2019s Slow Progress in Fighting Coronavirus Is a Warning to West",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Jazz Meets Rock in an Intoxicating Potion",
+            "keyword": "Masterpiece"
+        },
+        {
+            "news_title": "How Fast the Economy Crashed and Washington Responded\u2014in Charts",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Fed\u2019s Bostic Says Central Bank Remains Ready to Add Support if Needed",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "States Explore More Vote-By-Mail Options to Cope With Coronavirus ",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "Kim Scott: A Workplace Attuned to the Humanity of Workers",
+            "keyword": "After the Pandemic"
+        },
+        {
+            "news_title": "Protests, Hunger Strikes Erupt Over Coronavirus in Immigration Detention ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Working From Home Hasn\u2019t Broken Internet",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Sal Khan: Online Education That Fits Each Child",
+            "keyword": "After the Pandemic"
+        },
+        {
+            "news_title": "The Apollo\u2019s Next Act: Expansion",
+            "keyword": "Journal Reports: Leadership"
+        },
+        {
+            "news_title": "Hobby Lobby President Says He Is Returning Antiquities to Iraq and Egypt ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Regulators Adjust U.S. Bank Capital Requirements to Encourage Lending",
+            "keyword": "Economy"
+        },
+        {
+            "news_title": "Portraying the Tudors, Then and Now",
+            "keyword": "Icons"
+        },
+        {
+            "news_title": "The Good News Is, You\u2019re CEO. The Bad News Is the Economy Is Shut Down.",
+            "keyword": "On Business"
+        },
+        {
+            "news_title": "Bank\u00a0of\u00a0Canada\u00a0Issues Half-Percentage Point Emergency Rate\u00a0Cut ",
+            "keyword": "Canada"
+        },
+        {
+            "news_title": "Pharma\u2019s Future Blockbusters Laid Up With Coronavirus",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "MLB, Players\u2019 Union Reach Deal on Salary, Service Time",
+            "keyword": "MLB"
+        },
+        {
+            "news_title": "Five Lives. Five Countries. Five Weeks. How Coronavirus Swept the Globe.",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Bee Wilson: The Return to Dining Together",
+            "keyword": "Essay"
+        },
+        {
+            "news_title": "The Restaurant at the Edge of the Coronavirus Pandemic",
+            "keyword": "Cross Country"
+        },
+        {
+            "news_title": "Old Age Is a Bummer for the Baby Boomers",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Pennsylvania, With Most Jobless Claims in U.S., Could Foretell High Numbers Elsewhere",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "\u2018Frank Ramsey\u2019 Review: The Most Genial Genius",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Dear Noted: Answering your questions, big and small, in the coronavirus era",
+            "keyword": "Noted"
+        },
+        {
+            "news_title": "Politics Books: Crises, Real and Imagined",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "A Hair Stylist\u2019s Survival Plan: Build a Digital Salon",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Banks Expect U.S. Crude\u2019s Worst Year Since 2003 ",
+            "keyword": "Oil Markets"
+        },
+        {
+            "news_title": "How an Author Is Relieving Stress During the Coronavirus Crisis",
+            "keyword": "How I Cope"
+        },
+        {
+            "news_title": "Two on Tiger Woods: Journey Back to the Leaderboard",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "\u2018What Stars Are Made Of\u2019 Review: A Life in Eclipse",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Fiction: Of Illness and Miracle",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Five Best: Hannah Rothschild on British Satires",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "As Infections Slow, South Korea Plans for Life After Social Distancing",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "Children\u2019s Books: Italy Revived, Holy Lives Revisited",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Mysteries: A Battle of Tourists & Librarians",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "China Clears Goldman Sachs, Morgan Stanley to Control Securities Units",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "The Lies We Tell at Work\u2014and the Damage They Do",
+            "keyword": "Journal Reports: Leadership"
+        },
+        {
+            "news_title": "David Byrne: Connect and Connect and Connect ",
+            "keyword": "Essay"
+        },
+        {
+            "news_title": "Mnuchin Expects Strong Economic Rebound After Coronavirus Shutdowns End ",
+            "keyword": "Economy"
+        },
+        {
+            "news_title": "Fed\u2019s Kaplan Sees Big Hit to Economy in Second Quarter, Path Of Recovery Uncertain After That",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Bestselling Books Week Ended March 21",
+            "keyword": "General News"
+        },
+        {
+            "news_title": "Who\u2019s Zooming Whom?",
+            "keyword": "Overheard"
+        },
+        {
+            "news_title": "New York Bars Now Serving Boozy Drinks \u2018To Go\u2019",
+            "keyword": "New York"
+        },
+        {
+            "news_title": "Trump Administration to Issue Guidelines for Classifying U.S. Counties by Coronavirus Risk",
+            "keyword": "Health Policy"
+        },
+        {
+            "news_title": "MIT Researchers Launch Coronavirus Location-Tracking Effort",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Is Anyone Still Shopping for Clothes During the Coronavirus?",
+            "keyword": "ON TREND"
+        },
+        {
+            "news_title": "Gynecologist Catherine Hamlin Healed Horrific Childbirth Wounds",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "Ticket Buyers for Tokyo Games Remain in Limbo",
+            "keyword": "Olympics"
+        },
+        {
+            "news_title": "Eric Schmidt: A Real Digital Infrastructure at Last",
+            "keyword": "After the Pandemic"
+        }
+    ]
+}

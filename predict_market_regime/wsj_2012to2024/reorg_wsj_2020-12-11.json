@@ -1,0 +1,505 @@
+{
+    "Date": "2020-12-11",
+    "News": [
+        {
+            "news_title": "U.S. Authorizes the First Vaccine to Fight Pandemic",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Roblox Delays IPO Until Next Year ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Pfizer\u2019s Covid-19 Vaccine: Distribution, Side Effects and Everything You Need to Know",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "How Pfizer Delivered a Covid Vaccine in Record Time: Crazy Deadlines, a Pushy CEO       ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Biden Cabinet Gets Mixed Grade So Far From Progressive Groups",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "California Seeks to Join Antitrust Case Against Google ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "DoorDash, Facebook, Walt Disney: Stocks That Defined the Week",
+            "keyword": "Stocks"
+        },
+        {
+            "news_title": "State Street, UBS in Talks to Merge Asset Management",
+            "keyword": "Deals"
+        },
+        {
+            "news_title": "Oracle Moves Headquarters to Texas ",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "FDA Advances Toward Covid-19 Vaccine Authorization ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Congress Approves Anti-Money-Laundering Measure",
+            "keyword": "Risk & Compliance Journal"
+        },
+        {
+            "news_title": "Alexa Has a New Skill: Asking When It Doesn\u2019t Know ",
+            "keyword": "Artificial Intelligence"
+        },
+        {
+            "news_title": "Senate Averts Shutdown as Covid-Aid Talks Continue",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "New York City Protesters Struck by Car ",
+            "keyword": "New York"
+        },
+        {
+            "news_title": "The Restaurant Lockdown Massacre",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Hong Kong\u2019s Freedom Fighters",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Another Green Subsidy Bust",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Misleading Washington\u2019s Voters on Race",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Tesla to Replace Real-Estate Stock in S&P 500 ",
+            "keyword": "Stocks"
+        },
+        {
+            "news_title": "Los Angeles County Pulls Nursing Homes From Federal Covid-19 Vaccine Plan ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Hollywood Learns to Love \u2018Churn\u2019",
+            "keyword": "Business World"
+        },
+        {
+            "news_title": "Is There a Doctor in the White House? Not if You Need an M.D.",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Coal Miner Blackjewel Accuses Ex-CEO of Self-Dealing  ",
+            "keyword": "Pro Bankruptcy Bankruptcy"
+        },
+        {
+            "news_title": "\u2018Strongmen\u2019 Review: Nostalgia, Virility  and Power",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "\u2018Alexander von Humboldt and the United States\u2019 Review: American Cosmos",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Two Books on Travels in the New North",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Facebook Lawsuit Is Career-Defining Act for FTC Chairman",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Senate Approves Defense-Policy Bill Despite Trump Veto Threat",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Leaders in Literature, Politics and Arts Share Their Favorite Books of 2020",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "An Old Friendship and a Communist Crackdown",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "Tech IPO Bonanza Yields Riches for Venture-Capital Firms",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "The Dicey Economics of Investing in Fossil Fuels Now",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "When the Stock Market Is Too Much Fun",
+            "keyword": "The Intelligent Investor"
+        },
+        {
+            "news_title": "S&P 500 Ends Lower on Stimulus Worries",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "Barr and the Perception of Electoral Fairness",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Civil Service Shouldn\u2019t Mean Unaccountable",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Honduran Authorities Disperse Migrant Caravan Heading to the U.S. ",
+            "keyword": "General News"
+        },
+        {
+            "news_title": "Managing Humanely in the Face of Covid-19 Lockdowns ",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Sanofi-GSK Covid-19 Vaccine Is \n\t\t\n\t\t\t\n\t\t\n\tSet Back by Lab Mistake",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Will There Be Second Stimulus Check Before Year\u2019s End? ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Biden Throws Vilsack Back Into USDA Food-Policy Fight",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Apple\u2019s Chip Dreams Haunt its Suppliers ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "The John Birch Society Is Doing Fine, Thank You",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Margaret Chase Smith and Telling Truth to Power",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Tony Blair Answered Lord Sutch",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Drug Modeler Certara Soars in Trading Debut",
+            "keyword": "Pro PE Deals"
+        },
+        {
+            "news_title": "Home-Equity Loans and Home-Equity Lines of Credit: How They Work and When to Use Them",
+            "keyword": "Personal Finance"
+        },
+        {
+            "news_title": "Coronavirus Debate: Should Lawmakers Get Vaccines Early?",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Call It a Wash (Saturday Crossword, December 12)",
+            "keyword": "Crossword"
+        },
+        {
+            "news_title": "Rows Garden (Saturday Variety Puzzle, December 12)",
+            "keyword": "Variety Puzzle"
+        },
+        {
+            "news_title": "Social Media in 2020: A Year of Misinformation and Disinformation",
+            "keyword": "Journal Reports: Year in Review"
+        },
+        {
+            "news_title": "Forget Brexit and Lockdowns. England Is Debating Pork Pies and Scotch Eggs.",
+            "keyword": "The A-hed"
+        },
+        {
+            "news_title": "What to Watch: 11 Movies and Shows to Stream This Week",
+            "keyword": "Screen Time"
+        },
+        {
+            "news_title": "The High-Tax End Run Around the Arizona Constitution",
+            "keyword": "Cross Country"
+        },
+        {
+            "news_title": "Netflix\u2019s True-Crime Character Assassination",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Disney\u2019s Sizzle Reel Sends Stock to New Highs",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "Xerox Makes Its Interim Finance Chief Permanent ",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "Sorting Out Tony Hsieh\u2019s Estate, From LLCs to Thousands of Sticky Notes ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Europe Faces Wait for Vaccination",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Norman Lear Finds Buyer for Longtime Los Angeles Estate",
+            "keyword": "Private Properties"
+        },
+        {
+            "news_title": "How to Get Started with Online Furniture Auctions: A Bargain Hunter\u2019s Guide",
+            "keyword": "Design"
+        },
+        {
+            "news_title": "Home Design for the Post-Covid-Pandemic Age",
+            "keyword": "Journal Reports: Year in Review"
+        },
+        {
+            "news_title": "Treasures of Judaica From the Sassoon Family Collection",
+            "keyword": "Icons"
+        },
+        {
+            "news_title": "Biden and Corporate Taxes: The Question Is How High?",
+            "keyword": "Journal Reports: Leadership"
+        },
+        {
+            "news_title": "50 Affordable Holiday Gifts for 2020 They\u2019ll Want to Use Right Away",
+            "keyword": "Life & Style"
+        },
+        {
+            "news_title": "German Audit Regulator Traded Wirecard Shares During Probe",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "MetLife to Sell Unit to Zurich for Nearly $4 Billion",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Covid-19 Vaccine Rollout Tripped Up by Rare but Serious Allergic Reactions",
+            "keyword": "U.K."
+        },
+        {
+            "news_title": "New York City Restaurants Ordered to Stop Indoor Dining ",
+            "keyword": "New York"
+        },
+        {
+            "news_title": "The Unexpected Lessons I Learned at Community College",
+            "keyword": "Education"
+        },
+        {
+            "news_title": "An Iconic Beacon Shines Anew",
+            "keyword": "Masterpiece"
+        },
+        {
+            "news_title": "Here Comes a K-Shaped Recovery",
+            "keyword": "Journal Reports: Leadership"
+        },
+        {
+            "news_title": "Money Managers Pledge Portfolios to Reach Zero Emissions by 2050 ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Markets Wake Up to Risks of Disruptive Brexit ",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "The Art of the Last-Minute Oil Deal ",
+            "keyword": "Overheard"
+        },
+        {
+            "news_title": "The Best Music of 2020: From Bob Dylan to Fiona Apple, Even Covid Couldn\u2019t Stop the Groove ",
+            "keyword": "Music Review"
+        },
+        {
+            "news_title": "Don\u2019t Judge a Holiday Gift by Its Cover: Perfect Packages Raise Hopes ",
+            "keyword": "The Numbers"
+        },
+        {
+            "news_title": "Vegetarian Chef Deborah Madison Doesn\u2019t Like to Preach",
+            "keyword": "Weekend Confidential"
+        },
+        {
+            "news_title": "Trump Wades Into Western Sahara Conflict With Morocco-Israel Deal",
+            "keyword": "Africa"
+        },
+        {
+            "news_title": "Consumer Sentiment Rose in Recent Weeks",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "Combination of AstraZeneca, Russian Vaccines to Undergo Trial ",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Ben & Jerry\u2019s in Winter? If You\u2019re Home Anyway, Why Not?",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "\u2018Ravenna\u2019 Review: Crossroads and Crucible",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "\u2018What Becomes a Legend Most\u2019 Review: Avedon\u2019s Vision",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Five Best: Essay Collections",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "A Local Police Chief Struggles to Bridge 2020\u2019s Bitter Divisions",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Investors Turn to SPACs for Clean-Energy Bets",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "The New Green Energy Giants Challenging Exxon and BP",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Far From Washington, Americans Are Finding Local Solutions",
+            "keyword": "The Saturday Essay"
+        },
+        {
+            "news_title": "What You Can Do to Protect Your Dependent-Care FSA Cash",
+            "keyword": "Ask Personal Journal"
+        },
+        {
+            "news_title": "For DoorDash and Airbnb, More Isn\u2019t Necessarily Merrier",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "How to Understand This Crazy Year in Investing\u2014and What to Do Now",
+            "keyword": "Journal Reports: Year in Review"
+        },
+        {
+            "news_title": "Walter E. Williams Rejected Conventional Cures for Poverty ",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "Christmas Decorations Are in Short Supply ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "The Covid-19 Vaccine: When Will It Be Available for You?",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Former Hong Kong Lawmaker Seeks Asylum in the U.S.",
+            "keyword": "China"
+        },
+        {
+            "news_title": "Assertive Turkey Muscles Into Russia\u2019s Backyard",
+            "keyword": "World"
+        },
+        {
+            "news_title": "The Ultimate Guide to Ski Style",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "China Detains Bloomberg News Staff Member in Beijing ",
+            "keyword": "China"
+        },
+        {
+            "news_title": "How Covid-19 Ripped Through the Baltimore Ravens",
+            "keyword": "NFL"
+        },
+        {
+            "news_title": "Despite Covid-19, Older People Are Still Happier",
+            "keyword": "Essay"
+        },
+        {
+            "news_title": "Editor in Chief Kristina O\u2019Neill on WSJ. Magazine\u2019s December 2020/January 2021 Issue",
+            "keyword": "Editor's Letter"
+        },
+        {
+            "news_title": "Ralph Steadman\u2019s Wild Life of Illustration: \u201cThe World Has Changed So Much\u201d",
+            "keyword": "Still Life"
+        },
+        {
+            "news_title": "A Tasteful Guide to Showing Winter Skin",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "Vaccines Face Challenge to Reach Most Vulnerable",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Brandon Bernard Executed Despite Protests",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Disney, Tesla, MetLife: What to Watch When the Stock Market Opens Today",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "House Maps Show Americans Growing Apart",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "FDA Panel Clears Path for Authorizing Pfizer Covid-19 Shot",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Ghost-Gun Company Raided by Federal Agents",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "MLS, the Pandemic and a Very Long Season",
+            "keyword": "Soccer"
+        },
+        {
+            "news_title": "Disney May Finally Make Netflix Sweat",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Covid-19 Vaccine Makers Turn Toward Testing Children ",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Hong Kong Police Charge Media Mogul Jimmy Lai With Foreign Collusion",
+            "keyword": "China"
+        },
+        {
+            "news_title": "SoftBank\u2019s Rocky Year Ends on a Winning Streak",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Oil\u2019s Recovery Is No Sure Thing    ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "New Vacation-Homes Sites That Cater to Millennials",
+            "keyword": "Off Duty Travel"
+        },
+        {
+            "news_title": "Israelis Flock to the Gulf, Undeterred by Warning of Iranian Attacks",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "To Sell Luxury Online, Deep Pockets Matter More Than Ever",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Dylan\u2019s Catalog Sale Shows a Tax Advantage for Songwriters",
+            "keyword": "Tax Report"
+        },
+        {
+            "news_title": "Whose Workers Are Most Essential? Big Industries Vie for Vaccine Priority",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Earmarks Get Makeover Before Possible Return",
+            "keyword": "Washington Wire"
+        },
+        {
+            "news_title": "Why Covid-19 Home-Based Testing Could Make All the Difference ",
+            "keyword": "Journal Reports: Year in Review"
+        },
+        {
+            "news_title": "Russia Struggles to Make Promised Doses of Its Sputnik V Covid-19 Vaccine    ",
+            "keyword": "Russia"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        }
+    ]
+}

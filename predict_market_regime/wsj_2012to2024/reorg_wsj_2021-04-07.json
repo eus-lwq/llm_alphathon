@@ -1,0 +1,485 @@
+{
+    "Date": "2021-4-7",
+    "News": [
+        {
+            "news_title": "CBS Cuts Ties With Executives Amid Allegations of Hostile Workplace",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "Global IT Spending Expected to Rise 8.4% to $4.1 Trillion This Year ",
+            "keyword": "CIO Journal"
+        },
+        {
+            "news_title": "Credit-Card Startup Petal Hires New Chief Compliance Officer ",
+            "keyword": "Risk & Compliance Journal"
+        },
+        {
+            "news_title": "New York Taxes Go Skyscraper High",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "The Permanent Housing Crisis",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Why Are Home Prices Soaring?",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Woman Versus the Union Machine",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Suspected China Hack of Microsoft Shows Signs of Prior Reconnaissance",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Justice Breyer Lays Out Opposition to Expanding Supreme Court",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Marin County\u2019s Discriminatory \u2018Universal Basic Income\u2019",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "CEOs\u2019 Selective Virtue Signaling",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "To Counter Beijing, Send In the Coast Guard",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Teddy Roosevelt\u2019s Advice for Those Who Get College Rejections",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "\u2018High Conflict\u2019 Review: When Push Comes to Shove",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Yes, Boycott Baseball",
+            "keyword": "Wonder Land"
+        },
+        {
+            "news_title": "Ron DeSantis and \u2018Resistance Journalism\u2019",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "\u2018Promises\u2019 by Floating Points, Pharoah Sanders and The London Symphony Orchestra Review: Across Genres and Generations",
+            "keyword": "Music Review"
+        },
+        {
+            "news_title": "StockX Valued at $3.8 Billion, Lets Employees Sell Shares",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Mall Owner Explores Debt Restructuring for New York\u2019s Largest Shopping Center",
+            "keyword": "Pro Bankruptcy Distress"
+        },
+        {
+            "news_title": "\u2018Invisible Beauty: The Art of Archaeological Science\u2019 Review: More Than Meets the Eye",
+            "keyword": "Exhibition Review"
+        },
+        {
+            "news_title": "S&P 500 Edges Higher to Record",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "Buyout Firms Team Up on More Than $15 Billion KPN Bid",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "AstraZeneca Vaccine Gets Hit With More Setbacks in U.K., Europe",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Top Colleges in the Midwest by Size",
+            "keyword": "Journal Reports: College Rankings"
+        },
+        {
+            "news_title": "Cruise Industry Spars With CDC Over How to Restart Sailings",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Pence to Publish Autobiography With Simon & Schuster ",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "Biden Urges Broad View of Infrastructure in $2.3 Trillion Plan",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Doing Your Taxes? Download the WSJ Tax Guide 2021",
+            "keyword": "Personal Finance"
+        },
+        {
+            "news_title": "Biden Administration Restoring Aid to Palestinians ",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "Actor Zachary Horwitz Arrested Over Alleged Hollywood Ponzi Scheme ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Cathie Wood Extends Hot Streak With Space ETF ",
+            "keyword": "Stocks"
+        },
+        {
+            "news_title": "Lawyers in Derek Chauvin\u2019s Trial Argue Over George Floyd\u2019s Words",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "McConnell Backs Off Warning to Corporate America on Politics ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Switch Hitters (Thursday Crossword, April 8)",
+            "keyword": "Crossword"
+        },
+        {
+            "news_title": "The Beijing Games Are Giving the Biden Administration an Olympic-Sized Headache",
+            "keyword": "Olympics"
+        },
+        {
+            "news_title": "Former BuzzFeed Chairman Sells Miami Mansion for $25 Million",
+            "keyword": "Private Properties"
+        },
+        {
+            "news_title": "Georgia Law: Does Wokeness Move Product?",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Union and Workers\u2019 Goals Sometimes Differ",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Vaccine Policy: U.S. vs. EU",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Biden Softens Tax Plan for Highly Profitable Businesses",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Biden\u2019s Infrastructure Plan Seeks to Ease Housing Shortage With Looser Zoning Rules",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "New Mexico Makes It Easier to Sue Police",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Baylor\u2019s Long Road to Its First Men's Basketball National Championship",
+            "keyword": "College Basketball"
+        },
+        {
+            "news_title": "Fed Minutes Show Expectations for Stronger Economic Recovery",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "What to Watch: 14 Movies and Series to Stream This Week",
+            "keyword": "Screen Time"
+        },
+        {
+            "news_title": "AutoStore\u2019s SoftBank Backing to Spur Warehouse Robotics Expansion in Asia ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Gambling on Golf Is About to Explode",
+            "keyword": "Journal Reports: Leadership"
+        },
+        {
+            "news_title": "G-20 to Seek Agreement on Global Minimum Tax Rate by Mid-2021 ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Instacart, DoorDash Plan Their Own Credit Cards",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Golf Courses Target Those Who Think 18 Holes Is Just Too Many",
+            "keyword": "Journal Reports: Leadership"
+        },
+        {
+            "news_title": "A Closer Look",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "What We Know About Tiger Woods's Car Crash",
+            "keyword": "Golf"
+        },
+        {
+            "news_title": "Tiger Woods\u2019s Car Crash Was Caused by Unsafe Speeding",
+            "keyword": "Golf"
+        },
+        {
+            "news_title": "General Mills CFO Looks to Reduce External Manufacturing Once Demand Levels Off ",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "A Seaside Mansion Finds a Second Life as a \u2018Family Home\u2019",
+            "keyword": "Homes"
+        },
+        {
+            "news_title": "When Will Liberals Reclaim Free Speech?",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "A Better Corporate Tax for America",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "How Florida Averted a Flood at Piney Point Phosphate Plant Reservoir ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Augusta National Chairman Addresses Calls for Masters Boycott Over Georgia Law",
+            "keyword": "Golf"
+        },
+        {
+            "news_title": "Supreme Court Decision Affirms Open-Source\u2019s Role in Modern Software Development ",
+            "keyword": "CIO Journal"
+        },
+        {
+            "news_title": "Meet the Chatbots That Might Manage Your Money One Day",
+            "keyword": "The Future of Everything | Money & Finance"
+        },
+        {
+            "news_title": "Golfers Can Now Get Data. And More Data.",
+            "keyword": "Journal Reports: Leadership"
+        },
+        {
+            "news_title": "Friends in the Golden Years",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Florida-Bound Financier Lists for $55 Million in Greenwich",
+            "keyword": "Private Properties"
+        },
+        {
+            "news_title": "Big Tech Companies Prosper Despite Chip Shortage ",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "A Classic Waterfront Greenwich Estate",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "When Friends Move Next Door",
+            "keyword": "Homes"
+        },
+        {
+            "news_title": "What You Need to Know About Your Covid-19 Vaccine Card    ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "SEC Official Warns on Growth of Blank-Check Firms ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Jamie Dimon Says JPMorgan Won\u2019t Go Remote After the Pandemic ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Egypt, Ethiopia Tensions Escalate as Nile Dam Talks Falter",
+            "keyword": "Africa"
+        },
+        {
+            "news_title": "Crowded Ports, Weather Dented U.S. Exports in February",
+            "keyword": "Economic Data"
+        },
+        {
+            "news_title": "Machines That Shop for Themselves Promise to Save Time and Money",
+            "keyword": "The Future of Everything | Money & Finance"
+        },
+        {
+            "news_title": "Patreon\u2019s Valuation Triples to $4 Billion as Creators, Fans Connect  ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Could You Go for a Month Without Coffee?",
+            "keyword": "The A-hed"
+        },
+        {
+            "news_title": "Startup Behind AstraZeneca Covid-19 Vaccine Plans to File Publicly for U.S. IPO Within Days",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Instagram\u2019s Plan for Kids Met With Hostile Response ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Luxury Lodges Designed for Outdoor Adventures",
+            "keyword": "Off Duty Travel"
+        },
+        {
+            "news_title": "Most Big Debt Collectors Backed Off During the Pandemic. One Pressed Ahead.",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "The Biggest Issues Facing Golf: The Departing USGA CEO Offers His Take",
+            "keyword": "Journal Reports: Leadership"
+        },
+        {
+            "news_title": "The Political Battle Over Poland\u2019s Holocaust History",
+            "keyword": "Essay"
+        },
+        {
+            "news_title": "A Closer Look",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "How Sharon Horgan Aims to Make a Global Audience Laugh With \u2018Frank of Ireland\u2019",
+            "keyword": "Television"
+        },
+        {
+            "news_title": "Facebook\u2019s Data Breaches Don\u2019t Matter, Until They Do",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Norway\u2019s Stock Investing Behemoth Signals Shift to Active Management",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "How Bidenomics Seeks to Remake the Economic Consensus ",
+            "keyword": "Capital Account"
+        },
+        {
+            "news_title": "Beyond Meat, DraftKings, Carnival: What to Watch When the Stock Market Opens Today",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "iPhone Apps Asking to Track You? Your Questions Answered",
+            "keyword": "Personal Tech"
+        },
+        {
+            "news_title": "The Key to Safe Airflow for Planes Before Takeoff",
+            "keyword": "The Middle Seat"
+        },
+        {
+            "news_title": "China\u2019s Cosco Shipping Expects Profit Surge as Industry Flourishes",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Borrowed Money Is Driving Stock Gains",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "This NFL Superstar Wants to Host 'Jeopardy!' Full Time",
+            "keyword": "Jason Gay"
+        },
+        {
+            "news_title": "Got Your Covid-19 Vaccine? Now Cancel Your Extra Appointments ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "The Anxiety of Getting Back into Beauty Routines",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "Self-Driving Cars May Be Too Speculative Even for This Market",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "New York City\u2019s Deadliest Day From Covid-19 Hit One Year Ago    ",
+            "keyword": "New York"
+        },
+        {
+            "news_title": "Biden Rule on Covid-19 Workplace Safety Misses Deadline",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Chip Shortage Fuels $100 Billion Dream",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "The Dollar Bond Binge Will Come Home to Roost Even Without a Blow-Up",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Shell Warns Oil-Price Gains Partly Offset by Hit From Texas Freeze ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Stephen Miller\u2019s Next Act Finds a Stage in the Courts ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "JPMorgan CEO Jamie Dimon Sees \u2018Goldilocks Moment\u2019 for U.S. Economy",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Intel Backs Video Data Firm Offering an Ad-Targeting Alternative to Cookies ",
+            "keyword": "CMO Today"
+        },
+        {
+            "news_title": "China\u2019s Sportswear Giants Enjoy Big Market Run-Up",
+            "keyword": "Stocks"
+        },
+        {
+            "news_title": "George Floyd\u2019s Family: What It Is Like to Watch the Trial",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "What Amazon\u2019s Alabama Union Vote Means for the Company and Workers",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Fed\u2019s Kaplan Says the Economy Still Needs Central Bank Support",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Transcript: WSJ Interview With Dallas Fed President Robert Kaplan",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Tennis Star Sloane Stephens Brings Her Competitive Ethos to Startup Investing",
+            "keyword": "Pro VC Industry News"
+        },
+        {
+            "news_title": "Ship Thought to Be Spying for Iran Is Attacked in Red Sea",
+            "keyword": "National Security"
+        },
+        {
+            "news_title": "Toshiba Considers Buyout Offer",
+            "keyword": "Deals"
+        },
+        {
+            "news_title": "Biden Says All U.S. Adults Should Be Eligible for Vaccine by April 19 ",
+            "keyword": "Health Policy"
+        },
+        {
+            "news_title": "BlackRock Must Hit ESG Targets or Pay More to Borrow Money",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Samsung Expects Operating Profit Rose 44% in First Quarter",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        },
+        {
+            "news_title": "Netanyahu Given Another Try at Forming a Government ",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "Ivy League Acceptance Rates Fall to Record Lows Due to Covid-19",
+            "keyword": "Education"
+        },
+        {
+            "news_title": "Bezos Backs Corporate Tax-Rate Increase and Infrastructure Plan ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Longtime Congressman Alcee Hastings Dies at 84 ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Former Gunvor Employee Pleads Guilty in Ecuadorean Bribery Scheme",
+            "keyword": "Risk & Compliance Journal"
+        }
+    ]
+}

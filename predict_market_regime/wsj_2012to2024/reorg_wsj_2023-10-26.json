@@ -1,0 +1,381 @@
+{
+    "Date": "2023-10-26",
+    "News": [
+        {
+            "news_title": "Western Allies Urge Caution as Israel Moves Closer to Ground Invasion",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "U.S. Launches Strikes on Suspected Iran-Supported Bases in Syria",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "Selling a Haunted Home? That\u2019s Between You and the Ghosts",
+            "keyword": "Homes"
+        },
+        {
+            "news_title": "Manhunt Drags On After Maine Shootings Leave 18 Dead",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Amazon\u2019s Profit Triples as Sales Show Resilience",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Ford Retrenches Further on EVs Amid Demand Uncertainty",
+            "keyword": "Earnings"
+        },
+        {
+            "news_title": "Apple Faces Potential Watch Import Ban After Federal Trade Ruling",
+            "keyword": "Consumer Technology"
+        },
+        {
+            "news_title": "Sam Bankman-Fried Says FTX Actions Were Guided by Lawyers",
+            "keyword": "Cryptocurrency"
+        },
+        {
+            "news_title": "U.S. Worries About Escalation in Pacific as China Steps Up Confrontation",
+            "keyword": "China"
+        },
+        {
+            "news_title": "The Third Quarter GDP Boom",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Ford Pays Dearly for Labor Peace With the UAW",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "When the Justice Department Spied on Congress",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Ted Pick, Morgan Stanley\u2019s New CEO, Is a Math Whiz Among Math Whizzes",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Intel Sees Budding PC Recovery, AI Boost Despite Dropping Sales",
+            "keyword": "Earnings"
+        },
+        {
+            "news_title": "If It Moves, the SEC Regulates It",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Maine Shooting Suspect Robert Card Heard Voices, Received Mental-Health Care Before Massacre",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Israel Tries to Part the Fog of War",
+            "keyword": "Declarations"
+        },
+        {
+            "news_title": "Blackstone Investment Strategist Byron Wien Dies at 90",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "\u2018The Holdovers\u2019 Review: Alexander Payne\u2019s Woebegone Winter",
+            "keyword": "Film Review"
+        },
+        {
+            "news_title": "\u2018The Killer\u2019 Review: Michael Fassbender\u2019s Arrogant Assassin",
+            "keyword": "Film Review"
+        },
+        {
+            "news_title": "Brad Pitt, Idris Elba and Chris Hemsworth Have Worn Henleys. But Can Only Ripped Guys Pull Them Off?",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "\u2018The Enfield Poltergeist\u2019 Review: Paranormal Possibilities",
+            "keyword": "Television Review"
+        },
+        {
+            "news_title": "Biden\u2019s Supplemental War Games",
+            "keyword": "Potomac Watch"
+        },
+        {
+            "news_title": "Down With Halloween\u2019s Ironic Death Cult",
+            "keyword": "Houses of Worship"
+        },
+        {
+            "news_title": "\u2018Opposable Thumbs\u2019 Review: The Very Best of Enemies",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "\u2018Suitable Flesh\u2019 Review: Heather Graham Goes Grotesque",
+            "keyword": "Film review"
+        },
+        {
+            "news_title": "\u2018Here We Are\u2019 Review: Stephen Sondheim\u2019s Satirical Finale",
+            "keyword": "Theater Review"
+        },
+        {
+            "news_title": "The UAW-Ford Deal: What\u2019s in the Contract, Who Won and What It Means for GM, Stellantis",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "\u2018The War on Disco\u2019 Review: Savaging the \u201970s",
+            "keyword": "Television Review"
+        },
+        {
+            "news_title": "Microsoft Replaces Longtime CMO as It Enters \u2018New Era of AI\u2019",
+            "keyword": "CMO Today"
+        },
+        {
+            "news_title": "Russian Authorities Charge U.S. Journalist With Evading Foreign Agent Law",
+            "keyword": "Russia"
+        },
+        {
+            "news_title": "Daniel Cameron Chases Bluegrass Blue Dog Andy Beshear",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Is Red Wine Actually Better Than White? The Question Is More Controversial Than You Might Think",
+            "keyword": "On Wine"
+        },
+        {
+            "news_title": "New Speaker Mike Johnson\u2019s To-Do List: A Looming Funding Deadline and Israel, Ukraine Aid",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Friendship Is Precious. \u2018Allyship\u2019 Is Treacherous",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "I Backed Trump, but Now I\u2019m for Haley",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "The Market, Not the Realtor, Sets the Price",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Who Will Pay a Price for Iranian Terrorism?",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Where Does the Pope Look for Moral Clarity\u2014Up or Left?",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Did the Monetarists Forget About the Velocity of Money?",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Why I Sat Out the 2012 Election",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "U.S. Economy\u2019s Summer Surge May Not Last",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "C.S. Lewis on Two Types of Tyranny",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Judge Orders Georgia to Redraw District Maps",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Silverstein Properties Parts Ways With CEO Marty Burger",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "How Patrick McHenry Kept House Running After GOP\u2019s \u2018Political Suicide\u2019",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Tech Selloff Intensifies, Pulling Down Nasdaq",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "Marijuana Businesses Seek to Make Federal Restrictions Go Up in Smoke",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "These 11 Videogames Make Working Out Actually Fun",
+            "keyword": "Gear & Gadgets"
+        },
+        {
+            "news_title": "Deathtrap (Friday Crossword, October 27)",
+            "keyword": "Crossword Contest"
+        },
+        {
+            "news_title": "\u2018Tush\u2019: A Rear End Gets Pushed as a Football Strategy",
+            "keyword": "Word on the Street"
+        },
+        {
+            "news_title": "Muslims and Jews Report Rising Harassment in U.S., Advocacy Groups Say",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "WSJ Reporter Evan Gershkovich Marks 32nd Birthday in Russian Prison",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Marriage as a Mirror of Human Nature",
+            "keyword": "historically speaking"
+        },
+        {
+            "news_title": "Former Inspectors of Public-Company Audits Say Process Needs Retooling",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "Mexico Begins Rescue Work After Hurricane Otis Devastates Acapulco",
+            "keyword": "Latin America"
+        },
+        {
+            "news_title": "An $8 Million Renovation Turned This Once-Rundown New England Home Into a Seaside Sanctuary",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "U.S. Trade Loophole Fuels Rise of China\u2019s New E-Commerce Firms",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Bestselling Books Week Ended October 21",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "The Chinese Financial Crisis Nobody\u2019s Talking About",
+            "keyword": "Political Economics"
+        },
+        {
+            "news_title": "\u2018Soft Targets\u2019 From 9/11 to Lewiston, Maine",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Like Smoky Mezcal or Scotch? You\u2019ll Love These 4 Cozy Cocktail Spirits",
+            "keyword": "Food & Drink"
+        },
+        {
+            "news_title": "Moncler Sales Growth Slowed Over Summer Season",
+            "keyword": "Earnings"
+        },
+        {
+            "news_title": "The Spaulding Smails Democrats Get a New Speaker",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "Trump\u2019s Bad Week: Ex-Advisers Line Up Against Him",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "There\u2019s a Pub and a Horse Barn\u2014But It\u2019s a Kangaroo Named Irwin That Has Home Buyers Talking",
+            "keyword": "In The Trenches"
+        },
+        {
+            "news_title": "ECB Ends Record Run of Rate Increases",
+            "keyword": "Europe Economy"
+        },
+        {
+            "news_title": "Jeep Maker Stellantis Bets on a Chinese EV Startup, but Is It the Right One?",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "What Will the Economy Do for an Encore?",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Walter Hood Wants to Change What It Means to Go Outside",
+            "keyword": "Style"
+        },
+        {
+            "news_title": "Forward Air Says It May Drop Proposed Omni Takeover",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Long Misunderstood, Baked Beans Are Busting Loose",
+            "keyword": "a-hed"
+        },
+        {
+            "news_title": "Smuggling Migrants Toward the U.S. Is a Booming Business",
+            "keyword": "Latin America"
+        },
+        {
+            "news_title": "Number Puzzles (Saturday, October 28)\n",
+            "keyword": "Number Puzzles"
+        },
+        {
+            "news_title": "Climate Activists Want SEC to Copy California, Europe",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "GOP Senators Propose Bill Splitting Off Israel Aid From Ukraine Funding",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "A \u2018New\u2019 Beatles Song Reunites the Voices of John, Paul, George and Ringo",
+            "keyword": "Essay"
+        },
+        {
+            "news_title": "How to Enroll in Medicare Plans for 2024: Answers to Your Questions",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Ukraine Hangover Makes European Banks Look Rougher than They Are",
+            "keyword": "heard on the street"
+        },
+        {
+            "news_title": "The Cannabis That People Are Using for Anxiety Is Probably Making It Worse",
+            "keyword": "Health & Wellness"
+        },
+        {
+            "news_title": "The World Series Without Baseball\u2019s Best Teams or Best Players",
+            "keyword": "MLB"
+        },
+        {
+            "news_title": "\u2018Guided Missile Drugs\u2019 Could Be Big Pharma\u2019s Secret Weapon",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "The App Store\u2014But For Cars\u2014May Not Be Far Off",
+            "keyword": "CIO Journal"
+        },
+        {
+            "news_title": "Those New Online Returns Fees Are Driving Away Shoppers",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Meta\u2019s New Year of Efficiency Won\u2019t Look Like the Old One",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Sell Your Loser Stocks\u2014and Other Year-End Tax Moves to Consider",
+            "keyword": "Journal Reports: Wealth Management"
+        },
+        {
+            "news_title": "Colleges and Leftist Groups Have Embraced the Idea of \u2018Settler Colonialism\u2019",
+            "keyword": "essay"
+        },
+        {
+            "news_title": "With Interest Rates Up, Get Ready for Financial Drama",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Pro Take: Inflation Fears Still Grip Even as Price Pressures Ease",
+            "keyword": "Central Banks Commentary"
+        },
+        {
+            "news_title": "Soccer\u2019s LeBron James Has Arrived",
+            "keyword": "Soccer"
+        },
+        {
+            "news_title": "At Least 22 People Killed in Maine Shootings, Law-Enforcement Official Says",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Xi Jinping Is Looking for Someone to Blame for China\u2019s Property Bust",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "At \u2018Little Gaza,\u2019 Israeli Soldiers Await the Order to Invade",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        }
+    ]
+}

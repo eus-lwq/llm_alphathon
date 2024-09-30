@@ -1,0 +1,933 @@
+{
+    "Date": "2017-9-21",
+    "News": [
+        {
+            "news_title": "How Much Is Your College Football Team Worth?",
+            "keyword": "College Football"
+        },
+        {
+            "news_title": "The German Race That Is Expected to Go Down to the Wire",
+            "keyword": "Sports"
+        },
+        {
+            "news_title": "Philadelphia Fed Index Shows Improved Manufacturing Conditions",
+            "keyword": "Economic Data"
+        },
+        {
+            "news_title": "S&P Lowers China\u2019s Credit Rating ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Ranking Says New York Is No. 1 in Museums, but Not Much Else",
+            "keyword": "Travel"
+        },
+        {
+            "news_title": "Trump Plan to Open Up Monuments Draws Industry Praise, Environmentalists\u2019 Ire",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Makers of Fuel-Guzzling Big Rigs Try to Go Green",
+            "keyword": "Autos Industry"
+        },
+        {
+            "news_title": "EU Preps Tax Crackdown on Silicon Valley",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Le Pen Dumps Chief Euroskeptic, Signaling Shift for National Front",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Duterte Dogged in Face of Growing Enmity Over Philippine Drug War",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "BOJ Rookie Dissents at Debut Meeting",
+            "keyword": "Japan"
+        },
+        {
+            "news_title": "U.S. Dollar Is Higher",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "CMO Today: Facebook Changes Ad Systems; comScore Criticism; Sports Rights Get Pricey",
+            "keyword": "CMO Today Newsletter"
+        },
+        {
+            "news_title": "Adveq CEO Leaves Firm Following Sale to Schroders",
+            "keyword": "Pro PE People"
+        },
+        {
+            "news_title": "SEC: Edgar Was Hacked in 2016 | Equifax Breach Began in March | Tracy\u2019s Take: On Rule Changes, Don\u2019t Forget the FDIC",
+            "keyword": "Pro Financial Regulation Newsletter"
+        },
+        {
+            "news_title": "Falfurrias Backs Maker of Safety Equipment",
+            "keyword": "Pro PE Deals"
+        },
+        {
+            "news_title": "Waud Adds Anovia to New Payments Platform",
+            "keyword": "Pro PE Deals"
+        },
+        {
+            "news_title": "IT Services Provider Secure-24 Explores a Sale",
+            "keyword": "Pro PE Deals"
+        },
+        {
+            "news_title": "U.S. Complaints on Iran Deal Put EU Under Pressure",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Cyber Matters: Barclays Aims for Holistic Security with New Division",
+            "keyword": "Pro Cyber Commentary & Analysis"
+        },
+        {
+            "news_title": "Fed Keeps December Rate Rise on the Table | Officials Lower Rate Estimates | BOJ Sticks With Easy Money | ECB to Publish New Overnight Lending Rate | Harrison\u2019s Take: Janet Yellen\u2019s Better-Safe-Than-Sorry Doctrine",
+            "keyword": "Pro Central Banks Newsletter"
+        },
+        {
+            "news_title": "Reassurances from Hacked Companies Offer Little Comfort ",
+            "keyword": "Pro Cyber Commentary & Analysis"
+        },
+        {
+            "news_title": "Editor\u2019s News Picks",
+            "keyword": "Pro Cyber Editor Picks"
+        },
+        {
+            "news_title": "Tracy\u2019s Take: On Rule Changes, Don\u2019t Forget the FDIC",
+            "keyword": "Financial Regulation"
+        },
+        {
+            "news_title": "Biotech Boosts Hopes for Long-Suffering IPO Market",
+            "keyword": "Pro VC Commentary Analysis"
+        },
+        {
+            "news_title": "Lim\u2019s Take: Family Offices Wait in Shadows At Pricey Time for Deals ",
+            "keyword": "Pro PE Commentary Analysis"
+        },
+        {
+            "news_title": "Lim\u2019s Take: Family Offices Wait in Shadows At Pricey Time for Deals",
+            "keyword": "Pro PE Newsletter"
+        },
+        {
+            "news_title": "Davis\u2019s Take: Venture Firms Once Again on Outside Looking In",
+            "keyword": "Pro VC Commentary Analysis"
+        },
+        {
+            "news_title": "Venture Firms Once Again on Outside Looking In",
+            "keyword": "Pro VC Newsletter"
+        },
+        {
+            "news_title": "Food-Delivery Consolidation Begins ",
+            "keyword": "Pro VC Commentary Analysis"
+        },
+        {
+            "news_title": "Harrison\u2019s Take: Janet Yellen\u2019s Better-Safe-Than-Sorry Doctrine",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Insurance Companies and Financial Markets",
+            "keyword": "Central Banks Research"
+        },
+        {
+            "news_title": "Fed Keeps December Rate Rise on the Table | Officials Lower Rate Estimates | BOJ Sticks With Easy Money | ECB to Publish New Overnight Lending Rate | Harrison\u2019s Take: Janet Yellen\u2019s Better-Safe-Than-Sorry Doctrine",
+            "keyword": "Pro Central Banks Newsletter"
+        },
+        {
+            "news_title": "Tuition.io Scores $7 Million for Student Loan Repayment Assistance Software",
+            "keyword": "Pro VC New Money"
+        },
+        {
+            "news_title": "HuffPost Goes on $1 Million Bus Tour to Promote New, Anti-Elitist Mission",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "Trump\u2019s Antitrust Chief Nomination Is Held Up in Senate  ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Bank of Japan Sticks With Easy-Money Settings",
+            "keyword": "Japan"
+        },
+        {
+            "news_title": "Today\u2019s Top Supply Chain and Logistics News From WSJ",
+            "keyword": "WSJ Logistics Report"
+        },
+        {
+            "news_title": "SEC: Edgar Was Hacked in 2016 | Equifax Breach Began in March | Tracy\u2019s Take: On Rule Changes, Don\u2019t Forget the FDIC",
+            "keyword": "Pro Financial Regulation Newsletter"
+        },
+        {
+            "news_title": "Gold Loses Ground as Fed Stays on Rate-Rise Path",
+            "keyword": "Precious Metals"
+        },
+        {
+            "news_title": "The 10-Point: Gerard Baker on Fed policy, a hack at the SEC, Merkel\u2019s magic and more",
+            "keyword": "The 10-Point"
+        },
+        {
+            "news_title": "Norway\u2019s Central Bank Sees No Rate Rise Before 2019 ",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "The Thin Line Between Innovation and Irritation",
+            "keyword": "China Circuit"
+        },
+        {
+            "news_title": "North Korea Nuclear Threats Don\u2019t Stop Aid From South",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "Taiwan Central Bank Leaves Rates Unchanged",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Anti-Immigrant Party Draws In More Germans as Vote Nears",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Wall Street\u2019s Newest Puzzle: What Passive Buying and Selling Means for Individual Stocks",
+            "keyword": "ETFs"
+        },
+        {
+            "news_title": "Energy Alliance Propels Russia-Saudi Cooperation",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Chechnya\u2019s Kadyrov Seeks Global Muslim Role",
+            "keyword": "Middle East Crossroads"
+        },
+        {
+            "news_title": "Critics of GOP\u2019s Health-Law Repeal Effort Rush to Mobilize",
+            "keyword": "Health Policy"
+        },
+        {
+            "news_title": "U.N. Aviation Arm Seeks to Establish Global Drone Guidelines ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Russian-Bought Ads on Facebook Spur Calls for Tighter Rules ",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Philippine Central Bank Keeps Policy Rates Unchanged",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "It\u2019s Not Your Typical Stock, But It\u2019s Up 160% ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "What Google Wants With HTC\u2019s Smartphone Business",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Kuroda: Current Framework Is Sufficient for 2% Inflation",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Red Cross Aid Truck for Rohingya Refugees Crashes in Bangladesh",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "Have Bitcoin, Can\u2019t Travel: Crackdown Grounds Cryptocurrency Executives ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Bank Indonesia Expected to Stand Pat on Rates",
+            "keyword": "null"
+        },
+        {
+            "news_title": "RBA Chief Says Australia on Track for Higher Growth",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "BlackRock to Sell Singapore Office Tower for Nearly $1.6 Billion",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Pointy Raises $6 Million to Move Local Stores Online",
+            "keyword": "Pro VC New Money"
+        },
+        {
+            "news_title": "Commonwealth Bank Sells Life-Insurance Businesses for $3 Billion",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Myanmar Violence Against Rohingya Sparks a Growing Outcry at U.N. Gathering ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Gambia, Zambia\u2026Nambia? Trump Creates New Country",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Born on the Run: How a Pregnant Refugee Fled Myanmar\u2019s Killing Fields ",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "U.S. Bond Prices Slip",
+            "keyword": "Credit Markets"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        },
+        {
+            "news_title": "Trump\u2019s Bipartisan Outreach Gets Strong Support in New Poll",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Rizzo\u2019s Take: Holiday Season No Longer Beacon of Hope for Retailers",
+            "keyword": "Pro Bankruptcy Newsletter"
+        },
+        {
+            "news_title": "From Rubble and Ruin, a Mexican Town Wonders How to Rebuild After the Earthquake ",
+            "keyword": "Latin America"
+        },
+        {
+            "news_title": "SEC Discloses Edgar Corporate Filing System Was Hacked in 2016",
+            "keyword": "Financial Regulation"
+        },
+        {
+            "news_title": "China\u2019s Postal Savings Bank Taps Overseas Investors",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Photos of the Day: Sept. 20",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Mexican Schoolchildren Trapped After Earthquake ",
+            "keyword": "Latin America"
+        },
+        {
+            "news_title": "Japan Stocks Rally, Rest of Asia Ticks Down ",
+            "keyword": "Stocks"
+        },
+        {
+            "news_title": "Hackers Entered Equifax Systems in March ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Oil Futures Maintain Overnight Gains Ahead of OPEC Meeting",
+            "keyword": "Oil Markets"
+        },
+        {
+            "news_title": "McConnell Plans Vote on GOP Health Bill Next Week",
+            "keyword": "Health Policy"
+        },
+        {
+            "news_title": "States Team Up To Fight Climate Change       ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Florida Suspends License of Nursing Home Tied to Eight Deaths",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "In Mexico Quake, Geography and Building Codes Had Key Roles",
+            "keyword": "Latin America"
+        },
+        {
+            "news_title": "Oil Prices Stall After Recent Rally",
+            "keyword": "Oil Markets"
+        },
+        {
+            "news_title": "Photos: Mexico Searches for Earthquake Survivors",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Q&A: How the Graham-Cassidy Plan Would Change Health Coverage",
+            "keyword": "Health Policy"
+        },
+        {
+            "news_title": "Even in Staid Germany, Protest Parties Poised to Gain Ground",
+            "keyword": "Brussels Beat"
+        },
+        {
+            "news_title": "Dollar Stalls After Fed Decision",
+            "keyword": "Foreign Exchange"
+        },
+        {
+            "news_title": "Get a Classic Dutch Pottery Pattern\u2014on Your Walls and Drapes",
+            "keyword": "Fresh Picks"
+        },
+        {
+            "news_title": "Toys \u2018R\u2019 Us Bondholders Provide Bankruptcy Loan to International Unit",
+            "keyword": "Pro Bankruptcy Bankruptcy"
+        },
+        {
+            "news_title": "Corrigan\u2019s Take: South African Wireless Carrier Cell C Wraps Up Multinational Bankruptcy ",
+            "keyword": "Pro Bankruptcy Newsletter"
+        },
+        {
+            "news_title": "Hack Response Opens SEC to Criticism ",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "U.S. Stocks End Winning Streak",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "Five Wastebaskets That Are Actually Chic",
+            "keyword": "Design"
+        },
+        {
+            "news_title": "Photos of the Day: September 21",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Corrigan\u2019s Take: South African Wireless Carrier Cell C Wraps Up Multinational Bankruptcy",
+            "keyword": "Pro Bankruptcy Commentary Analysis"
+        },
+        {
+            "news_title": "\u2018Aromanticism\u2019 by Moses Sumney Review:",
+            "keyword": "Music Review"
+        },
+        {
+            "news_title": "\u2018Get What You Deserve\u2019 by Sweet Pea Atkinson Review: A Tribute to the Past",
+            "keyword": "Music Review"
+        },
+        {
+            "news_title": "\u2018A Funny Thing Happened on the Way to the Forum\u2019 Review: The Way Comedy Used to Be",
+            "keyword": "Theater Review"
+        },
+        {
+            "news_title": "\u2018God of Carnage\u2019 Review: Grownup Playground Spat",
+            "keyword": "Theater Review"
+        },
+        {
+            "news_title": "White House Approved Mnuchin\u2019s Use of Government Aircraft ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Americans Are Richer; Why Are They Still Cautious?",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "The Scene at Cindy Crawford\u2019s Denim Collection Launch Party ",
+            "keyword": "Fete Accompli"
+        },
+        {
+            "news_title": "\u2018Liar\u2019 Review: The Morning After",
+            "keyword": "Television Review"
+        },
+        {
+            "news_title": "\u2018Law & Order True Crime: The Menendez Murders\u2019 Review: Sons and Killers",
+            "keyword": "Television Review"
+        },
+        {
+            "news_title": "Emma Stone and the Tennis Doubles for \u2018Battle of the Sexes\u2019",
+            "keyword": "Sports"
+        },
+        {
+            "news_title": "Watch Geek 101: A Beginner\u2019s Guide for Competitive Timepiece Fans",
+            "keyword": "The Watch Man"
+        },
+        {
+            "news_title": "Four Facts for Theresa May and the Brexiteers",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Europe Needs to Talk About Resilience",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Stanford Professor Endorses Smaller Fed Portfolio ",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Canada\u2019s Trudeau Cites \u2018Stark Reality\u2019 of Global Warming  ",
+            "keyword": "Canada"
+        },
+        {
+            "news_title": "A Fall Bouquet \u00e0 La Modigliani",
+            "keyword": "Flower School"
+        },
+        {
+            "news_title": "Mexico Earthquakes Test Plan for Investors to Absorb Government Disaster Costs ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "The Supermodel Blues",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "15-Minute Recipe: Steamed Clams With Basil-Cilantro Pesto",
+            "keyword": "Slow Food Fast"
+        },
+        {
+            "news_title": "Gold Has Biggest Drop in Two Months Due to Fed Effect ",
+            "keyword": "Commodities"
+        },
+        {
+            "news_title": "Funding Snapshot: Hearing Aid Maker iHear Medical Receives $2.3 Million",
+            "keyword": "Pro VC Snapshot"
+        },
+        {
+            "news_title": "Daimler to Invest $1 Billion in Alabama Plant",
+            "keyword": "Autos Industry"
+        },
+        {
+            "news_title": "Equifax CEO to Testify at Senate Hearing on Data Breach ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Why America\u2019s Most Stunning Library Left Me Cold\u2014At First",
+            "keyword": "Design"
+        },
+        {
+            "news_title": "Treasury to Sell $179 Billion in Debt",
+            "keyword": "Credit Markets"
+        },
+        {
+            "news_title": "CVS Health Moves to Limit Access to Opioid Painkillers ",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "A Truly Delicious Long Weekend in Birmingham, Ala.",
+            "keyword": "Take Monday Off"
+        },
+        {
+            "news_title": "N.Y. Company Accused of Running Bitcoin Ponzi Scheme    ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "\u2018Catch Me if You Can\u2019 Scam Artist Has a Warning for Today\u2019s Consumers",
+            "keyword": "Leadership"
+        },
+        {
+            "news_title": "Lufthansa Expects Fleet to Grow After Air Berlin Insolvency",
+            "keyword": "Pro Bankruptcy International"
+        },
+        {
+            "news_title": "Lachlan Murdoch Pays $29 Million for an Aspen, Colo., Home",
+            "keyword": "Real Estate Newsletter"
+        },
+        {
+            "news_title": "Google Jumps Back Into Hardware With $1.1 Billion HTC Deal ",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "\u2018Battle of the Sexes\u2019 Review: With Ace Actors, but Not Without Its Faults",
+            "keyword": "Film Review"
+        },
+        {
+            "news_title": "\u2018Stronger\u2019 Review: What Makes a Hero?",
+            "keyword": "Film Review"
+        },
+        {
+            "news_title": "\u2018Shot\u2019 Review: Split-Screen Social Drama",
+            "keyword": "Film Review"
+        },
+        {
+            "news_title": "A Southern Getaway with Grit and Glamour",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "For Holiday Hires, It\u2019s Already Beginning to Look a Lot Like Christmas",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "A Dining-Room D\u00e9cor Dilemma That Almost Stumped Designers",
+            "keyword": "Design"
+        },
+        {
+            "news_title": "Chart Industries Buys Hudson Products From Riverstone for $410 Million",
+            "keyword": "Pro PE Exits"
+        },
+        {
+            "news_title": "Mattel Gets Breathing Room From Creditors ",
+            "keyword": "Pro Bankruptcy Bankruptcy"
+        },
+        {
+            "news_title": "$2 Trillion Later, Does the Fed Even Know if Quantitative Easing Worked? ",
+            "keyword": "Streetwise"
+        },
+        {
+            "news_title": "Impax Laboratories in Talks to Merge With Amneal Pharmaceuticals    ",
+            "keyword": "Deals"
+        },
+        {
+            "news_title": "Deliveroo Posts Loss for 2016",
+            "keyword": "Pro PE Portfolio Company News"
+        },
+        {
+            "news_title": "Bangladesh\u2019s Borders Are Open to Burma\u2019s Rohingya Refugees",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Amazon Inks Office Space Deal on Manhattan\u2019s Far West Side  ",
+            "keyword": "Tri-State Area"
+        },
+        {
+            "news_title": "IK Selling German Industrial Equipment Company to Blackstone",
+            "keyword": "Pro PE Deals"
+        },
+        {
+            "news_title": "Title IX, Sex, Violence and Campus Justice ",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "A Racial Disparity That Progressives Ignore",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Silly Rabbit! Original Trix With Artificial Colors Is Back After Customers Revolt",
+            "keyword": "A-hed"
+        },
+        {
+            "news_title": "Red States Likely to Lose Popular Vote Again",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "This \u2018Loophole\u2019 Is Vital to Housing the Poor",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Draghi Urges Governments to Help Address Banks\u2019 Volume of Bad Loans   ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Optima Scraps Owner-Backed Bankruptcy Exit Plan    ",
+            "keyword": "Pro Bankruptcy Bankruptcy"
+        },
+        {
+            "news_title": "Sterling Forms Partnership With World Fiber Technologies",
+            "keyword": "Pro PE Deals"
+        },
+        {
+            "news_title": "Funding Snapshot: XW Laboratories Closes $17.5 Million Series B to Treat  Neurological Disorders",
+            "keyword": "Pro VC Snapshot"
+        },
+        {
+            "news_title": "Deal to Save J.Crew From Bankruptcy Angers High-Yield Debt Investors ",
+            "keyword": "Pro Bankruptcy Bankruptcy"
+        },
+        {
+            "news_title": "Insider Cider: Tips on Top Bottles From Spain",
+            "keyword": "Food & Drink"
+        },
+        {
+            "news_title": "Funding Snapshot: Developer Services Provider Manifold Secures $15 Million Series A    ",
+            "keyword": "Pro VC Snapshot"
+        },
+        {
+            "news_title": "Top Uber Investor Resists SoftBank Deal",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Iranian Leaders Respond Harshly to Trump U.N. Speech",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Most Americans Want Protection for \u2018Dreamers\u2019",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Two Construction Workers Die in NYC Accidents    ",
+            "keyword": "New York"
+        },
+        {
+            "news_title": "Could Bankruptcy Save Citgo From Creditors in Venezuela Default?",
+            "keyword": "Pro Bankruptcy International"
+        },
+        {
+            "news_title": "Eurozone Consumer Sentiment Hits 16-Year High",
+            "keyword": "Economic Data"
+        },
+        {
+            "news_title": "Funding Snapshot: Health Care Machine Learning Startup Cogitativo Raises $5 Million Series A",
+            "keyword": "Pro VC Snapshot"
+        },
+        {
+            "news_title": "Funding Snapshot: Landos Biopharma  Raises $10 Million Series A to Treat Autoimmune Diseases    ",
+            "keyword": "Pro VC Snapshot"
+        },
+        {
+            "news_title": "Lachlan Murdoch Pays $29 Million for an Aspen, Colo., Home ",
+            "keyword": "Private Properties"
+        },
+        {
+            "news_title": "Lachlan Murdoch\u2019s Aspen Estate",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Scana Is Subpoenaed Over Abandoned Nuclear Project    ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Leading Economic Indicators Index Rose in August",
+            "keyword": "Economic Data"
+        },
+        {
+            "news_title": "Activehours Clocks Series B for App That Pays Workers Early",
+            "keyword": "Pro VC New Money"
+        },
+        {
+            "news_title": "Funding Snapshot: Video Ad Company ViralGains Secures $13.5 Million Series B",
+            "keyword": "Pro VC Snapshot"
+        },
+        {
+            "news_title": "\u2018Paula Revere\u2019 and the Russians",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "U.S. Jobless Claims Fell Despite Recent Hurricanes",
+            "keyword": "Economic Data"
+        },
+        {
+            "news_title": "Fed Paves the Way for the ECB to Follow    ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "How Grocery Giant Aldi Plans to Conquer America: Limit Choice",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Hyperloop One Adds $85 Million as It Pursues Partnerships",
+            "keyword": "Pro VC New Money"
+        },
+        {
+            "news_title": "Lower U.S. Oil Prices Are a Shot in the Arm for Crude Exports ",
+            "keyword": "Oil Markets"
+        },
+        {
+            "news_title": "What China\u2019s Downgrade Signals to Investors    ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Why the Auto Industry Is Betting Big on an Uncertain Future    ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "South Africa Keeps Main Repo Rate on Hold ",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Treasurys Edge Higher as Investors Weigh Fed Moves",
+            "keyword": "Credit Markets"
+        },
+        {
+            "news_title": "Eisenhower\u2019s London Headquarters Become Luxury Residences",
+            "keyword": "Homes"
+        },
+        {
+            "news_title": "Inside Some Kit Homes Sold From a Catalog",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Why It\u2019s So Hard for Europe\u2019s Big Banks to Do Big Deals ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "ECB Set to Publish New Overnight Lending Rate ",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Firm Retention Summary: Vitamin World Inc.",
+            "keyword": "Pro Bankruptcy Bankruptcy"
+        },
+        {
+            "news_title": "Makeup Maven Michelle Phan Exits Glam Bag Startup Ipsy",
+            "keyword": "Pro VC Industry News"
+        },
+        {
+            "news_title": "SEC Draws Scrutiny for Slow Response to Hack     ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Russian Diplomat Chides, Chastises Trump in U.N. Speech",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Trump Expands North Korea Sanctions ",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "Hundreds Missing in Mexico City Days After Earthquake    ",
+            "keyword": "Latin America"
+        },
+        {
+            "news_title": "The Panic Over Graham-Cassidy",
+            "keyword": "REVIEW & OUTLOOK "
+        },
+        {
+            "news_title": "Right to Work Isn\u2019t Theft",
+            "keyword": "REVIEW & OUTLOOK "
+        },
+        {
+            "news_title": "The SEC\u2019s Cyber Embarrassment",
+            "keyword": "REVIEW & OUTLOOK "
+        },
+        {
+            "news_title": "General Motors to Lay Off Over 250 Workers at Ontario Plant ",
+            "keyword": "Autos Industry"
+        },
+        {
+            "news_title": "Trump Gets Blunt at the United Nations",
+            "keyword": "Declarations"
+        },
+        {
+            "news_title": "The Million-Dollar Vintage Kit Homes That Come From Sears",
+            "keyword": "Homes"
+        },
+        {
+            "news_title": "Lisa Murkowski\u2019s Calculator",
+            "keyword": "POTOMAC WATCH"
+        },
+        {
+            "news_title": "Aspen Needs Mexican Tourists",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "How to Help Iraq\u2019s Religious Minorities",
+            "keyword": "Houses of Worship"
+        },
+        {
+            "news_title": "The Unnamed Podvideocast With Jason Gay and Emma Stone",
+            "keyword": "Life & Style"
+        },
+        {
+            "news_title": "Inside the Madness at Evergreen State",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "The Globe and the Kettle",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "The Graham-Cassidy Show Is Like \u2018Jaws\u2019\u2014and You\u2019re the Swimmer",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Why Afghans Are Hopeful About Trump\u2019s New Strategy",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Notable & Quotable: The Forbes Rich List",
+            "keyword": "Notable & Quotable"
+        },
+        {
+            "news_title": "U.S. Monitored Manafort After He Left Trump Campaign",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "N.Y. Gov. Cuomo Sets Busy Fundraising Schedule for Rest of Year",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Market Talk: Daily Analysis Roundup",
+            "keyword": "Financial Regulation"
+        },
+        {
+            "news_title": "NTSB Cites Cockpit Errors in Pence Plane Incident Last Year ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Engineers in Two Train Accidents Had Undiagnosed Sleep Disorders ",
+            "keyword": "Transit"
+        },
+        {
+            "news_title": "Iraq Launches Offensive to Retake Hawija From Islamic State ",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "Aaron Hernandez\u2019s Brain Showed \u2018Severe\u2019 Disease",
+            "keyword": "NFL"
+        },
+        {
+            "news_title": "Puerto Rico After Maria: No Power, No Phones and Lots of Damage",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "U.S. Considers Dropping Federal Oversight of AIG",
+            "keyword": "Financial Regulation"
+        },
+        {
+            "news_title": "SoFi Faces New Sexual Harassment Claim Days After CEO\u2019s Departure ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Facebook\u2019s Russian Clients",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "Pope Francis Says Church Was Slow to Respond to Sex Abuse ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Auto-Repair Owners Fight Eviction, Seek City\u2019s Help ",
+            "keyword": "Tri-State Area"
+        },
+        {
+            "news_title": "Highly Leveraged Hedge Funds Harbor Risk",
+            "keyword": "Financial Regulation Research"
+        },
+        {
+            "news_title": "KB Home Cuts CEO\u2019s Bonus After His Rant at Kathy Griffin",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "MongoDB Reveals IPO Plans",
+            "keyword": "Pro VC MA IPOs"
+        },
+        {
+            "news_title": "SEC Didn\u2019t Meet Its Own Standards for Handling Cyberattacks",
+            "keyword": "Financial Regulation Commentary"
+        },
+        {
+            "news_title": "GenOn Invites Buyout Offers in Bankruptcy       ",
+            "keyword": "Pro Bankruptcy Bankruptcy"
+        },
+        {
+            "news_title": "First Woman Set to Graduate From Marine Infantry-Officer Course",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Why Angela Merkel Needs Donald Trump",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Google and Its Partners Will Issue Refunds to Advertisers Over Fake Traffic ",
+            "keyword": "CMO"
+        },
+        {
+            "news_title": "EU Urges U.K. to Swiftly Address Brexit Stalemate",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "GGP Names New Finance Chief    ",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "Fed Says Total U.S. Household Net Worth Rose",
+            "keyword": "Economy"
+        },
+        {
+            "news_title": "Dynamic International Airways Challenges Creditor Committee Retention of AlixPartners",
+            "keyword": "Pro Bankruptcy Bankruptcy"
+        },
+        {
+            "news_title": "Online School Should Repay Federal Funds, Education Watchdog Says ",
+            "keyword": "Education"
+        },
+        {
+            "news_title": "Amazon Puts Whole Foods on Fast Track to Conventional Supermarket ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Rogue Traders Could Take Advantage of Hacking ",
+            "keyword": "Financial Regulation"
+        },
+        {
+            "news_title": "Vice Media\u2019s Video Employees Unionize ",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "Medieval Chic: Retro Fashion That\u2019s Actually Beautiful",
+            "keyword": "Fashion"
+        }
+    ]
+}

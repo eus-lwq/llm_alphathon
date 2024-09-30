@@ -1,0 +1,441 @@
+{
+    "Date": "2022-4-5",
+    "News": [
+        {
+            "news_title": "JetBlue Offers to Buy Spirit for About $3.6 Billion",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Elon Musk to Join Twitter\u2019s Board After Building Stake",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Elon Musk\u2019s Twitter Investment Raises New Regulatory Red Flag ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Oklahoma Legislature Passes Near-Total Ban on Abortion",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "WarnerMedia Leadership Departs Ahead of Discovery Deal ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Injecting Some Insulin Reality",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Democrats Have Gasoline Price Amnesia",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Elon Musk\u2019s Hopeful Twitter Feed",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Germany \u2018Putin-izes\u2019 Putin\u2019s Gas",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Would Young People Fight for America?",
+            "keyword": "Future View"
+        },
+        {
+            "news_title": "Putin\u2019s Ukraine Invasion Is About Energy and Natural Resources",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Connecticut Hits Its Taxpayers With a Huge Payoff to Unions",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Bucha Escalates Putin\u2019s Risks",
+            "keyword": "Business World"
+        },
+        {
+            "news_title": "Bill Would Let Small Outlets Use Baseball-Style Arbitration With Tech Giants",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "\u2018The Last Baron\u2019 Review: Where\u2019s \u2018Wado\u2019?",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Russian \u2018Darknet\u2019 Market Tied to Ransomware Is Shut Down",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "MIT Leads the Way in Reinstating the SAT",
+            "keyword": "Upward Mobility"
+        },
+        {
+            "news_title": "Biden and the ObamaCare \u2018Glitch\u2019",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "More Arrests Made in Sacramento Shooting",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "The Buoyant Fun of Wet Leg\u2019s Self-Titled Debut Album ",
+            "keyword": "Music Review"
+        },
+        {
+            "news_title": "White House Considers New ATF Pick",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Ivanka Trump Testifies in Probe of Capitol Riot ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Fired KPMG Audit Head Fined Over Failure to Supervise Senior Auditors ",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "Fed\u2019s Mary Daly Supports Tighter Policy, Doesn\u2019t Expect Recession",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Stocks Fall as Investors Fret About Fed\u2019s Plans",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "Omicron BA.2 Variant Pressures Parts of U.S. ",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "BIS Head Says Era of Weak Inflation Might Be Over ",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Fed\u2019s Brainard Says Reducing Elevated Inflation \u2018Is of Paramount Importance\u2019 ",
+            "keyword": "Economy"
+        },
+        {
+            "news_title": "Elon Musk\u2019s Job Duties Keep Growing: Here\u2019s a List of His Board Positions Over the Years",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Amazon\u2019s Space Race Is a Big Other Bet ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Crypto Mortgages Test Home Buyers\u2019 Appetite in Digital-Currency World",
+            "keyword": "Real Estate"
+        },
+        {
+            "news_title": "GOP\u2019s Upton, Who Voted to Impeach Trump, Won\u2019t Seek Re-Election",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "This Puzzle\u2019s Title Contains Six Words (Wednesday Crossword, April 6)",
+            "keyword": "Crossword"
+        },
+        {
+            "news_title": "This Quick, Spicy Sauce Makes Roasted Vegetables Exciting",
+            "keyword": "Slow Food Fast"
+        },
+        {
+            "news_title": "Biden Proposes ACA Changes,  Extending Family Subsidies",
+            "keyword": "Health Policy"
+        },
+        {
+            "news_title": "Man Charged With Hate Crimes in Assaults on Asian Women in New York City",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Two of Charles Darwin\u2019s Notebooks Reappear After Going Missing Over 20 Years Ago",
+            "keyword": "Science"
+        },
+        {
+            "news_title": "Biden Administration to Extend Student-Loan Payment Pause",
+            "keyword": "Education"
+        },
+        {
+            "news_title": "Their Kids Were Leaving for College, So These Empty-Nesters Found a New Place to Perch",
+            "keyword": "Inside Story"
+        },
+        {
+            "news_title": "The Best Interior Design Idea to Bring the Outside In",
+            "keyword": "Design"
+        },
+        {
+            "news_title": "How Leaders Prepare to Communicate in a Crisis",
+            "keyword": "Essay"
+        },
+        {
+            "news_title": "Biden Administration Stymies Russia Debt Payments ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Road Rage Shootings Are Rising, Study Finds",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Credit Suisse Found Former Executive Violated Code of Conduct",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Neiman Marcus Gets $200 Million Investment From Farfetch",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Vol. 35, No. 3: Postpandemic",
+            "keyword": "Style & Substance"
+        },
+        {
+            "news_title": "Disney, This Is Not the Way To Clean Your Hands",
+            "keyword": "Overheard"
+        },
+        {
+            "news_title": "What Are War Crimes? What We Know as U.S. Accuses Russia",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "The Earnings Squeeze Is Here",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        },
+        {
+            "news_title": "U.S. and Allies Vow Action Over Reports of Russian Atrocities in Ukraine",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Shein Valued at $100 Billion in Funding Round",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Tom Brady Joins Ex-Teneo Chief at Business Advisory Firm",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "In a Surprise, Elon Musk Takes 9% Stake in Twitter",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Roblox Awards CEO Pay Package Valued at More Than $230 Million ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Shanghai\u2019s Covid-19 Cases Rise as City Extends Lockdown",
+            "keyword": "China"
+        },
+        {
+            "news_title": "Senate Advances Jackson Nomination With Three Republicans Backing Her",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Iran\u2019s Master Class in Evading Sanctions",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Is China Helping Russia? Beijing-Moscow Relations Explained",
+            "keyword": "World"
+        },
+        {
+            "news_title": "How Will Inflation End?",
+            "keyword": "Politics & Ideas"
+        },
+        {
+            "news_title": "Woods Is Back at the Masters\u2014and Says He\u2019ll Play to Win",
+            "keyword": "Jason Gay"
+        },
+        {
+            "news_title": "Already Stalled In U.S., Global Minimum Tax Hits European Roadblock ",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Auditing Biden\u2019s Grand Plan for a Wealth Tax",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "MIT Reversed Its Position on the SAT. How About Racial Preferences Next? ",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Special Privileges Are a Gift to Union Bosses",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Russia\u2019s Invasion of Ukraine Is China\u2019s Loss",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Treasury Loses in Bid to Plug  Gap in 2017 Tax Law",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Is President Biden Now the One Doing the \u2018Price Gouging\u2019?",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "College, High Costs and Higher Calling",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Ukraine\u2019s Leaders Do Not Run. Would Ours?",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "How to Master Equestrian Style\u2014No Horse Necessary",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "Ukraine Quietly Receives Tanks From Czech Republic to Support War Effort",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Add Declining Immigration to Problems Weighing on the Labor Market",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Covid Cases in China Hit Record, as Shanghai Extends Lockdown",
+            "keyword": "China"
+        },
+        {
+            "news_title": "Tiger Woods Says \u2018As of Right Now\u2019 He Plans to Play the Masters",
+            "keyword": "Golf"
+        },
+        {
+            "news_title": "Caller ID Outs Young Professionals Still on Their Parents\u2019 Phone Plan",
+            "keyword": "The A-Hed"
+        },
+        {
+            "news_title": "Rob Thomas, Homeless as a Teen, Sang His Way to Rock Stardom",
+            "keyword": "House Call"
+        },
+        {
+            "news_title": "Why We\u2019re All Forgetting Things Right Now",
+            "keyword": "Bonds"
+        },
+        {
+            "news_title": "Boeing\u2019s New Air Force One Hit by Production Mishaps ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "U.S. Trade Deficit Narrowed Slightly in February ",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "GM and Honda Plan to Co-Develop Affordable EVs ",
+            "keyword": "Autos Industry"
+        },
+        {
+            "news_title": "Biggest Gains in Financial Strength in the Management Top 250",
+            "keyword": "Journal Reports: Leadership"
+        },
+        {
+            "news_title": "Ukraine War Sanctions Hit Home for Everyday Russians",
+            "keyword": "Russia"
+        },
+        {
+            "news_title": "Chinese Executives Sell in Time to Avoid Billions in Losses",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "U.S. Wants More Oil From Canada but Not a New Pipeline to Bring It ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Why Stomach Tightening Is a New Skin-Care Trend ",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "Russian Sanctions Created a New World\u2014And It Can\u2019t Be Undone ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Westfield Malls\u2019 European Owner Says It Is Done With the U.S. ",
+            "keyword": "Property Report"
+        },
+        {
+            "news_title": "Restaurants\u2019 Virtual Stores Test Consumers\u2019 Appetite for Metaverse Marketing ",
+            "keyword": "CMO Today"
+        },
+        {
+            "news_title": "Don\u2019t Let Your Bird Feeder Harm the Birds (and You)",
+            "keyword": "Life & Style"
+        },
+        {
+            "news_title": "Have a Pair of Beaten Down Nikes? These Sneaker Restorers Could Bring them Back to Life",
+            "keyword": "On Trend"
+        },
+        {
+            "news_title": "Chevron Looks to Reduce Operating Expenses as It Steps Up Production",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "Some Chinese Companies Find Workaround to Avoid U.S. Delisting ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Taliban Crack Down on Social Freedoms With Even Stricter Policing",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Amazon to Spend Billions on Space Launches as SpaceX Ramps Up Satellite-Internet Service",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Peloton Guide Review: The Strength-Training Camera Faces Competition",
+            "keyword": "Personal Technology: Nicole Nguyen"
+        },
+        {
+            "news_title": "Lockheed Martin, Raytheon to Help Australia Build Missiles",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Novel, Which Creates NFTs for Companies, Raises $6 Million ",
+            "keyword": "CMO Today"
+        },
+        {
+            "news_title": "Sanctioned LPs Complicate Private-Equity Fund Dynamics ",
+            "keyword": "Pro PE Legal Regulatory"
+        },
+        {
+            "news_title": "Nestl\u00e9\u2019s Data Leak Shows War-Related Hacktivism Risks ",
+            "keyword": "Pro Cyber News"
+        },
+        {
+            "news_title": "How Hackers Target Bridges Between Blockchains for Crypto Heists ",
+            "keyword": "Pro Cyber News"
+        },
+        {
+            "news_title": "Private-Equity Giants Back Nonprofit Promoting Employee Ownership",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Derby\u2019s Take: Recent Papers Question Fed\u2019s Way of Viewing Economy ",
+            "keyword": "Central Banks Commentary"
+        },
+        {
+            "news_title": "In Australia, Central Bank Reveals More Hawkish Stance",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Kansas Rallies to Win the NCAA Men\u2019s Basketball Title",
+            "keyword": "College Basketball"
+        },
+        {
+            "news_title": "Shanghai Woman\u2019s 16-Hour Bus Ride Into Quarantine: \u2018My Only Wish is to Leave This Place Alive\u2019",
+            "keyword": "China"
+        }
+    ]
+}

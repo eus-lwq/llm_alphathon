@@ -1,0 +1,557 @@
+{
+    "Date": "2023-3-9",
+    "News": [
+        {
+            "news_title": "Banks Lose Billions in Value After Tech Lender Stumbles",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Mexican Drug Gang Turns In Members It Blames for Americans\u2019 Deaths",
+            "keyword": "World"
+        },
+        {
+            "news_title": "All the President\u2019s Tax Increases",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Coal Keeps Germany\u2019s Lights On",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "About That \u2018Record\u2019 Defense Budget",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Michigan Moves to Repeal Right to Work",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Yeti Recalls 1.9 Million Coolers and Cases Over Magnet Ingestion Risks",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Ron DeSantis Is Definitely Running",
+            "keyword": "Declarations"
+        },
+        {
+            "news_title": "Alex Murdaugh Files Notice of Appeal After Being Convicted of Murdering Wife and Son",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Biden\u2019s Budget Sets Up Battle With GOP, Would Cut Deficits by $3 Trillion Over 10 Years",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Biden\u2019s Budget Is an Assault on Social Security",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "The Bush-Clinton Covid Commission",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Congress Enacts a Tax Nobody Can Understand",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "General Motors to Offer Voluntary Buyouts",
+            "keyword": "Autos Industry"
+        },
+        {
+            "news_title": "Biden\u2019s Budget Shows the Rising Cost of Leaving Medicare and Social Security Untouched",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "What to Make of the Asbury Revival",
+            "keyword": "Houses of Worship"
+        },
+        {
+            "news_title": "\u2018Oscar Wars\u2019 Review: Hollywood\u2019s Biggest Night",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Inflation-Protection Funds Struggle to Perform as Advertised",
+            "keyword": "ETFs"
+        },
+        {
+            "news_title": "FTC Seeks to Block Intercontinental Exchange\u2019s $11.7 Billion Black Knight Deal",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "\u2018Luther: The Fallen Sun\u2019 Review: Out of Prison, In Pursuit",
+            "keyword": "Television Review"
+        },
+        {
+            "news_title": "Stocks Turn Down As Investors Parse Weekly Jobless Claims Data",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "\u2018Scream VI\u2019 Review: Ghostface Is Still Slashing, Now in New York",
+            "keyword": "Film Review"
+        },
+        {
+            "news_title": "Former SEC Commissioner Allison Herren Lee Joins Whistleblower Law Firm",
+            "keyword": "Risk & Compliance Journal"
+        },
+        {
+            "news_title": "\u2018Champions\u2019 Review: Woody Harrelson\u2019s Court-Ordered Coaching",
+            "keyword": "Film Review"
+        },
+        {
+            "news_title": "Tel Aviv Shooting Leaves Three Israelis Wounded ",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "\u2018A Spy Among Friends\u2019 Review: Guy Pearce as Kim Philby",
+            "keyword": "Television Review"
+        },
+        {
+            "news_title": "Ferrari Purosangue: A Touring Wagon That Howls",
+            "keyword": "RUMBLE SEAT"
+        },
+        {
+            "news_title": "New Drugs for Cancer, Rare Disease Can Cost Over $20,000 a Month",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Rise of AI Puts Spotlight on Bias in Algorithms",
+            "keyword": "CIO Journal"
+        },
+        {
+            "news_title": "Vinyl Records Outsell CDs for First Time Since 1987",
+            "keyword": "Music"
+        },
+        {
+            "news_title": "Taxes and Working Remotely in a Different State",
+            "keyword": "Personal Finance"
+        },
+        {
+            "news_title": "Against the New, Politicized Scientific Method",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Prisons, Universities and Students Who Work",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Can We Liberate North Korea Through Its People?",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "The Sad Facts Behind the Free Tickets to Hong Kong",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Seeing Red Again in Moscow With Putin\u2019s Maneuvering",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Keep Calm, Carry Onboard",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Biden Seeks Extension of Trump Tax Cuts",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "There\u2019s That Voice Again (Friday Crossword, March 10)",
+            "keyword": "Crossword Contest"
+        },
+        {
+            "news_title": "To Find the Best Wine Values, Think Like Warren Buffett",
+            "keyword": "On Wine"
+        },
+        {
+            "news_title": "Republicans Are Convicted in Ohio Bribery Scheme",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "U.S. Jobless Claims Jump But Remain Historically Low",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "\u2018Hoosier\u2019: A Preacher Named Harry, a Burly Man or a Hill",
+            "keyword": "Word on the Street"
+        },
+        {
+            "news_title": "Who Is Janice Eberly, Leading Candidate for a Top Federal Reserve Job?",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "Israel\u2019s President Condemns Netanyahu\u2019s Proposed Judicial Overhaul",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "Transcript: San Francisco Fed President Mary Daly Discusses the Economic Outlook",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "California Sues Huntington Beach for Blocking Housing Projects",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "After $8.5 Million Gut Renovation and Expansion, Denver-Area Home Lists for $13 Million",
+            "keyword": "market makers"
+        },
+        {
+            "news_title": "Former Goldman Sachs Banker Sentenced to 10 Years in Prison for 1MDB Scandal",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Disney\u2019s Robert Iger Hints at Raising Streaming Prices ",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "Mammograms Must Include Breast Density Information, New FDA Rule Says",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Norfolk Southern CEO Apologizes, Pledges Change at Senate Hearing on Train Derailment",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Drew Barrymore on Her Unexpected Hit Talk Show, IRL Dates and Macho Appliances",
+            "keyword": "20 Odd Questions"
+        },
+        {
+            "news_title": "Fox Considered Acquiring \u2018The Apprentice\u2019 After 2020 Election",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "Uganda Proposes New Antigay Law With Prison Terms Up to 10 Years",
+            "keyword": "Africa"
+        },
+        {
+            "news_title": "What\u2019s in Biden\u2019s 2024 Budget Request",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Twitter and Musk Face Legal Risks in FTC Probe",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Danny Werfel Wins Senate Confirmation to Run IRS",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Court Upholds Florida Age Restrictions on Gun Purchases",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "EU to Compete With U.S. Clean-Tech Tax Breaks by Loosening Subsidy Rules",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Why Your Hat Probably Doesn\u2019t Fit",
+            "keyword": "Everyday Math"
+        },
+        {
+            "news_title": "Credit Suisse Delays Annual Report After Last-Minute SEC Request",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Nord Stream Blast Probe in Germany Centers on Sailboat, Crew",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Bestselling Books Week Ended March 4",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Traveling for March Madness? Where to Eat, Shop and Go Nuts in 6 Key Cities",
+            "keyword": "Off Duty Travel"
+        },
+        {
+            "news_title": "Fed\u2019s Michael Barr Calls for Stablecoin Regulation ",
+            "keyword": "Cryptocurrency"
+        },
+        {
+            "news_title": "Special Counsel Set to Ask Judge to Reject Trump\u2019s Privilege Claims in Mar-a-Lago Probe",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "GOP Lawmaker Says FBI Inappropriately Searched His Name in Spying Database",
+            "keyword": "National Security"
+        },
+        {
+            "news_title": "Rush Limbaugh\u2019s Longtime Palm Beach Home Sells for $155 Million",
+            "keyword": "private properties"
+        },
+        {
+            "news_title": "JPMorgan Sues Former Executive Over Epstein Ties",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Hepatitis B Screening Recommended for All Adults",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "A Revolution Is Coming for China\u2019s Families",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "The Lockdown Files Reveal More About Voters Than Politicians",
+            "keyword": "Political Economics"
+        },
+        {
+            "news_title": "Still a Great Job Market at Small Firms",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "Trump Lawyer Jenna Ellis Disciplined After Admitting to Election Falsehoods",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Reduce Your Screen Time With This Simple Trick",
+            "keyword": "Journal Reports: Health Care"
+        },
+        {
+            "news_title": "Are Famous Movie Homes Worth More Than Their Neighbors? \u2018It Depends on the House.\u2019 ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "When Taxis Were Drawn by Horses",
+            "keyword": "Historically Speaking"
+        },
+        {
+            "news_title": "Want a Rubik\u2019s Cube? Don\u2019t Buy One from Rubik\u2019s",
+            "keyword": "Gear & Gadgets"
+        },
+        {
+            "news_title": "U.S. Sanctions Iran Drone Suppliers in China, \u2018Shadow Banking\u2019 Network",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Crypto Layoffs and Bankruptcies in 2023: The List to Watch",
+            "keyword": "Cryptocurrency"
+        },
+        {
+            "news_title": "Saudi Arabia Seeks U.S. Security Pledges, Nuclear Help for Peace With Israel",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "There\u2019s No Substitute for Meeting in Person. Here\u2019s Why.",
+            "keyword": "Journal Reports: Health Care"
+        },
+        {
+            "news_title": "With Coal in Demand, Governments Raise Taxes and Royalties on Miners ",
+            "keyword": "Commodities"
+        },
+        {
+            "news_title": "Albuterol Shortage Challenges Hospitals Treating Patients With Breathing Problems",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Rogue Trader? This Time It\u2019s a Rogue Salesperson, Highflying Data Firm Says",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Elon Musk Is Planning a Texas Utopia\u2014His Own Town",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "See the Full Results of the 2023 WSJ Oscar Rankings",
+            "keyword": "Film"
+        },
+        {
+            "news_title": "Led Zeppelin\u2019s Jimmy Page Battles Neighbor Robbie Williams Over a Basement Man Cave ",
+            "keyword": "The A-hed"
+        },
+        {
+            "news_title": "Number Puzzles (Saturday, March 11)",
+            "keyword": "Number Puzzles"
+        },
+        {
+            "news_title": "Herman Stone Found Better Ways to Make Polyurethane Foam",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "Dick Rosenberg Seized the Moment of the Megabank",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "What Did Americans Really Think of the Oscar Nominees? We Asked Them.",
+            "keyword": "Film"
+        },
+        {
+            "news_title": "Here\u2019s Why the Economy Seems Weird",
+            "keyword": "Capital Account"
+        },
+        {
+            "news_title": "Can the Red Carpet Ever Be Fun Again?",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "The Best Reason to Trust Science",
+            "keyword": "Essay"
+        },
+        {
+            "news_title": "Markets Are Telling Investors Two Things at Once",
+            "keyword": "streetwise"
+        },
+        {
+            "news_title": "Once Upon a Time, Storybook Homes Cast a Spell on West Coast Architecture",
+            "keyword": "Homes"
+        },
+        {
+            "news_title": "Don\u2019t Trust an AI Chatbot With All Your Travel Plans Just Yet",
+            "keyword": "Travel"
+        },
+        {
+            "news_title": "Foreign Companies\u2019 Supply Financing to Face Greater Disclosure Rules Next Year",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "In California, a Race to Capture the Water Before It Escapes",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Who Should Jack Up the Car in a Nascar Pit Stop? The Answer Is in the Numbers",
+            "keyword": "Auto Racing"
+        },
+        {
+            "news_title": "North Korea Fires Short-Range Missile",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "Taiwan Confirms President\u2019s U.S. Stopover",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Silvergate\u2019s Story Is About Fundamentals, Not Just Crypto",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "How Architect Santiago Calatrava Created His Own Visual Language",
+            "keyword": "Art & Design"
+        },
+        {
+            "news_title": "Feathers, Mesh and Sequins\u2014for Men\u2014From Dior, Burberry and Saint Laurent",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "Former NBA Star Shawn Kemp Arrested in Shooting",
+            "keyword": "NBA"
+        },
+        {
+            "news_title": "Can the Army Be All It Can Be? Service Revives Slogan to Solve Recruiting Woes",
+            "keyword": "National Security"
+        },
+        {
+            "news_title": "Aaron Rodgers, a Jet? Lamar Jackson, a\u2026? The NFL QB Carousel Takes a Strange Spin",
+            "keyword": "Jason Gay"
+        },
+        {
+            "news_title": "Big Oil Gushes Cash Because It Doesn\u2019t Know Where to Invest",
+            "keyword": "heard on the street"
+        },
+        {
+            "news_title": "This Cruise Line Can\u2019t Turn You Down",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "World Bank Pauses Loans to Tunisia Amid Crackdown on Migrants",
+            "keyword": "World"
+        },
+        {
+            "news_title": "VideoAmp Hires Its First CMO as Ad-Measurement Race Heats Up",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "\u2018God Saved My Baby!\u2019 From the Rubble, Joyful Reunions and Moments of Despair",
+            "keyword": "World"
+        },
+        {
+            "news_title": "More Companies Start to Offer Daycare at Work",
+            "keyword": "Managing Your Career"
+        },
+        {
+            "news_title": "This Car Guy\u2019s Blog Became a $1 Billion Marketplace",
+            "keyword": "science of success"
+        },
+        {
+            "news_title": "Markets on Edge Ahead of Jobs and Inflation Reports",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "CFOs Warily Watch\u2014and Wait\u2014for an Acceleration in Fed Interest-Rate Hikes",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "China Property Sector Left in Limbo by Stalled Debt-Restructuring Talks\n",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Chaim Topol, \u2018Fiddler on the Roof\u2019 Star, Dies at 87",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "South Korea, Japan to Hold First Two-Way Summit Talks in More Than a Decade",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Georgia Pulls Russia-Style Foreign-Agents Bill",
+            "keyword": "World"
+        },
+        {
+            "news_title": "China\u2019s Inflation Rate Slows to One-Year Low, Casting Doubt on Recovery",
+            "keyword": "China"
+        },
+        {
+            "news_title": "Executives Lose a Coveted Status Symbol\u2014Their Assistants",
+            "keyword": "on the clock"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        },
+        {
+            "news_title": "At Least 12 Dead in Southern California After Winter Storms ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Senate Blocks D.C. Law Over Crime Concerns, as Many Democrats Side With GOP",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Janice Eberly Seen as Leading Candidate for Fed Vice Chair",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "Biden Budget Seeks Savings by Curbing Fraud, Drug Prices",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Walgreens Abortion Pill Furor Highlights Complexity of Access in Post-Roe World",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Australia to Buy U.S. Nuclear Subs in Naval Expansion",
+            "keyword": "National Security"
+        },
+        {
+            "news_title": "Jim Boeheim Is Out at Syracuse After 47 Seasons as Basketball Coach",
+            "keyword": "College Basketball"
+        },
+        {
+            "news_title": "Russia\u2019s Wagner Heralds Advance in Bakhmut as Battle Grinds On",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Biden Stances on Crime, Immigration Draw Flak From Some Democrats",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Parts of California Not Used to Snow Have Been Buried Under It for Weeks",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Ja Morant Will Remain Away From Grizzlies for Four More Games as NBA Gun Investigation Continues",
+            "keyword": "NBA"
+        },
+        {
+            "news_title": "U.S. Probes Whether Pro-Ukraine Group Had Role in Nord Stream Explosions",
+            "keyword": "World"
+        }
+    ]
+}
