@@ -1,0 +1,597 @@
+{
+    "Date": "2019-12-17",
+    "News": [
+        {
+            "news_title": "Hedge-Fund Billionaire Dan Och Buys $95 Million Home on Central Park South",
+            "keyword": "Private Properties"
+        },
+        {
+            "news_title": "Boeing Bonds Fall on Credit Rating Fears",
+            "keyword": "Credit Markets"
+        },
+        {
+            "news_title": "Amazon Looks to Sun Country to Boost Its Cargo Unit ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "New York State\u2019s Ethics Watchdog Hit With Criticism by Own Member ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Senate Clears Defense-Policy Bill, With a View Toward Punishing Syria ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "The Decade in Television: Better\u2014Yet More Atomized\u2014Than Ever",
+            "keyword": "Television Review"
+        },
+        {
+            "news_title": "Spending Deal Allots Millions for Election Security, but Democrats Say It Isn\u2019t Enough ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Giuliani Associate Got $1 Million Loan From Lawyer for Ukrainian Tycoon",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Risk Standard-Setter Issues Blueprint for Managing Cyber Risks",
+            "keyword": "Risk & Compliance Journal"
+        },
+        {
+            "news_title": "GE\u2019s 737 MAX Problem Just Got Bigger",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Federal Trade Commission Challenges Illumina\u2019s Proposed Acquisition of Pacific Biosciences ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Good Year for Corporate Bonds Gets Better as Threats Fade ",
+            "keyword": "Credit Markets"
+        },
+        {
+            "news_title": "First, the Smartphone Changed. Then, Over a Decade, It Changed Us.",
+            "keyword": "DECADE IN REVIEW"
+        },
+        {
+            "news_title": "How to Treat the High Cost of Biotech Drugs",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "A Rational Defense of College \u2018Fat Studies\u2019",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Big Brother Is Going to Love a Cashless World",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "When Free Speech Can Bite the Hand That Feeds You",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Despite Its Many Problems, San Francisco\u2019s Doing Fine",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Stocks Hang On to Extend Winning Streak",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "Fund Managers Are Becoming Increasingly Bullish as Risks Fade ",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Investors Watch Micron Earnings as Chip Shares Soar ",
+            "keyword": "Stocks"
+        },
+        {
+            "news_title": "New York City Death Certificates Will Now Include Male, Female or \u2018X\u2019 ",
+            "keyword": "New York"
+        },
+        {
+            "news_title": "What Qualifies as a Green Investment? EU Sets Rules",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Carlyle, Others Buy Stake in AmEx Corporate-Travel Business",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Biden Is Physically Fit to Serve as President, Doctor Says ",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "The Vivid Visions of Agn\u00e8s Varda",
+            "keyword": "Film Review"
+        },
+        {
+            "news_title": "Natural-Gas Shorts at Highest Level Since Financial Crisis ",
+            "keyword": "Gas Markets"
+        },
+        {
+            "news_title": "House Approves Spending Bills, in Effort to Avoid Shutdown",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "U.K. Audit Regulator Issues Revised Rules to Reduce Potential Conflicts of Interest ",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "European Airlines Fight Against Jet Fuel Taxes",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "Airbus to Restructure Defense, Space Unit ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Ford to Create 3,000 Factory Jobs in Michigan as Part of New UAW Contract ",
+            "keyword": "Autos Industry"
+        },
+        {
+            "news_title": "Diabetes Data Outage Blamed on Cloud Provider Switch ",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Fed\u2019s Rosengren: No Need for Rate Change Right Now",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "Rise in Anti-Semitic Incidents Goes Beyond Recent Violent Attacks",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "French Protesters Turn Up Pressure on Macron Over Pensions",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Trump: The Game\u2014Just the Thing for Family Holiday Arguments ",
+            "keyword": "Overheard"
+        },
+        {
+            "news_title": "Census Bureau Works to Combat Disinformation About 2020 Count ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "In Three Days, the Hallmark Channel Managed to Upset Pretty Much Everyone ",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "Johnson Joins Trump in Redefining Conservatism ",
+            "keyword": "Analysis"
+        },
+        {
+            "news_title": "U.S. Adopts Policies to Ease Shortage of Donated Organs",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "The Decade in Theater: Ascendant Women, Declining Musicals",
+            "keyword": "Theater Review"
+        },
+        {
+            "news_title": "Ex-Trump Campaign Official Gates Sentenced to 45 Days in Jail",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Macron\u2019s Stiff Opposition in Pension Battle: Angry Ballerinas",
+            "keyword": "The A-Hed"
+        },
+        {
+            "news_title": "The Decade in Movies: Living Through a Revolution",
+            "keyword": "Film Review"
+        },
+        {
+            "news_title": "Photos: India\u2019s Citizenship Law Draws Opposition",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Lawmakers Reach Late and Narrow Tax-Break Deal",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "The Decade in Art: Expanded Voices, Consolidated Markets",
+            "keyword": "Art Review"
+        },
+        {
+            "news_title": "The Decade in Architecture: Strutting Structures Soaring in Triumph",
+            "keyword": "Cultural Commentary"
+        },
+        {
+            "news_title": "Pope Francis Lifts Secrecy Rules on Church Sex-Abuse Papers ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Manufacturing\u2019s 737 MAX Problem ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "The Decade in Music: Intimacy Delivered via Headphones",
+            "keyword": "Music Review"
+        },
+        {
+            "news_title": "Banks\u2019 Demand for Fed Liquidity Softens After Some Modest Short-Term Rate Pressure ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "It Ought to Be in Pictures",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Helsinki in Film",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Maersk Names CEO for Shipping, Fills Board",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "U.S. Factory Production Rebounds in November",
+            "keyword": "Economic Data"
+        },
+        {
+            "news_title": "A Helsinki Property for Sale Is Part of Film History",
+            "keyword": "Living History"
+        },
+        {
+            "news_title": "LogMeIn to Be Acquired by Private-Equity Firms ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Fed\u2019s Kaplan Expects No Change in Rates in 2020 ",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "Lilly\u2019s 2020 Financial Targets Top Wall Street Expectations ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Bed Bath & Beyond Cleans Out Its Executive Suite ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Masi Oka Found a Hollywood Solution to His Math Problem",
+            "keyword": "House Call"
+        },
+        {
+            "news_title": "Pound Sees Biggest Drop in a Year Amid Brexit Trade Concerns",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "First China-Made Aircraft Carrier Enters Active Service ",
+            "keyword": "China"
+        },
+        {
+            "news_title": "The \u2018Cats\u2019 Movie Is Here, So the \u2018Memory\u2019 Lives Again. And Again. And Again.",
+            "keyword": "Film"
+        },
+        {
+            "news_title": "A Marathoner\u2019s Daring Double: Olympic Trials, Boston",
+            "keyword": "Sports"
+        },
+        {
+            "news_title": "Labor Deal Means Democratic Debate Will Proceed as Planned",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "Photos: Nationwide Protests Paralyze France",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Spygate 2.0? Why This Patriots Scandal Is So Tense",
+            "keyword": "NFL"
+        },
+        {
+            "news_title": "Pakistan Sentences Former Leader Musharraf to Death for Treason ",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "PwC Clients More Likely to Revise Financial Statements ",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "An $800 Clunker Transforms Into a Race Car",
+            "keyword": "My Ride"
+        },
+        {
+            "news_title": "Disney Puts Some \u2018Frozen 2\u2019 Promotions on Ice After Twitter Flap",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Photos: A BMW Brought Back From the Grave",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Another Spring Clean Will Help Unilever\u2019s Pantry",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "It Isn\u2019t Just Uber: California Prepares for New Gig Worker Rules\u2026and Confusion",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "What to Get The Cool Dad Who Has Everything",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "Investing Outside America Is a Depressing Repeat of Familiar Pattern ",
+            "keyword": "Streetwise"
+        },
+        {
+            "news_title": "Stocks to Watch: Boeing, Navistar, Netflix, Heico, FedEx ",
+            "keyword": "MoneyBeat"
+        },
+        {
+            "news_title": "A Wild Post-Brexit Ride for U.K. Banks ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "New Congressional Maps Shake Up North Carolina Races",
+            "keyword": "Political Intelligence"
+        },
+        {
+            "news_title": "The WeWork of China Gears Up for a New York IPO ",
+            "keyword": "Property Report"
+        },
+        {
+            "news_title": "Pittsburgh Airport Ramps Up a Side Business: Real-Estate Developer",
+            "keyword": "Real Estate"
+        },
+        {
+            "news_title": "Real-Estate Stocks Chalk Up Best Return in Five Years",
+            "keyword": "Property Report"
+        },
+        {
+            "news_title": "Imitating Amazon: E-Commerce Battle Bolstered by Companies Mimicking the Market Leader",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "A Weakened EU Is Punching Below Its Weight in World Affairs",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "Buttigieg Distanced Himself From Liberals, and His Campaign Took Off",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "Peter Thiel at Center of Facebook\u2019s Internal Divisions on Politics",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "A Chinese Reality Check for Stock Bulls ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "IASB Proposes Rule Requiring More Details on Profit, Income ",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "Cashing In on Fintech Unicorns Is Harder Than It Seems ",
+            "keyword": "Stocks"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        },
+        {
+            "news_title": "Use of Death Penalty in U.S. Continues to Wane",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "PG&E, California Agree to $1.68 Billion Settlement for Wildfires",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Deal on Backlog for Workers\u2019 Green Cards Could Clear Way for Senate Vote",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "ALS Drug Works in Study, Researchers Say ",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "A Janitor Allegedly Used a Botanical Code to Broker Weapons Deals for North Korea",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "Japan Joins the Babysitters Club to Keep Working Moms at Their Desks",
+            "keyword": "Japan"
+        },
+        {
+            "news_title": "Trump Denounces Impeachment Effort as Vote Looms",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "A Decade of U.S. Market Exceptionalism Will Be Difficult to Repeat",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "The Declining Role of Institutional Religion in the U.S.",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "Leidos to Buy Dynetics for $1.65 Billion ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Samsung Chairman Sentenced to Jail for Violating Labor Laws ",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "Ten Years Later, the Affordable Care Act\u2019s Legacy",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "The Changing Face of Immigration",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "The Financial Lesson of 2008-09 That Most Investors Have Forgotten",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "The Streaming Revolution: So Much to Binge, So Hard to Remember",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "China\u2019s Growing Power, and a Growing Backlash",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "A Decade of \u2018Unicorns\u2019 Ends With a Little Less Magic",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "The Rise of Food Fetishes, Fueled by Social Media",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "The Imperial Powers of the Tech Universe",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "What Was News: The Decade\u2019s Biggest Stories",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "How the U.S. Became a Nation Divided",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "Outsourcing Has Upended the Labor Market\u2014but Not Exactly as Expected",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "A Decade in Which Fracking Rocked the Oil World",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "When Frugality Got Its Groove Back",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "For Business, Climate Change Has Become Real",
+            "keyword": "Journal Reports: Decade in Review"
+        },
+        {
+            "news_title": "Boeing\u2019s Fatal Lessons",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "The FISA Judge Strikes Back",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Democrats\u2019 SALT Sleight-of-Hand",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "FedEx Warns of Another Hit to Profit",
+            "keyword": "Earnings"
+        },
+        {
+            "news_title": "Woman Killed by Falling Debris Near Times Square in New York ",
+            "keyword": "New York"
+        },
+        {
+            "news_title": "The Real Trump Scandal",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "Top U.S. Diplomat in Ukraine to Leave Post in January ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Unilever to Miss Sales Target, Putting Pressure on CEO ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Breaking Down the \u2018Boomer\u2019 Mentality",
+            "keyword": "Future View"
+        },
+        {
+            "news_title": "FISA Court Rebukes FBI Over Handling of Trump Aide Surveillance",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Dish Chairman Says Banks Lined Up to Loan $10 Billion for Wireless Network ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Halfway to the 2016 Truth",
+            "keyword": "Business World"
+        },
+        {
+            "news_title": "The Democrats Could Re-Elect Trump in 2020",
+            "keyword": "Upward Mobility"
+        },
+        {
+            "news_title": "The Climate-Change Lawsuit Debacle",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Boris Johnson and the Great Realignment",
+            "keyword": "Politics & Ideas"
+        },
+        {
+            "news_title": "Witch Hunts, Then and Now",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Making \u2018Maximum Pressure\u2019 Multilateral Again",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "\u2018Heirs of an Honored Name\u2019 Review: The Adams Family in Decline",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Notable & Quotable: Holiday Conspiracies",
+            "keyword": "Notable & Quotable"
+        },
+        {
+            "news_title": "Case Against Teen Suspect in Barnard College Student Slaying Will Proceed ",
+            "keyword": "Crime"
+        },
+        {
+            "news_title": "CFP Board to Tighten Oversight of Financial Advisers ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Johnson Pledges Full U.K. Exit From EU by End of 2020",
+            "keyword": "U.K."
+        },
+        {
+            "news_title": "Two Fed Officials Say Rates Should Hold Steady ",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "Morale Drops at Education Department\u2019s CIO Office",
+            "keyword": "CIO Journal"
+        },
+        {
+            "news_title": "India Protests Spread to Muslim Area of Capital ",
+            "keyword": "India"
+        },
+        {
+            "news_title": "New York City Launches New Push to Combat Street Homelessness ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Congress Orders Probe of Satellite Loophole China Exploited",
+            "keyword": "National Security"
+        },
+        {
+            "news_title": "Trump\u2019s Tough Letter on Impeachment Is Written in Style of His Tweets",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Regulators Find Shortcomings in Resolution Plans at Six Large U.S. Banks",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Judge Finds U.S. Liable For Hurricane Harvey Damage",
+            "keyword": "U.S."
+        }
+    ]
+}

@@ -1,0 +1,501 @@
+{
+    "Date": "2020-5-12",
+    "News": [
+        {
+            "news_title": "As Airlines Bleed Cash, United Abandons Bond Deal",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "For Chip Makers, Government Involvement Won\u2019t Come Free ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "JPMorgan Extends Banking Services to Bitcoin Exchanges ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Mail-Order Drug Delivery Rises During Lockdowns",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Huawei Struggles to Get Along Without Google",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Aramco Profit Is Hit Hard by Collapse in Oil Prices",
+            "keyword": "Earnings"
+        },
+        {
+            "news_title": "Facebook Messenger Kids: How Young Is Too Young for a Chat App?",
+            "keyword": "Family & Tech"
+        },
+        {
+            "news_title": "Amazon, Google Help States Deal With Jobless Claims",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Guardian Life, Priceline Step Up Pace of Digital Initiatives",
+            "keyword": "CIO Journal"
+        },
+        {
+            "news_title": "Wary of Volatile U.S.-Listed Chinese Stocks, Brokers Tighten Lending Rules ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "White House Directs Officials to Wear Masks Inside Building",
+            "keyword": "Health Policy"
+        },
+        {
+            "news_title": "China Economic Data Indicate V-Shaped Recovery Is Unlikely ",
+            "keyword": "Asia Economy"
+        },
+        {
+            "news_title": "Intelligence Chief Declassifies Names of Obama Officials Who \u2018Unmasked\u2019 Flynn",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Northwestern Team Develops Tool to Rate Covid-19 Research",
+            "keyword": "Artificial Intelligence"
+        },
+        {
+            "news_title": "Public Pension-Fund Losses Set Record in First Quarter",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        },
+        {
+            "news_title": "Iran Leverages Oil to Court Other U.S. Rivals During Pandemic ",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "NY Fed Says It Will Start Buying ETFs",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Distribution of Key Drug Was Flawed, Says White House Official",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Democrats See Stimulus Bill by Friday at Earliest",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "DNC Makes Plans to Allow Convention Delegates to Vote Remotely",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "U.S. Coronavirus Deaths Top 80,000 as Push to Reopen Expands",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Supreme Court Revisits Boundaries of Creek Reservation",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Coronavirus Pushes Mayo Clinic to Revisit Its Accounting Practices",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "Safety Advice for Reopening: How to Reduce Your Risks as Lockdowns Ease",
+            "keyword": "Health & Wellness"
+        },
+        {
+            "news_title": "Pennsylvania Governor Threatens Counties That Plan to Defy Virus Shutdown Orders ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "South Korea\u2019s Virus Tracking Unnerves Gay Community",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "India\u2019s Leader Calls for Economic Self-Sufficiency, Promises Relief ",
+            "keyword": "India"
+        },
+        {
+            "news_title": "National Parks Start to Reopen ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Farmers Swap Soybeans for Corn as Coronavirus Scrambles Demand ",
+            "keyword": "Commodities"
+        },
+        {
+            "news_title": "Even Toyota Can\u2019t Avoid the Coronavirus Pile-Up",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Attention Kmart Shoppers: We Still Exist! ",
+            "keyword": "Overheard"
+        },
+        {
+            "news_title": "Luckin Coffee Terminates CEO",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "A Social-Distancing Scavenger Hunt",
+            "keyword": "Reading & Retreating"
+        },
+        {
+            "news_title": "Coronavirus Lockdowns Trigger Big Drop in Consumer Prices ",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "After Coronavirus, Government Will Have to Shrink",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Democrats Should Back \u2018Safe Harbor\u2019 Liability Protection",
+            "keyword": "Politics & Ideas"
+        },
+        {
+            "news_title": "Turkey Strains to Ward Off Currency Crisis ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Europe Finds Borders Harder to Open After Coronavirus Closures ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "On the Ground in Wuhan, Signs of China Stalling Probe of Coronavirus Origins",
+            "keyword": "China"
+        },
+        {
+            "news_title": "Fed\u2019s Harker: Economy Recovery Likely to Be Uneven ",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Pioneer Energy Wins Confirmation of Modified Chapter 11 Plan ",
+            "keyword": "Pro Bankruptcy Bankruptcy"
+        },
+        {
+            "news_title": "Specter of Deflation Rises Again ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Congress to Investigate Protective-Gear Supplier Blue Flame ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Morgan Stanley to Pay $5 Million Settlement on Wrap-Fee Claims ",
+            "keyword": "Risk & Compliance Journal"
+        },
+        {
+            "news_title": "Waymo Adds $750 Million to War Chest as Driverless Cars Prove Tough to Deploy",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Why Money, Not Safety, Could Derail Baseball in 2020",
+            "keyword": "MLB"
+        },
+        {
+            "news_title": "Big Advertisers Set to Cancel Commitments to TV Networks",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "U.K. Ferry Operator Cuts 25% of Staff ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "A \u2018Pink Panthermobile\u2019 Restored to Its Original Condition",
+            "keyword": "My Ride"
+        },
+        {
+            "news_title": "Boeing Orders Slip Below 5,000 on MAX Cancellations ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Rob Lowe\u2019s Former Montecito Home Asks $22.5 Million",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Same Owner, Very Different Homes For Sale in Montecito",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Nothing Irritates a Masked Walker Like an Unmasked Runner",
+            "keyword": "The A-Hed"
+        },
+        {
+            "news_title": "New York City Parks Struggle Amid Coronavirus Pandemic ",
+            "keyword": "Metro Money"
+        },
+        {
+            "news_title": "Ahmaud Arbery Shooting Puts Fresh Scrutiny on Use of Citizen\u2019s Arrest",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Aramco Shares Offer a Stake in the Kingdom",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "How Tourist Destinations Are Reconfiguring to Reopen Safely",
+            "keyword": "Life & Style"
+        },
+        {
+            "news_title": "Security Chiefs Look to Justify Cybersecurity Costs During Business Downturn ",
+            "keyword": "Pro Cyber News"
+        },
+        {
+            "news_title": "Private-Equity Owners of Oil Tanks See Little Gain From Surging Demand for Storage ",
+            "keyword": "Pro PE Industry News"
+        },
+        {
+            "news_title": "Toyota Sees Recovery This Year ",
+            "keyword": "Autos Industry"
+        },
+        {
+            "news_title": "A Perfect Game Inspired Dale Berra\u2019s First Name",
+            "keyword": "House Call"
+        },
+        {
+            "news_title": "Crime-Scene Cleaners See Surge in Demand\u2026From Retailers    ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Changes to Relief Program Trip Up Small Businesses Seeking Loans",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Bugs, Rain and Lawn Mowers: The Unexpected Hassles of Moving Your Office Outdoors",
+            "keyword": "Life & Style"
+        },
+        {
+            "news_title": "Four World-Famous Chefs on Where Destination Dining Will Go",
+            "keyword": "Food"
+        },
+        {
+            "news_title": "Another Malaria Cure Draws Attention for Coronavirus Treatment, This Time in Africa",
+            "keyword": "Africa"
+        },
+        {
+            "news_title": "Israeli Soldier Killed During West Bank Operation ",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "Simon Property Wants to Reopen Malls, but Gets Stymied by Political Opposition ",
+            "keyword": "Property Report"
+        },
+        {
+            "news_title": "Fewer Students Apply for College Financial Aid Amid Pandemic ",
+            "keyword": "Education"
+        },
+        {
+            "news_title": "Coming Soon: Theaters Go Back to the Future With $2 Retro Blockbusters ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Luxury Slump Slashes Rents on Hong Kong\u2019s Glitzy Shopping Streets",
+            "keyword": "Real Estate"
+        },
+        {
+            "news_title": "Senior Housing Faces Higher Vacancy Rates ",
+            "keyword": "Property Report"
+        },
+        {
+            "news_title": "Their Ship Came in as Oil Prices Crashed ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Coronavirus to Force California Public Universities Largely Online for Fall",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "House Democrats Release $3 Trillion Coronavirus Bill",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "All the Adam Schiff Transcripts",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Elon Musk Isn\u2019t Taking It Anymore",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "\u2018Faithless Electors\u2019 at the Supreme Court",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "China\u2019s Beef With Australia",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "U.S. vs. South Korea: Behind the Coronavirus Testing Numbers",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Coronavirus Could Force Colleges to Trim Some Fat",
+            "keyword": "Future View"
+        },
+        {
+            "news_title": "NYPD Arrest Over 100 People for Crimes Related to Coronavirus ",
+            "keyword": "Crime"
+        },
+        {
+            "news_title": "Iron Mountain Discloses Potential Sanctions Violations ",
+            "keyword": "Risk & Compliance Journal"
+        },
+        {
+            "news_title": "Soft-Shell Crabs Are Back\u2014and a Bargain",
+            "keyword": "New York"
+        },
+        {
+            "news_title": "Federal Retirement Plan Is Told to Avoid Chinese Stocks",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "China Wants to Help the World Fight Coronavirus",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "\u2018Faithless\u2019 Electors Are Faithful to the Constitution",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Shutdowns Sow Seeds of Starvation",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "In Lockdown, Pot and Booze Are Bad News",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Uber Makes Takeover Approach to Grubhub",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "The Recovery Needs Immigrants",
+            "keyword": "Upward Mobility"
+        },
+        {
+            "news_title": "Flavor Company IFF Juggles Proposed Merger and Pandemic Management ",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "\u2018Flash Crash\u2019 Review: Spoo\ufb01ng the Tape",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Elon Musk Is Our New ACLU",
+            "keyword": "Business World"
+        },
+        {
+            "news_title": "Connecticut Governor Ousts Public Health Commissioner ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Dura Automotive Sold in $65 Million Bankruptcy Deal ",
+            "keyword": "Pro Bankruptcy Bankruptcy"
+        },
+        {
+            "news_title": "SUNY Curbs Spending, Braces for More Cuts Amid Pandemic",
+            "keyword": "Schools"
+        },
+        {
+            "news_title": "Bond ETFs Climb as the Fed Kicks Off Historic Purchase Program    ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "How to Practice Social Distancing as the Coronavirus Spreads",
+            "keyword": "Health & Wellness"
+        },
+        {
+            "news_title": "ESG Investing Shines in Market Turmoil, With Help From Big Tech ",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Fed's Mester Expects Economy to Rebound Some in Second Half of 2020 ",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "The Staying Inside Guide: Martha Graham\u2019s Magic at Home",
+            "keyword": "Dance Review"
+        },
+        {
+            "news_title": "Militants Attack Afghan Hospital, Killing Babies",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Fiat\u2019s Agnelli Family Sees $9 Billion Sale of Insurance Business Falter ",
+            "keyword": "Deals"
+        },
+        {
+            "news_title": "Easing Oversupply Fears Lift Oil Prices ",
+            "keyword": "Oil Markets"
+        },
+        {
+            "news_title": "U.S. Stocks Extend Fall as Dow Drops More Than 450 Points",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "\u2018Snowpiercer\u2019 Review: Trying to Keep the Narrative on Track ",
+            "keyword": "Television Review"
+        },
+        {
+            "news_title": "U.S. Budget Deficit Widened to $1.935 Trillion in 12 Months Through April ",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "Upgrade Your Kid\u2019s Quarantine Blanket Forts",
+            "keyword": "Design"
+        },
+        {
+            "news_title": "Disney+ Takes Its Shot at \u2018Hamilton\u2019 Movie With Early Online Debut",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "Economy Has Likely Bottomed, Poised for Rebound, Says Fed\u2019s Barkin",
+            "keyword": "Economy"
+        },
+        {
+            "news_title": "Private-Equity Firms Stand to Get Direct U.S. Development Investments ",
+            "keyword": "Pro PE Announcements"
+        },
+        {
+            "news_title": "Found: the Perfect Black Leggings",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "Uber Wants a Seat at the Head of the Table ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Simon & Schuster CEO Reidy Has Died ",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "That Other Epidemic",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "A.I. Home Fitness Machines Push You Past Your Limits",
+            "keyword": "Gear & Gadgets"
+        },
+        {
+            "news_title": "The Freshest Spring Salad",
+            "keyword": "Food & Drink"
+        },
+        {
+            "news_title": "Dealing With China and Our Own Problems",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Don\u2019t Count on the NLRB\u2019s Sense of Humor ",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Murky Public Evidence on Wuhan Lab Leak",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "McConnell Sets Boundaries On State Financial Failure",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Will Covid-19 Resurrect the Doctor\u2019s House Call of Old?",
+            "keyword": "Letters"
+        }
+    ]
+}

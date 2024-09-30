@@ -1,0 +1,521 @@
+{
+    "Date": "2020-10-14",
+    "News": [
+        {
+            "news_title": "Amy Coney Barrett Closes Out Testimony, on Track for Senate Approval",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "No Improper Activity Seen in \u2018Unmasking\u2019 Requests Under Obama ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Recycled-Plastic Maker Loop Denies Short Seller\u2019s Accusations",
+            "keyword": "Risk & Compliance Journal"
+        },
+        {
+            "news_title": "Joe Biden Raised $383 Million in September, Breaking Earlier Record",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "China Drugmaker Gives Unproven Covid-19 Vaccine to Students Going Abroad",
+            "keyword": "China"
+        },
+        {
+            "news_title": "Trump Campaigns in Iowa as Polls Show Tight Race",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "Two Americans Held Hostage by Iran-Backed Forces in Yemen Set Free",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Albertsons Wins Bankruptcy Auction for Kings and Balducci\u2019s Stores ",
+            "keyword": "Pro Bankruptcy Bankruptcy"
+        },
+        {
+            "news_title": "Alabama Coach Nick Saban Tests Positive for Covid-19 as Virus Disrupts SEC",
+            "keyword": "College Football"
+        },
+        {
+            "news_title": "TikTok Supplier Fastly Cuts Expectations, Cites Weakness at Video App",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Vista Equity\u2019s Robert Smith Reaches Settlement With DOJ ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Suicide Accounts for Most Gun Deaths. A Libertarian Approach Could Help. ",
+            "keyword": "Essay"
+        },
+        {
+            "news_title": "What CIOs Can Learn From the Race to Understand Covid-19 Data ",
+            "keyword": "CIO Journal"
+        },
+        {
+            "news_title": "Wells Fargo Fires Employees Who Applied for SBA Pandemic Loans ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Aaron Sorkin\u2019s \u2018Trial of the Chicago 7\u2019 Comes to Netflix",
+            "keyword": "Film"
+        },
+        {
+            "news_title": "Facebook\u2019s Conservative Emergency ",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Amazon Cancels Shelby Steele ",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "California\u2019s Next Big Tax Gulp",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "The Supreme Court\u2019s Census Reprieve",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "TikTok Rivals Seek to Exploit U.S. Action, Lawyers Say in Court Filings ",
+            "keyword": "National Security"
+        },
+        {
+            "news_title": "\u2018God in Gotham\u2019 Review: Spires and Skyscrapers",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Twitter Data-Breach Case Won\u2019t Be Resolved Before Year\u2019s End, Ireland\u2019s Regulator Says",
+            "keyword": "Pro Cyber News"
+        },
+        {
+            "news_title": "Trump Has No Time Left to Spare",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Democrats Assured ACA Would Come Before ACB",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "The Constitution Makes Beautiful Music",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Amy Coney Barrett\u2019s Christian Religiosity",
+            "keyword": "Wonder Land"
+        },
+        {
+            "news_title": "Notable & Quotable: Ted Cruz on Sheldon Whitehouse and His Friend, the Judge",
+            "keyword": "Notable & Quotable"
+        },
+        {
+            "news_title": "Fed\u2019s Clarida Says Continuing Support Will Be Needed to Sustain Recovery ",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "United Airlines Hunkers Down for Long Air-Travel Drought ",
+            "keyword": "Earnings"
+        },
+        {
+            "news_title": "Pelosi, Mnuchin Disagree on Testing, Continue Stimulus Talks",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Fed Official Wonders Whether Treasury Market Can Handle Massive Issuance Alone",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Amy Cooper Appears in Court for Calling 911 on Black Bird-Watcher ",
+            "keyword": "Crime"
+        },
+        {
+            "news_title": "What Happened to the Economy Under Trump Before Covid and After",
+            "keyword": "Jobs"
+        },
+        {
+            "news_title": "Barron Trump Tested Positive for Covid-19 Earlier This Month",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Gov. Cuomo Threatens to Withhold Funds from New York City, Other Covid-19 Hot Spots ",
+            "keyword": "Tri-State Area"
+        },
+        {
+            "news_title": "Meat Giant JBS\u2019s Owner Settles U.S. Corruption Charges",
+            "keyword": "Latin America"
+        },
+        {
+            "news_title": "Starbucks Is Linking Executive Pay to Diversity Targets",
+            "keyword": "Jobs"
+        },
+        {
+            "news_title": "Macy\u2019s Names New CFO to Help Navigate Business Transformation, Pandemic ",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "Illegal Border Crossings Rise Since Hitting Three-Year Low in April",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Europe Overtakes U.S. in New Cases of Covid-19",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Stocks Slide as Stimulus Prospects Dim",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "Two Senior Officials Leave New York City Government ",
+            "keyword": "New York"
+        },
+        {
+            "news_title": "The Teachers Union\u2019s Tiny New Enemy",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "In Newburyport, Million-Dollar Homes Are Flying Off the Shelves",
+            "keyword": "Real Estate"
+        },
+        {
+            "news_title": "The Look of a Late-Period Federal",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Updating a Victorian Home",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Along the Streets of Newburyport, Mass.",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Pandemic Spending Threatens Brazilian Stocks\u2019 Hard-Won Climb ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Normalcy? Not From a Biden Administration",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Copyright Law and iPhones Too Easy to Use",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Mental-Health Responders Can Help Police",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Adams Considered People\u2019s Vote in 1800 and Ignored It",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Racism and the Only Right Way of Thinking",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Business Roundtable Is Changing as the Times Change ",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Wells Fargo Earnings Drop 56%",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Bank of America Profit Falls 16%",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Goldman Sachs Profit Nearly Doubles",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Wisconsin Judge Temporarily Blocks State Order on Taverns",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Broadway Is Dark, but a Famed Theater District Restaurant Is Turning on the Lights",
+            "keyword": "New York"
+        },
+        {
+            "news_title": "Second Covid-19 Vaccine Approved by Russia ",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Collusion Theory Promoters Attack New Biden Story",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "Poor Nations Get 6-Month Extension on Suspended Debt Payments ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Amazon Expands NFL Coverage With Playoff Game",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "How One Winery Is Coping With the Napa Fire",
+            "keyword": "On Wine"
+        },
+        {
+            "news_title": "Supply-Chain Tech Firm E2open to Go Public in SPAC Deal",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Someone Paid $32 Million for a Dinosaur. I Swear It Wasn\u2019t Me.",
+            "keyword": "Jason Gay"
+        },
+        {
+            "news_title": "\u2018Des\u2019 Review: Hunting Down a Killer\u2019s Victims",
+            "keyword": "Television Review"
+        },
+        {
+            "news_title": "\u2018The Age of Nature\u2019 Review: Back From the Brink",
+            "keyword": "Television Review"
+        },
+        {
+            "news_title": "Oil Recovery Expected to Falter Though Supply Glut Shrinks",
+            "keyword": "Commodities"
+        },
+        {
+            "news_title": "What to Watch: Political Picks for Election Season",
+            "keyword": "Screen Time"
+        },
+        {
+            "news_title": "A Chicago-Area Mansion Inspired by George Keck\u2019s House of Tomorrow Lists Today for $2.9 Million",
+            "keyword": "Homes"
+        },
+        {
+            "news_title": "Democrats Once Seen as Long Shots Are Now Contenders for Senate",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "Inside a Lake Forest Mansion",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Rebuilding a House of Tomorrow",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Handbags Aren\u2019t Dead. Four You\u2019ll Love for Fall.",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "Building Up Their Memory",
+            "keyword": "Art Review"
+        },
+        {
+            "news_title": "Day-Care Centers Are Very Low Risk for Covid-19 Transmission, Study Says",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Covid-19 Cases Are Rising in More Than 40 States ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Goldman Sachs Adds Polish to Trading ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "WeChat Threatens Free Speech",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Trump, Biden to Hold Dueling TV Town Halls Thursday ",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "Early Voting in Texas Breaks Records",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "Ann Taylor Parent Gets $35 Million Offer for Tween Brand Justice",
+            "keyword": "Pro Bankruptcy Bankruptcy"
+        },
+        {
+            "news_title": "What Happens to the Musicians When the Orchestra Music Stops? ",
+            "keyword": "Music"
+        },
+        {
+            "news_title": "Trump Stresses Economic Record in Virtual Speech ",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "New York Regulator Urges Oversight for Social-Media Giants ",
+            "keyword": "Pro Cyber News"
+        },
+        {
+            "news_title": "Pilgrim\u2019s Pride Reaches Plea Deal on Chicken Price-Fixing Allegations ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "5 Fall Camping Getaways\u2014From Effortless to Truly Adventurous ",
+            "keyword": "Off Duty Travel"
+        },
+        {
+            "news_title": "Court Extends Virginia\u2019s Voter-Registration Deadline",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "Goodbye, Sunny Florida. Hello, Frigid Winter. Covid Strands Canadian Snowbirds",
+            "keyword": "The A-Hed"
+        },
+        {
+            "news_title": "UnitedHealth Profit Declines, Reflecting Return to More Usual Health-Care Levels ",
+            "keyword": "Earnings"
+        },
+        {
+            "news_title": "Apple\u2019s iPhone 12: Sizing Up the 12, 12 Pro, 12 Pro Max and 12 Mini",
+            "keyword": "Review | Nicole Nguyen"
+        },
+        {
+            "news_title": "iPhone 12 vs. iPhone 11 vs. iPhone SE vs. iPhone XR: Comparing Apple\u2019s Full Lineup",
+            "keyword": "Review | Joanna Stern"
+        },
+        {
+            "news_title": "Bribery Probe Into a Nuclear Plant Bailout Examines Facilities\u2019 Owner ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Israeli Businesses Seek Workarounds as Covid-19 Lockdown Hits Their Bottom Lines",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "In Austin, a Backyard Shed Makes Way for a Contemporary Casita",
+            "keyword": "Homes"
+        },
+        {
+            "news_title": "Indonesia Weighs Approving Chinese Covid-19 Vaccines for Emergency Use",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "Part Shed, Part Home, Part Sculpture",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Starbucks Ties Executive Pay to Diversity Targets",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Football\u2019s Most Essential Workers During a Pandemic: Long Snappers",
+            "keyword": "College Football"
+        },
+        {
+            "news_title": "Barr\u2019s Justice Department Touts Fighting Gun Violence as Election Approaches ",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "U.K.\u2019s MI5 Steps Up Effort to Protect Covid-19 Vaccine Research",
+            "keyword": "U.K."
+        },
+        {
+            "news_title": "The Verdict on Trump\u2019s Economic Stewardship, Before Covid and After",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Slack\u2019s Latest Collaboration Falls Flat on Its Feet ",
+            "keyword": "Overheard"
+        },
+        {
+            "news_title": "With This Sauce in the Fridge, You Always Have a Meal Ready to Go",
+            "keyword": "Slow Food Fast"
+        },
+        {
+            "news_title": "The NFL Tries to Prevent Its Own Covid-19 Second Wave",
+            "keyword": "NFL"
+        },
+        {
+            "news_title": "Airlines Pitch Frequent-Flier Mile Deals to Wary Travelers",
+            "keyword": "The Middle Seat"
+        },
+        {
+            "news_title": "Apple Counts on 5G to Boost iPhone Fortunes in China",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Are Blankets the New Going-Out Accessory?",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "Concho Resources, Pilgrim's Pride, AMC: What to Watch When the Stock Market Opens Today",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "This Small Lumber Company Beat Back a Blaze. Rebuilding Is a Bigger Battle. ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Pandemic Response Will Drive Up Global Public Debt to a Record, IMF Says ",
+            "keyword": "Economy"
+        },
+        {
+            "news_title": "Covid-19 Travel Bubbles Were Set to Restore Flying but Haven\u2019t Taken Off",
+            "keyword": "World"
+        },
+        {
+            "news_title": "As Supreme Court Case on Affordable Care Act Looms, GOP Divided on How\u2014and Whether\u2014to Replace It",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "BlackRock Bets on U.K. Electric-Vehicle Startup Arrival With $118 Million Investment",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Arbor Refuels With Fresh $1.67 Billion for Food and Beverage Deals ",
+            "keyword": "Pro PE Fund News"
+        },
+        {
+            "news_title": "Should Fiscal Policy Get More Chinese?",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Apparel\u2019s Next Hot Destination Could Be Target or Walmart",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "New York City\u2019s New Health Commissioner Is Worried About Coronavirus Resurgence",
+            "keyword": "New York"
+        },
+        {
+            "news_title": "Google Was a Godsend for These Companies. Now It\u2019s a Rival.",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Covid-19, Cristiano Ronaldo, and the Risks of International Soccer",
+            "keyword": "Soccer"
+        },
+        {
+            "news_title": "AWS, Cohesity Announce Partnership Aimed at Tackling Data Silos",
+            "keyword": "CIO Journal"
+        },
+        {
+            "news_title": "Australia Worries Coal Is China\u2019s Next Target as Ties Fray",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "An Unpopular IPO Rule Hands Chinese Banks Big Windfalls",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Where Trump and Biden Stand on Helping Small Businesses",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "Pandemic Pets Push Industry Stocks to Pricey Valuations",
+            "keyword": "Stocks"
+        },
+        {
+            "news_title": "Abandoned City Offices Are Still a Safer Property Bet",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Turkish-Backed Syrian Fighters Join Armenian-Azeri Conflict ",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        }
+    ]
+}

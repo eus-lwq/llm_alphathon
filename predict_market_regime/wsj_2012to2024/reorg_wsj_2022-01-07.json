@@ -1,0 +1,533 @@
+{
+    "Date": "2022-1-7",
+    "News": [
+        {
+            "news_title": "Southwest, Apple, GameStop: Stocks That Defined the Week",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Purdue Pharma Authorized to Appeal Judge\u2019s Rejection of Sackler Settlement Plan",
+            "keyword": "Pro Bankruptcy"
+        },
+        {
+            "news_title": "Employers, Investors Take Notice of AI Tools to Speed Job Recruitment ",
+            "keyword": "CIO Journal"
+        },
+        {
+            "news_title": "Accounting Firms Scoop Up Virtual Land in the Metaverse ",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "Legal Scholar Lani Guinier Dies at Age 71",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "A Dangerous Moment for Europe",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "The Vaccine Mandate \u2018Work-Around\u2019 May Run Aground",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Carving Up Biden\u2019s Inflation Beef",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "The Worker Supply Bottleneck",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Global Covid-19 Cases Cross 300 Million Mark",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Supreme Court Shows Skepticism Over Biden\u2019s Covid-19 Vaccinate-or-Test Mandate",
+            "keyword": "Health Policy"
+        },
+        {
+            "news_title": "After Two Weeks of Flight Cancellations, Airlines Assess What Went Wrong",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Colorado Home For Sale Ups its Price to $55 Million",
+            "keyword": "Market Makers"
+        },
+        {
+            "news_title": "Why the Jan. 6 \u2018Big Lie\u2019 Narrative Will Fail",
+            "keyword": "Business World"
+        },
+        {
+            "news_title": "Reading Shakespeare in a Sea of Troubles",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "For Winsome Sears, Education Is the Key to Black Success",
+            "keyword": "Cross Country"
+        },
+        {
+            "news_title": "Notable & Quotable: Authoritarianism",
+            "keyword": "Notable & Quotable"
+        },
+        {
+            "news_title": "Former McKinsey Guru Tried to Shape Up Ben & Jerry\u2019s ",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "New York to Mandate Covid-19 Boosters for Healthcare Workers",
+            "keyword": "New York"
+        },
+        {
+            "news_title": "Sidney Poitier (1927-2022): A Man in Full",
+            "keyword": "Cultural Commentary"
+        },
+        {
+            "news_title": "An Advertisement for His Brilliance",
+            "keyword": "Masterpiece"
+        },
+        {
+            "news_title": "Stocks Close Lower After Jobs Report",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "CDC Director Encourages Schools to Stay Open With Covid-19 Precautions ",
+            "keyword": "Health & Wellness"
+        },
+        {
+            "news_title": "What to Read This Week",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Trump\u2019s Niece Buys New York Condo for $7 Million After Tell-All Book",
+            "keyword": "Private Properties"
+        },
+        {
+            "news_title": "Three Men Get Life in Prison for Killing of Ahmaud Arbery",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "GameStop Stock Jumps After Company Enters NFTs",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Best of CES 2022: New Tech That\u2019s Practical, Innovative or Just Plain Crazy",
+            "keyword": "Personal Technology: Review"
+        },
+        {
+            "news_title": "Deliveroo, Probing Restaurant-Delivery Snags, Plans to Open Eatery",
+            "keyword": "CMO Today"
+        },
+        {
+            "news_title": "Omicron Wave Catches Olympic Hopeful Alysa Liu at U.S. Figure Skating Championships",
+            "keyword": "Olympics"
+        },
+        {
+            "news_title": "Trail Mix (Variety Puzzle, January 8)",
+            "keyword": "Variety Puzzle"
+        },
+        {
+            "news_title": "Letter Carriers (Saturday Crossword, January 8)",
+            "keyword": "Crossword"
+        },
+        {
+            "news_title": "Kazakh Leader Gives Security Forces Order to Shoot Without Warning",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Biden to Deliver State of the Union Address on March 1",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Families Shell Out for Tests as Officials Race to Offer More",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Winter Storm Blankets East Coast, Prompting Government, School Closures",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Jobs Report Likely Keeps Fed on Track for Rate Rise in March ",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "Artists at Work in a New Year",
+            "keyword": "Icons"
+        },
+        {
+            "news_title": "New Studies Find Unprecedented Impact from Supply-Chain Turmoil ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Member of Prominent Schottenstein Family to Plead Guilty in Insider-Trading Case ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Andrew Cuomo Sex-Crime Charge Dismissed by Albany Judge ",
+            "keyword": "New York"
+        },
+        {
+            "news_title": "Biden Administration Begins to Redirect Rental Assistance ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Nonprofit Leader Crusaded Quietly to Protect Pension Benefits ",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "FedEx Warns of Shipping Delays as Omicron Hurts Staffing",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "John Legend Sells His Music Catalog to KKR, BMG ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Hiring Hit Annual Record Despite December Slowdown",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "Leonard Green Sets $17 Billion Goal for Latest Fundraising Round ",
+            "keyword": "Pro PE Fund News"
+        },
+        {
+            "news_title": "These Workers Wanted to Quit Their Jobs. They Got Promoted Instead.",
+            "keyword": "Management & Careers"
+        },
+        {
+            "news_title": "Amazon Shortens Its Covid-19 Isolation Period for Workers",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "How the Waistband Got Its Stretch",
+            "keyword": "Historically Speaking"
+        },
+        {
+            "news_title": "Bed Bath and Beyond Is Closing More Stores",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Citigroup to Staff: Follow Our Vaccine Mandate Or We Really Will Fire You ",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "A Look at Putin Through the Soviet Lens",
+            "keyword": "The Weekend Interview"
+        },
+        {
+            "news_title": "New York\u2019s Race-Based Preferential Covid Treatments",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Patients Lose as the Practice of Medicine Coarsens",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "As Norms Crumble, Watch the Federal Reserve",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Capitol Riot: The Musical!",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "Cyber Ninjas Closes Down Amid Debt, Legal Challenges ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "In Praise of Passive Investing",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "The Tragedy of \u2018Special Ed\u2019",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "New Debt-Collection Rules: What They Mean for Consumers",
+            "keyword": "Journal Reports: Personal Investing"
+        },
+        {
+            "news_title": "Ski Trips for a Steal: Canada\u2019s Top Insider Spots",
+            "keyword": "Off Duty Travel"
+        },
+        {
+            "news_title": "Enough About Jan. 6 Already",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "The Hottest ETF Sectors for Investors to Bet On in 2022",
+            "keyword": "Journal Reports: Personal Investing"
+        },
+        {
+            "news_title": "Howard Nathan Spent Decades \u2018On Call\u2019 for Organ Transplants",
+            "keyword": "Weekend Confidential"
+        },
+        {
+            "news_title": "\u2018Revenge Recalls\u2019 Spark Debate in Taiwan: How Much Democracy Is Too Much?",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "Taiwan Stages Military Drills to Deter Chinese Aggression",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "Sidney Poitier Excelled in Roles That Challenged the Status Quo",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Kazakhstan\u2019s Elite Got Richer on Natural Resources. Then Came the Unrest.",
+            "keyword": "World"
+        },
+        {
+            "news_title": "\u2018Chasing History\u2019 Review: Wishing on a Star",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Five Best: Books on the Global March to War",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Fiction: \u2018To Paradise\u2019 Review",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "\u2018The Greeks\u2019 Review: Hellenism Triumphant",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "\u2018The War of Jenkins\u2019 Ear\u2019 Review: The Lobe Heard Round the Globe ",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Omicron and the Week America Is Calling In Sick       ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Are Massive Chandeliers in Homes the Next (Really) Big Thing?",
+            "keyword": "Design"
+        },
+        {
+            "news_title": "Children\u2019s Books: Riding a Tiger, Driving a Dog Sled",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "A Kidnapping Negotiator Gets His Biggest Test: Saving His Own Wife",
+            "keyword": "Africa"
+        },
+        {
+            "news_title": "\u2018The History of Akbar\u2019 Review: Enlightening Tales of His Imperial Self",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "In Omicron Fight, Highly Vaccinated Israel, U.K. Ditch Some Restrictions",
+            "keyword": "World"
+        },
+        {
+            "news_title": "The Best Investment for This Coming Crazy Year",
+            "keyword": "The Intelligent Investor"
+        },
+        {
+            "news_title": "Startups Aim to Broaden the Market for Sexual-Health Devices",
+            "keyword": "The Future of Everything | Well-Being"
+        },
+        {
+            "news_title": "Is Nuclear Power Part of the Climate Solution?",
+            "keyword": "The Saturday Essay"
+        },
+        {
+            "news_title": "\u2018Literary Alchemist\u2019 Review: Finding Gold Everywhere",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "\u2018Longing and Other Stories\u2019 Review: The Moon\u2019s Tears.",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Behind Omicron\u2019s Haze, a Booming Jobs Market ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Mysteries: \u2018A Thousand Steps\u2019 Review",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "New York Times Agrees to Purchase the Athletic ",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "What Is \u2018Flurona\u2019? What to Know About Covid-19 and Flu",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "In Kazakhstan, Putin\u2019s Dictator Protection Racket Is on Display",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "The Betrayal Myth Behind Putin\u2019s Brinkmanship",
+            "keyword": "Essay"
+        },
+        {
+            "news_title": "Novak Djokovic\u2019s Waiting Game in an Australian Quarantine Hotel",
+            "keyword": "Tennis"
+        },
+        {
+            "news_title": "The Sabbatical, a Power Move for the Burnout Era",
+            "keyword": "Work & Life"
+        },
+        {
+            "news_title": "What to Do When All Your Employees Want to Leave",
+            "keyword": "Management & Careers"
+        },
+        {
+            "news_title": "When Goats Become Firefighters, Not Everyone Follows Orders",
+            "keyword": "The A-hed"
+        },
+        {
+            "news_title": "GameStop, AMC, DraftKings, Starbucks: What to Watch in the Stock Market Today",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "Cruise Operators Can\u2019t Touch This ",
+            "keyword": "Overheard"
+        },
+        {
+            "news_title": "How an NFL Game Became a Prisoner\u2019s Dilemma",
+            "keyword": "NFL"
+        },
+        {
+            "news_title": "\u2018Tin Pan Alley\u2019: Where Songwriters Once Banged Away on Cheap Pianos",
+            "keyword": "Word on the Street"
+        },
+        {
+            "news_title": "Omicron Fuels U.K.\u2019s Biggest Covid-19 Surge, but Few Need Ventilators",
+            "keyword": "U.K."
+        },
+        {
+            "news_title": "Streaming Changes Diminish CW\u2019s Value to its Owners",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "CIOs Share Their Favorite Work-From-Home Gadgets",
+            "keyword": "CIO Journal"
+        },
+        {
+            "news_title": "Why Young Adults Are Delaying Parenthood",
+            "keyword": "Young Money"
+        },
+        {
+            "news_title": "One of China\u2019s Stronger Developers Falls Rapidly From Favor ",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "What a Videogame Slump Sounds Like ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Investment Impact of $1 Trillion Infrastructure Measure Seen as Mixed ",
+            "keyword": "Pro PE Industry News"
+        },
+        {
+            "news_title": "Georgia Football Has an Alabama Problem",
+            "keyword": "College Football"
+        },
+        {
+            "news_title": "Eurozone Inflation Hits a Record, Further Pressuring ECB",
+            "keyword": "Europe Economy"
+        },
+        {
+            "news_title": "Hong Kong Officials Quarantined After Covid-19 Case at Tapas Birthday Party",
+            "keyword": "China"
+        },
+        {
+            "news_title": "A Closer Look",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "A Closer Look",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "A Closer Look",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "A Closer Look",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "A Closer Look",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Premium Economy Might Be a Downgrade for Investors",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "What Inflation Will Do to Your 2022 Taxes",
+            "keyword": "Tax Report"
+        },
+        {
+            "news_title": "Colorado Fire Victims Face High Building Costs Exceeding Insurance Coverage",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Frustrated They Can\u2019t Get Covid-19 Tests, Americans Go About Their Lives ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Investors Brace for Slowing Corporate Bond Sales",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        },
+        {
+            "news_title": "Tim Cook Received Nearly $100 Million in Compensation in 2021",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Samsung Electronics Expects 52% Rise in Quarterly Operating Profit ",
+            "keyword": "Earnings Preview"
+        },
+        {
+            "news_title": "Bed Bath & Beyond Posts Sales Decline Amid Supply-Chain Disruptions ",
+            "keyword": "Earnings"
+        },
+        {
+            "news_title": "Japan Criticizes U.S. Response After Omicron Spreads Near Bases ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Elizabeth Holmes Jury Seized on Two \u2018Smoking Guns\u2019 to Convict Theranos Founder, Juror Says",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Friends With Ties to Boards of Designer Brands, Albertsons Charged in Insider Trading Ring ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "CDC Relaxes Isolation, Quarantine Guidelines for Schools",
+            "keyword": "Education"
+        },
+        {
+            "news_title": "Colorado Wildfire Destruction Was Caused by Embers Flung for Miles",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Mexico Requests USMCA Panel in Dispute Over Auto Rules",
+            "keyword": "Autos Industry"
+        },
+        {
+            "news_title": "Mortgage Rates Hit Highest Levels Since Spring 2020 ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Google Loses to Sonos in Ruling That Bars Some Device Imports",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "BuzzFeed Adds to C-Suite Following Public Market Debut",
+            "keyword": "Media & Marketing"
+        }
+    ]
+}

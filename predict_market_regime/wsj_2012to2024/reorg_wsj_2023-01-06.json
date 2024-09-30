@@ -1,0 +1,477 @@
+{
+    "Date": "2023-1-6",
+    "News": [
+        {
+            "news_title": "New York City Bans ChatGPT in Schools Over Cheating Concerns",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Vince McMahon Returns to WWE",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "How Drew and Jonathan Scott Became the Property Brothers",
+            "keyword": "Weekend Confidential"
+        },
+        {
+            "news_title": "West Virginia Budget Surplus Spurs Governor to Promote Tax Breaks",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Labor Market Boom Cooled Some in 2022",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "U.S. Sails Warship Through Taiwan Strait as China Watches Sternly",
+            "keyword": "China"
+        },
+        {
+            "news_title": "Damar Hamlin FaceTimes Teammates, Continuing Recovery",
+            "keyword": "NFL"
+        },
+        {
+            "news_title": "As the U.S. Gets Older, Some ETFs Bet on Aging in Place",
+            "keyword": "Journal Reports: Investing Monthly"
+        },
+        {
+            "news_title": "Fed Official Says Inflation Remains Too High",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Too-Long Pants Aren\u2019t Just for Schlumpy Dads Anymore. How to Wear Them With Style.",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "The Fed\u2019s Fear of a Wage-Price Spiral Might Soon Abate",
+            "keyword": "Heard on the street"
+        },
+        {
+            "news_title": "The 20-Year-Old Star at the Center of the U.S. Soccer Scandal",
+            "keyword": "Soccer"
+        },
+        {
+            "news_title": "Michigan State Football Player Pleads Guilty to Misdemeanors in Michigan Stadium Tunnel Incident",
+            "keyword": "College Football"
+        },
+        {
+            "news_title": "\u2018The Huxleys\u2019 Review: Darwin\u2019s Bulldog and the Line He Bred",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Think You\u2019ll Save Money With Dry January? Not at $17 for a Mocktail",
+            "keyword": "The A-hed"
+        },
+        {
+            "news_title": "\u2018The Hong Kong Diaries\u2019 Review: The Last Governor",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "EPA Proposes New Rules to Limit Soot From Power Plants, Vehicles",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "New York or Basque-Style Cheesecake? Why Not Both?",
+            "keyword": "Food & Drink"
+        },
+        {
+            "news_title": "Your Investing Strategy Just Failed. It\u2019s Time to Double Down.",
+            "keyword": "The Intelligent Investor"
+        },
+        {
+            "news_title": "What Airline Chaos Looks Like From the Inside",
+            "keyword": "The Saturday Essay"
+        },
+        {
+            "news_title": "\u2018Still Pictures\u2019 Review: Janet Malcolm\u2019s Snapshots of Time",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Fiction: Revisiting Norman Mailer\u2019s \u2018The Naked and the Dead\u2019",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Mysteries: Death in a Cold Climate",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "\u2018Crooked, but Never Common\u2019 Review: The Comedy of Preston Sturges",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "What Are the Republicans Up to in the House?",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "\u2018House Concert\u2019 Review: Keyboards, Lockdowns, Uploads",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Gen Z: Coddled, Anxious or Brave to Seek Help?",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Five Best: Business Books",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "\u2018Death With Dignity\u2019? Choose Life Instead",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Democrats Are Doing Trump a Favor",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Corporate Tax Hikes Will Hit the Middle Class",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Would Jamie Dimon Consider Running for President?",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "TikTok CEO Plans to Meet European Union Regulators",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "You May Be Able to Buy a Self-Driving Car After All",
+            "keyword": "HEARD ON THE STREET"
+        },
+        {
+            "news_title": "State Department Recognizes T\u00fcrkiye as Turkey\u2019s Formal Name",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Melinda French Gates Adjusts to a New, Solo Role",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "The Case Against Frequent Rebalancing of Portfolios",
+            "keyword": "Journal Reports: Investing Monthly"
+        },
+        {
+            "news_title": "Kathleen Moriarty, aka \u2018Spider Woman,\u2019 Helped Launch Exchange-Traded Funds",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "Playing Risk Made Cold-War Kids Masters of an Unruly Globe",
+            "keyword": "Back When"
+        },
+        {
+            "news_title": "Walgreens Revisits Security as Losses From Theft Drop",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Stair-Climbing Wheelchairs, Closed-Caption Glasses: Assistive Tech Gains at CES in Las Vegas ",
+            "keyword": "Personal Technology"
+        },
+        {
+            "news_title": "Kia EV6 GT: Fast, Furious, Almost as Good as Tesla",
+            "keyword": "Rumble Seat"
+        },
+        {
+            "news_title": "How a Billion Lost Eggs Show Challenges for a Ukrainian Economic Comeback",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Why Big Donors Can\u2019t Reel In GOP Rebels",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Ice Baths. Cryo-Chambers. Hikes at Dawn. Why Spa-Goers Want Hardcore Wellness Now.",
+            "keyword": "Off Duty Travel"
+        },
+        {
+            "news_title": "Is Now a Good Time to Get a Deal on a New Car?",
+            "keyword": "Personal Finance"
+        },
+        {
+            "news_title": "The Coach Who Molded TCU\u2019s Championship Aspirations\u2014Without Coaching There",
+            "keyword": "College Football"
+        },
+        {
+            "news_title": "China to Allow Rapid Tests to Confirm Covid Cases",
+            "keyword": "China"
+        },
+        {
+            "news_title": "Prince Harry Book Has U.S. Retailers in Suspense Ahead of Release",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "Australia\u2019s Push to Invest More Responsibly Gets Reality Check",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "The Rare Heart Phenomenon Thought to Have Caused Damar Hamlin\u2019s Collapse",
+            "keyword": "NFL"
+        },
+        {
+            "news_title": "Sliding Natural-Gas Prices Deal Surprise Reprieve to Europe",
+            "keyword": "Gas Markets"
+        },
+        {
+            "news_title": "Tesla Slashes Prices in China Again After Deliveries Slump",
+            "keyword": "Autos Industry"
+        },
+        {
+            "news_title": "How Kellogg Uses Standardized Benchmarks to Boost Cost Savings",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "China\u2019s mRNA Covid Vaccine Starts Test Production",
+            "keyword": "China"
+        },
+        {
+            "news_title": "New Biden Law Won\u2019t Kill Drug Cures. It Will Reshape Them.",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "And Just Like That, America Becomes More Rural",
+            "keyword": "The Numbers | Josh zumbrun"
+        },
+        {
+            "news_title": "A Twist on IPOs Gains Steam as Market Stalls",
+            "keyword": "IPOs"
+        },
+        {
+            "news_title": "U.S. EV Sales Leapt in 2022 as Newcomers Target Tesla",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Shell Expects Natural-Gas Profit Rebounded in Fourth Quarter ",
+            "keyword": "Earnings"
+        },
+        {
+            "news_title": "Warmer Weather Helps Ease Europe\u2019s War-Driven Inflation Surge",
+            "keyword": "Europe Economy"
+        },
+        {
+            "news_title": "How Samsung Could Climb Out of the Chip Price Pit",
+            "keyword": "Heard on the street"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        },
+        {
+            "news_title": "McCarthy Fails to Win in 11th Round of Speaker Vote",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Trump Sued by Estate of Capitol Police Officer Who Died After Jan. 6 Attack ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Samsung Expects 69% Drop in Profit on Slumping Tech Demand",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Salesforce Customers Not Swayed by Slack, Analysts Say",
+            "keyword": "CIO Journal"
+        },
+        {
+            "news_title": "South Carolina\u2019s 6-Week Abortion Ban Ruled Unconstitutional",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "The Split-Screen U.S. Economy",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Oops, We Botched Ranked-Choice Voting",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Damar Hamlin and the Truly Guilty Pleasure of Watching Football",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Amazon, Bed Bath & Beyond, World Wrestling Entertainment: Stocks That Defined the Week",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Don\u2019t Copy New York\u2019s Medicaid Home Care Disaster ",
+            "keyword": "Cross Country"
+        },
+        {
+            "news_title": "Notable & Quotable: Lockdown",
+            "keyword": "Notable & Quotable"
+        },
+        {
+            "news_title": "It Would Be Hard for Ukraine to Lose the War to Russia",
+            "keyword": "Business World"
+        },
+        {
+            "news_title": "There\u2019s a Precedent for Kevin McCarthy\u2019s Conundrum",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Shipments of Armored Vehicles Reflect West\u2019s Growing Confidence in Ukrainian Arms",
+            "keyword": "National Security"
+        },
+        {
+            "news_title": "South Carolina Ordered to Redraw Congressional District",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "FTX and Bahamas Liquidators Reach Pact Over Asset Recovery",
+            "keyword": "Pro Bankruptcy"
+        },
+        {
+            "news_title": "The House Speaker Drama Has One Winner: C-SPAN",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Southwest\u2019s December Meltdown Could Cost Up to $825 Million",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Hiring, Wage Gains Eased in December, Pointing to a Cooling Labor Market in 2023",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "Former USC Official Gets Six Months in Prison in College-Admissions Cheating Case",
+            "keyword": "Education"
+        },
+        {
+            "news_title": "Police Probe Shootings at Homes and Offices of Elected Democrats in New Mexico ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "An Ancient Enigma Carved in Stone",
+            "keyword": "Masterpiece"
+        },
+        {
+            "news_title": "Fed\u2019s Barkin and George Say Inflation Fight Isn\u2019t Over Despite Promising Signs",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Beer Sales Drop as Consumers Balk at Higher Prices",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "What Marketers Need to Know About the FTC\u2019s Updated Guidelines on Health Claims",
+            "keyword": "CMO Today"
+        },
+        {
+            "news_title": "Macy\u2019s Reports Uneven Holiday Season",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "SEC Ends Insider-Trading Probe Into Ex-Sen. Richard Burr\u2019s Stock Sales",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Dow Jumps 700 Points After Jobs Report Shows Wage Growth",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "Mexico Boosts Military Presence After Son of \u2018El Chapo\u2019 Is Captured",
+            "keyword": "Latin America"
+        },
+        {
+            "news_title": "10 Books We Read This Week",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "\u2018By Hands Now Known\u2019 Review: Willfully Blind Justice",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Atlanta Fed President Expects Higher Rates to Remain",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Loaded Language (Saturday Crossword, January 7)",
+            "keyword": "Crossword"
+        },
+        {
+            "news_title": "Rows Garden (Saturday Variety Puzzle, January 7)",
+            "keyword": "Variety Puzzle"
+        },
+        {
+            "news_title": "New Juvenile-Record Checks Bar Gun Buys",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "McDonald\u2019s to Make Staff Changes by April as Part of Broader Revamp ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Judge Orders Cruise Companies to Pay More Than $436 Million for Docking at Seized Terminal in Cuba",
+            "keyword": "Risk & Compliance Journal"
+        },
+        {
+            "news_title": "Imagining Denmark",
+            "keyword": "Icons"
+        },
+        {
+            "news_title": "Comcast Names New CFO as Cable Sector Battles Cord-Cutting, Ad Pullback   ",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "New Alzheimer\u2019s Drug Approved by FDA, Promises to Slow Disease",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "The Next Trend in \u2018Clean\u2019 Beauty Is in Your Perfume Bottle",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "KKR Picking Up Manhattan Office Space Vacated by Facebook",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "In One of Maui\u2019s Biggest Deals, Waterfront Home Sells for $32.67 Million",
+            "keyword": "private properties"
+        },
+        {
+            "news_title": "Strong Jobs Report Doesn\u2019t Resolve Fed Rate Debate",
+            "keyword": "Economy"
+        },
+        {
+            "news_title": "New Covid-19 Subvariant, XBB.1.5, Takes Over in Parts of U.S.",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "How to Restore Our Dwindling Attention Spans",
+            "keyword": "Essay"
+        },
+        {
+            "news_title": "Sick of Chunky, Hiker-Style Socks? Try These Slim New Styles",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "\u2018Real Housewives\u2019 Star Sentenced to 6 1/2 Years for Fraud",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "NFL Cancels Bills-Bengals Game That Was Suspended After Damar Hamlin Collapse",
+            "keyword": "NFL"
+        },
+        {
+            "news_title": "Upward Mobility Is Alive and Well in America",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Putin\u2019s American Cheerleaders",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Ron Labinski Turned Major League Sports Stadiums Into Palaces",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "Ukraine Clashes Continue Despite Russia\u2019s Cease-Fire Calls",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Party City Plans Bankruptcy Filing Within Weeks to Cut Debt",
+            "keyword": "Pro Bankruptcy"
+        },
+        {
+            "news_title": "The Speaker of the House Debate",
+            "keyword": "Best of the Web"
+        }
+    ]
+}

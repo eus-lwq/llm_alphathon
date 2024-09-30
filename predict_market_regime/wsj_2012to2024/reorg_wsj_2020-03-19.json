@@ -1,0 +1,585 @@
+{
+    "Date": "2020-3-19",
+    "News": [
+        {
+            "news_title": "Nearly Two Dozen MTA Workers Have Coronavirus",
+            "keyword": "Transit"
+        },
+        {
+            "news_title": "We Need Time to Absorb All This",
+            "keyword": "Declarations"
+        },
+        {
+            "news_title": "Rethinking the Coronavirus Shutdown",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "De Blasio Scares, Cuomo Soothes",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Shutting Markets Isn\u2019t the Solution to What\u2019s Wrong ",
+            "keyword": "Streetwise"
+        },
+        {
+            "news_title": "The Emergency 401(k) Button",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Coronavirus Could Make or Break Narendra Modi",
+            "keyword": "East is East"
+        },
+        {
+            "news_title": "Sanders Can Learn From \u2018Sewer Socialists\u2019",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "A Constitutional Guide to Emergency Powers",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Coronavirus Has Me Sweating Out My Sports Addiction",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Coronavirus Vindicates Capitalism",
+            "keyword": "Potomac Watch"
+        },
+        {
+            "news_title": "\u2018Sick Souls, Healthy Minds\u2019 Review: Is Life Worth Living?",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Notable & Quotable: Ridley",
+            "keyword": "Notable & Quotable"
+        },
+        {
+            "news_title": "As Coronavirus Spreads, Banks Face Tough Call on Branch Closures ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Coronavirus Testing Chaos Across America ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Canadian Fashion Tycoon Peter Nygard\u2019s Company Files for Bankruptcy ",
+            "keyword": "Pro Bankruptcy Bankruptcy"
+        },
+        {
+            "news_title": "Tesla to Suspend U.S. Car Production",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Occidental Plans to Name Former CEO Chazen as New Chairman",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Senators Call on Veterans Affairs to Activate Emergency Powers",
+            "keyword": "Health Policy"
+        },
+        {
+            "news_title": "National Olympic Committees Sound Cautions About Proceeding to Tokyo ",
+            "keyword": "Sports"
+        },
+        {
+            "news_title": "\u2018Spy Wars With Damian Lewis\u2019 Review: Espionage in the Spotlight",
+            "keyword": "Television Review"
+        },
+        {
+            "news_title": "Iran Releases Detained U.S. Navy Veteran to Swiss Embassy Over Coronavirus Fears",
+            "keyword": "World"
+        },
+        {
+            "news_title": "FDIC Chairman Asks for Accounting-Policy Changes Due to Coronavirus ",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "Coronavirus Outbreaks Spreading in Nursing Homes",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "\u2018My Brilliant Friend\u2019 Season 2 Review: Alarmingly Affecting",
+            "keyword": "Television Review"
+        },
+        {
+            "news_title": "Coronavirus Sparks Layoffs Across New York Region",
+            "keyword": "Tri-State Area"
+        },
+        {
+            "news_title": "Harvard Business School Extends Search for New Dean ",
+            "keyword": "Business Education"
+        },
+        {
+            "news_title": "Swedbank Fined $397 Million Over Anti-Money Laundering Measures ",
+            "keyword": "Risk & Compliance Journal"
+        },
+        {
+            "news_title": "U.S. Stocks Gain Amid Central Bank Action",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "Market\u2019s \u2018Trump Bump\u2019 Is About to Be Erased ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "These Insurers Should Keep Some Resistance to Coronavirus",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "The Humble Tire Gets Kitted Out With Technology",
+            "keyword": "CIO Journal"
+        },
+        {
+            "news_title": "Fed Ramps Up Bond Buys, Indicating Much Larger Purchases Are Likely",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "Saints Coach Sean Payton, Celtics\u2019 Marcus Smart Test Positive for Coronavirus",
+            "keyword": "NFL"
+        },
+        {
+            "news_title": "Boeing Considers Dividend Cut, Layoffs Amid Cash Drain",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "U.S. Keeps Processing Seasonal Worker Visas ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "New Orleans Restaurant Kicks Off Coronavirus Insurance Litigation",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "In Coronavirus Response, Andrew Cuomo Wins Over Past Critics ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "The New View From the Couch",
+            "keyword": "Film Review"
+        },
+        {
+            "news_title": "Ford Nixes Dividend, Suspends Guidance",
+            "keyword": "Autos Industry"
+        },
+        {
+            "news_title": "Siemens CEO Kaeser to Leave by Next Year",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "\u2018Abe Lincoln in Illinois\u2019 Review: Perfectly Cast for Perilous Times",
+            "keyword": "Theater Review"
+        },
+        {
+            "news_title": "Companies Are Suspending Dividends Because of the Coronavirus",
+            "keyword": "Stocks"
+        },
+        {
+            "news_title": "Harried Traders Gird for Frantic Friday",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "U.K. Holds Back on Partial Lockdown for London ",
+            "keyword": "U.K."
+        },
+        {
+            "news_title": "A Generational War Is Brewing Over Coronavirus ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Biden-Sanders Relationship to Guide Next Phase in Democratic Race",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "Racing to Shore Up Eurozone, ECB\u2019s Lagarde Faces Friction with Germany ",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Bank of England Cuts Rates Further, Restarts Bond Purchases ",
+            "keyword": "Economy"
+        },
+        {
+            "news_title": "U.S. Government Warns Against International Travel ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "China Shipping Exports Rebound, Just as Western Ports Cope With Coronavirus Downturn",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "EU Relaxes Rules on Government Aid to Companies in Face of Virus  ",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "What Price Collapse? U.S. Producers Keep Pumping.",
+            "keyword": "Oil Markets"
+        },
+        {
+            "news_title": "U.S. Steps Up Iran Sanctions, as Tehran Charges Cruelty ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Household Brands Seek Their Voice on Virtual Assistants",
+            "keyword": "Experience Report"
+        },
+        {
+            "news_title": "Why Books Are Comforting in the Era of Coronavirus",
+            "keyword": "Design"
+        },
+        {
+            "news_title": "Ventilator Makers Ramp Up Production Amid Coronavirus Crunch ",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Coronavirus Fears in Capitol Spur Calls for Lawmakers to Vote Remotely ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Texas Weighs Curtailing Oil Production for First Time in Decades ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Oil Posts Biggest One-Day Percentage Gain on Record ",
+            "keyword": "Oil Markets"
+        },
+        {
+            "news_title": "\u2018Black Swan\u2019: A Rare Disaster, Not as Rare as Once Believed",
+            "keyword": "Word on the Street"
+        },
+        {
+            "news_title": "Bank Risk System From 2008 Has Problems",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Poor Data and Confirmation Bias Mislead",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "A Degree Doesn\u2019t Equal a License to Practice",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "New Jersey Lawmakers Pass Coronavirus Relief Package ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Women Need to Step Up as Coaches for Women\u2019s Sports",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Compassion for Refugees Fleeing Violence Abroad",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Brazil Seals Borders With Neighbors as Region Struggles to Control Coronavirus ",
+            "keyword": "Latin America"
+        },
+        {
+            "news_title": "U.S. Moves to Expand Array of Drug Therapies Deployed Against Coronavirus",
+            "keyword": "Health Policy"
+        },
+        {
+            "news_title": "At Schools Closed for Coronavirus, Online Work Won\u2019t Count ",
+            "keyword": "Education"
+        },
+        {
+            "news_title": "Bestselling Books Week Ended March 14",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Can Lagarde Save the Euro?",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "In Italy, Contagion Has Its Own Canon",
+            "keyword": "Essay"
+        },
+        {
+            "news_title": "Jobless Claims Rise Sharply",
+            "keyword": "Economic Data"
+        },
+        {
+            "news_title": "You Can Still Golf During the Coronavirus\u2014Just Rake the Bunkers with Your Feet ",
+            "keyword": "The A-hed"
+        },
+        {
+            "news_title": "Michel Roux Raised (Dismal) U.K. Culinary Standards ",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "Stress on Italian Bonds Eases After ECB Emergency Action     ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Coronavirus Is Forcing Real-Estate Agents to Adapt. Will They Sink or Swim?",
+            "keyword": "Homes"
+        },
+        {
+            "news_title": "Companies Retool Operations to Assist in Coronavirus Fight",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "China Rescinds Penalty for Late Doctor Who Warned About Coronavirus",
+            "keyword": "China"
+        },
+        {
+            "news_title": "Make America the Medicine Chest of the World",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "A Minyan in the Time of Social Distancing",
+            "keyword": "Houses of Worship"
+        },
+        {
+            "news_title": "Tulsi Gabbard Ends Democratic Presidential Campaign ",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "U.K. Regulator Calls on Insurers to Be Flexible Amid Coronavirus Pandemic ",
+            "keyword": "Risk & Compliance Journal"
+        },
+        {
+            "news_title": "As Businesses Shut, How Many U.S. Workers Can Work From Home?",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "The World According to Freeman",
+            "keyword": "Wilczek's Universe"
+        },
+        {
+            "news_title": "German Government Moves Against Fringe Far-Right Group",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Band of Seniors",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "In London, A 340-Year-Old Mansion With a Colorful History Asks $60.7 Million",
+            "keyword": "Homes"
+        },
+        {
+            "news_title": "The Long Fight Against Unjust Taxes",
+            "keyword": "Historically Speaking"
+        },
+        {
+            "news_title": "The Job Shock Begins ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Coronavirus-Era Food Supply: America Has a Lot. Moving It Is Tricky.",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Hating Your Home Wi-Fi Network? Let\u2019s Fix It. ",
+            "keyword": "Joanna Stern"
+        },
+        {
+            "news_title": "Big Easy By Design",
+            "keyword": "Homes"
+        },
+        {
+            "news_title": "ECB Provides Some Relief for Troubled Lenders. Will It Be Enough? ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "To Fight Coronavirus, Colleges Sent Students Home. Now Will They Refund Tuition? ",
+            "keyword": "Education"
+        },
+        {
+            "news_title": "Olive Garden\u2019s Owner Reports Sales Plunge as Coronavirus Spreads ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Fed\u2019s Repo Operations See Light Response Amid Upward Rate Pressure ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "The Next Coronavirus Financial Crisis: Record Piles of Risky Corporate Debt",
+            "keyword": "Credit Markets"
+        },
+        {
+            "news_title": "Dollar Desperation: Aussie Dollar Falls to 55 Cents as Stocks Drop in Korea",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Impossible Foods CEO on Running a $4 Billion Startup From Children\u2019s Bedroom ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "The Unsung Pioneer of Handwashing",
+            "keyword": "Essay"
+        },
+        {
+            "news_title": "Karaoke Customer Who Spread Virus Dies Two Weeks After Final Song ",
+            "keyword": "Japan"
+        },
+        {
+            "news_title": "Why Dr. Anthony Fauci Runs",
+            "keyword": "Sports"
+        },
+        {
+            "news_title": "People Confined for a Pandemic Can\u2019t Get Enough of Pandemics ",
+            "keyword": "Overheard"
+        },
+        {
+            "news_title": "IMF Approves Top Mnuchin Ally, Geoffrey Okamoto, as No. 2 Official ",
+            "keyword": "Economy"
+        },
+        {
+            "news_title": "Do Not Disturb: Hotels Hammered by Coronavirus Offer 14-Day Quarantine Packages ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "War on Plastic Takes a Back Seat in Coronavirus Crisis ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "A Hollywood Feeding Frenzy Is a Boon for Novelists. Is It Good for the Novel?",
+            "keyword": "Magazine - Culture"
+        },
+        {
+            "news_title": "A Bike Race Went Virtual, Because of Coronavirus. I Raced It. It Did Not Go Well. ",
+            "keyword": "Jason Gay"
+        },
+        {
+            "news_title": "Derby\u2019s Take: Fed Balance Sheet Will Be a Barometer of Market Woes    ",
+            "keyword": "Central Banks Commentary"
+        },
+        {
+            "news_title": "U.S. Government Plans to Ratchet Up Emphasis on Social Distancing",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Mitt Romney\u2019s Onetime Park City Home  ",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Mitt Romney\u2019s Former Utah Mountain Estate is Hitting The Market",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "As Coronavirus Spreads, Drivers Face Wary Customers, Temperature Checks",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Commentary: It\u2019s Not Premature to Set Supply Chains for a Coronavirus Recovery",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Our Favorite Sources for Ordering Meat Online",
+            "keyword": "Food & Drink"
+        },
+        {
+            "news_title": "America Needed Coronavirus Tests. The Government Failed.",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "How Baseball\u2019s Shutdown Might Hit Mookie Betts\u2019s Paycheck",
+            "keyword": "MLB"
+        },
+        {
+            "news_title": "Wanted: People Willing to Get Sick to Find Coronavirus Vaccine ",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "This Is Your Brain on a Crashing Stock Market",
+            "keyword": "The Intelligent Investor"
+        },
+        {
+            "news_title": "Coronavirus Puts Hopes Pinned to Tokyo Olympics Tourists in Jeopardy",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "IASB Considers Changing Rules on Company Acquisitions, Goodwill ",
+            "keyword": "CIO Journal"
+        },
+        {
+            "news_title": "Senators Try to Bridge Partisan Divide\u2014From a Safe Distance ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Too Early to Check In to China\u2019s Travel Giant ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Inside the South Korean Labs Churning Out Coronavirus Tests ",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "Coronavirus Hits State and City Budgets",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Trump Re-Election Strategy Shifts Focus to Crisis Leadership ",
+            "keyword": "Election 2020"
+        },
+        {
+            "news_title": "Consumers Face a Massive Credit Crunch. Lenders Are Still Figuring Out What to Do.",
+            "keyword": "Credit Markets"
+        },
+        {
+            "news_title": "Samsung\u2019s Shift Away From China Looked Smart, Then Coronavirus Hit",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Banks Have Nowhere to Hide in the Coronavirus Crisis ",
+            "keyword": "Heard on the Street "
+        },
+        {
+            "news_title": "Eduard Limonov, Punk Exponent of Russian Nationalism, Dies at 77",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "Federal Reserve to Backstop Money-Market Mutual Funds ",
+            "keyword": "Economy"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        },
+        {
+            "news_title": "When It Comes to Park Living, Luxury Homebuyers Shell Out the Green",
+            "keyword": "Real Estate"
+        },
+        {
+            "news_title": "This Recipe is Pure Sunshine",
+            "keyword": "Slow Food Fast"
+        },
+        {
+            "news_title": "Two Lawmakers Test Positive for Novel Coronavirus ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Truckers Facing Coronavirus Hurdles in Keeping Supply Chains Moving",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Playboy Magazine Shuts Down Print Edition, Citing Coronavirus ",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "ECB to Launch New Bond-Buying Program",
+            "keyword": "Europe Economy"
+        },
+        {
+            "news_title": "Starbucks Seeks to Reassure Investors ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Sports Leagues Offer Free Streaming of Older Games Amid Coronavirus Shutdown ",
+            "keyword": "CMO Today"
+        },
+        {
+            "news_title": "Senate Passes Bill to Combat Pandemic, Turns to Stimulus Plan ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Detroit Car Makers to Temporarily Close U.S. Plants Over Virus Concerns",
+            "keyword": "Autos Industry"
+        },
+        {
+            "news_title": "The New Tax Deadline: Pay by July 15 ",
+            "keyword": "Tax Report"
+        }
+    ]
+}

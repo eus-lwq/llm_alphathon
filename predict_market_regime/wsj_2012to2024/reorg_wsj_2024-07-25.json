@@ -1,0 +1,453 @@
+{
+    "Date": "2024-7-25",
+    "News": [
+        {
+            "news_title": "Loblaw, Parent George Weston to Pay C$500 Million to Settle Price-Fixing Suit",
+            "keyword": "Risk & Compliance Journal"
+        },
+        {
+            "news_title": "Universal Music Sheds $13 Billion in Market Cap After Streaming Revenue Disappoints",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "U.S. Intercepts Russian and Chinese Bombers on First Joint Mission Off Alaska",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Paris Wanted a Green Olympics. Team USA Wants Air Conditioning.",
+            "keyword": "Olympics"
+        },
+        {
+            "news_title": "\u2018Midnight in the Garden of Good and Evil\u2019 Review: Splashy Southern Gothic Musical",
+            "keyword": "Theater Review"
+        },
+        {
+            "news_title": "How to Stylishly Protect Your Furniture From Pets",
+            "keyword": "Design"
+        },
+        {
+            "news_title": "\u2018Gods of Tennis: Bjorn Borg and John McEnroe\u2019 Review: Rivals Reminisce",
+            "keyword": "Television Review"
+        },
+        {
+            "news_title": "Biden\u2019s Formal Campaign Exit Kickstarts Brutal Trump-Harris Battle",
+            "keyword": "Election 2024"
+        },
+        {
+            "news_title": "Protesters Rebuke Netanyahu Outside U.S. Capitol",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "I Never Thought I Could Be Attacked as a Jew in New York City\u2014Until It Happened.",
+            "keyword": "Essay"
+        },
+        {
+            "news_title": "\u2018Starve Acre\u2019 Review: Horror That Feasts on the Past",
+            "keyword": "Film Review"
+        },
+        {
+            "news_title": "Can Bill Ackman Turn Social-Media Stardom Into a Blockbuster IPO?",
+            "keyword": "IPOs"
+        },
+        {
+            "news_title": "\u2018Humane\u2019 Review: Dying to Live in Caitlin Cronenberg\u2019s Horror Movie",
+            "keyword": "Television Review"
+        },
+        {
+            "news_title": "Standard General Agrees to Buy Out Bally",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Sprinters, Swimmers, Simone and LeBron: How Team USA Could Win the Paris Olympics",
+            "keyword": "Olympics"
+        },
+        {
+            "news_title": "Carmakers\u2019 Inventory Pain Is Consumers\u2019 Gain",
+            "keyword": "HEARD ON THE STREET"
+        },
+        {
+            "news_title": "New Fixes for Methane Emissions Could Be a Big Climate Help",
+            "keyword": "Essay"
+        },
+        {
+            "news_title": "Would You Buy Jewelry Online? Zales and Kay Jewelers Hope So.",
+            "keyword": "Journal Reports: Leadership"
+        },
+        {
+            "news_title": "Yoshihiro Uchida, a Father of American Judo, Dies at 104",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "The Show of the Summer Is a Vacation Comedy About the Black Death",
+            "keyword": "Television"
+        },
+        {
+            "news_title": "Simone Biles Rebuilt Herself for the Paris Olympics. Can She Pull Off Her Most Unlikely Feat Yet?",
+            "keyword": "Olympics"
+        },
+        {
+            "news_title": "Number Puzzles (Saturday, July 27)",
+            "keyword": "Number Puzzles"
+        },
+        {
+            "news_title": "When This Supply-Chain Essential Goes Missing, It\u2019s Time to Bring in the \u2018Pallet Detectives\u2019",
+            "keyword": "The A-Hed"
+        },
+        {
+            "news_title": "As Growth Sputters, Beijing Tries Again to Jolt China\u2019s Economy",
+            "keyword": "Asia Economy"
+        },
+        {
+            "news_title": "The Paris Olympics Are Here. Let the Revenge Games Begin.",
+            "keyword": "Olympics"
+        },
+        {
+            "news_title": "Medicaid Was a Boon to Insurers During the Pandemic. Now, Not So Much.",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "A Nation Bet Big on Online Casinos. It Didn\u2019t Go Well.\u00a0",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "CrowdStrike Outage Puts Its Financial Reporting Under Scrutiny, Too",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "An Increase in Uninsured Drivers Is Pushing Up Costs for Everyone Else",
+            "keyword": "Personal Finance"
+        },
+        {
+            "news_title": "Land of the Rising Banks",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "How Government Programs Help Fuel Tesla Profit",
+            "keyword": "TIM HIGGINS"
+        },
+        {
+            "news_title": "Hyundai Motor Profit Jumped 25%, Led by U.S. Demand",
+            "keyword": "Autos Industry"
+        },
+        {
+            "news_title": "What Gives Poor Kids a Shot at Better Lives? Economists Find an Unexpected Answer",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "Nissan Motor Cuts Sales, Profit Forecasts After Weak Quarter",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "German Business Mood Darkens as Economic Worries Mount",
+            "keyword": "Economy"
+        },
+        {
+            "news_title": "Online Education Pioneer 2U Files for Chapter 11 Bankruptcy",
+            "keyword": "Education"
+        },
+        {
+            "news_title": "Vodafone Says Earnings Outlook on Track After Revenue Rise",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "TotalEnergies Expects Flat Hydrocarbon Output ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "AstraZeneca Upgrades Outlook as Cancers Drug Sales Jump",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Unilever Boosted by Margin Improvements Despite Underlying Sales Miss ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Anglo American Swings to Net Loss on One-Off Charge",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Julius Baer Profits Fall, Miss Consensus Forecasts",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Stellantis Mulls Price Cuts As Bottom Line Misses Forecasts",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Roche Lifts Outlook After Strong First-Half Results",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Nestle Lowers Sales Guidance as Shoppers Seek Cheaper Goods",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Tesla Supplier STMicroelectronics Cuts Guidance Again ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Yen Hits Nearly Three-Month High on Expectations for BOJ Rate Hike",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Once Hamas\u2019s Sworn Enemy, a Palestinian Exile Rises as a Potential Postwar Strongman",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "Family, Friends and Longtime Aides Dominate Harris\u2019s Inner Circle\u00a0",
+            "keyword": "Election 2024"
+        },
+        {
+            "news_title": "Pepper\u2026and Salt",
+            "keyword": "Pepper & Salt"
+        },
+        {
+            "news_title": "Rupert Murdoch Plan to Give Control to Son Lachlan Triggers Family Legal Battle",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "China Casts Itself as Peacemaker in High-Level Talks With Ukraine",
+            "keyword": "World"
+        },
+        {
+            "news_title": "The Paris Olympics Could Also Be the Protest Olympics",
+            "keyword": "Olympics"
+        },
+        {
+            "news_title": "Threats to Olympics Turn Paris Into an Open-Air Fortress",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Tesla\u2019s Auto Woes Crash Elon Musk\u2019s AI Dreams",
+            "keyword": "HEARD ON THE STREET"
+        },
+        {
+            "news_title": "What Would a Harris Presidency Mean for the Economy?",
+            "keyword": "Election 2024"
+        },
+        {
+            "news_title": "Biden Ducks the Farewell Question",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Takeaways From Biden\u2019s Oval Office Address",
+            "keyword": "Election 2024"
+        },
+        {
+            "news_title": "Biden Says He Will \u2018Pass the Torch\u2019 to Harris in Oval Office Address After Ending Campaign",
+            "keyword": "Election 2024"
+        },
+        {
+            "news_title": "Maduro Allies Hunt Dissidents Abroad Ahead of Venezuela\u2019s Election",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Merit, Excellence and Intelligence: An Anti-DEI Approach Catches On",
+            "keyword": "on the clock"
+        },
+        {
+            "news_title": "Fortescue\u2019s Annual Iron-Ore Shipments Roughly Flat on Year",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "New Zealand Consumer Confidence Jumps as Rate Cuts Appear on Horizon",
+            "keyword": "Economy"
+        },
+        {
+            "news_title": "Biden, Netanyahu Meet Amid Push for Gaza Cease-Fire",
+            "keyword": "National Security"
+        },
+        {
+            "news_title": "Was the Media Right the First Time about the Border Czar?",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "The Election\u2019s Economic Rorschach Test",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Maersk Line Agrees to U.S. Settlement Over Whistleblower\u2019s Firing",
+            "keyword": "Risk & Compliance Journal"
+        },
+        {
+            "news_title": "Cold-Storage Giant Lineage Raises $4.4 Billion in IPO",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Authorities Arrest Man Suspected of Starting California Wildfire",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Venture Firm Narya Sees Boost in Interest After Co-Founder JD Vance\u2019s Nomination",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "RTX Sets Aside $1.24 Billion to Resolve Government Probes",
+            "keyword": "Risk & Compliance Journal"
+        },
+        {
+            "news_title": "Publicis Bets $500 Million on Influencer Marketing With Acquisition of Influential",
+            "keyword": "CMO Today"
+        },
+        {
+            "news_title": "Justice Elena Kagan Calls for Enforceable Supreme Court Ethics Rules",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "The Bronx Bombers Beat Hamas Rockets",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Biden\u2019s Supreme Court-Smacking Plan",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Hypocrisy and Tumult Greet Netanyahu",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "The Kamala Harris Surprise",
+            "keyword": "Declarations"
+        },
+        {
+            "news_title": "Anti-Israel Protesters Make Netanyahu\u2019s Point",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Will Maduro Steal Another Election in Venezuela?",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Southwest Airlines Is Ditching Open Seating on Flights",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "The Left Molds Kamala Harris",
+            "keyword": "Potomac Watch"
+        },
+        {
+            "news_title": "Hospitals Make Comeback After Facing Labor Issues for Years",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "The Kamala Harris Cult Needs a Personality",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "The Antigrowth Agendas of Harris and Trump",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "A Trump Peace Plan for Ukraine",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "OpenAI Tests SearchGPT, Taking Aim at Google",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "When the Hotel Gym Doesn\u2019t Cut It, Try a Hotel \u2018Fitness Suite\u2019",
+            "keyword": "Off Duty Travel"
+        },
+        {
+            "news_title": "Mysteries: Juliet Grames\u2019s \u2018The Lost Boy of Santa Chionia\u2019",
+            "keyword": "Book Review"
+        },
+        {
+            "news_title": "Dow Industrials Rise After Surprisingly Strong GDP Data",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "U.S. Economy Grew at Brisk 2.8% Rate in Second Quarter",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "The Gross Incompetence of the Secret Service ",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "What Vance and \u2018Postliberals\u2019 Are Missing",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Title Insurance Reduces Risk for Homeowners ",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "How Trump Got His Way",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Back to Smoke-Filled Rooms",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Video Game SAG-Aftra Union Members to Go On Strike",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "Newsom Issues Order on Homeless-Camp Removal in California",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Just Doing My Part (Friday Crossword, July 26)",
+            "keyword": "Crossword Contest"
+        },
+        {
+            "news_title": "I\u2019ve Tried Hundreds of Wines This Year. These Are the Bottles I Buy Again and Again.",
+            "keyword": "On Wine"
+        },
+        {
+            "news_title": "Uber, Lyft and Others Win California Ruling to Treat Drivers as Contractors",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "\u2018Deadpool & Wolverine\u2019 Review: Self-Aware Marvel Superheroes\u00a0",
+            "keyword": "Film Review"
+        },
+        {
+            "news_title": "\u2018Only the River Flows\u2019 Review: A Winding Chinese Mystery",
+            "keyword": "Film Review"
+        },
+        {
+            "news_title": "\u2018Women in the Valley of the Kings\u2019 Review: Well-to-Do, Ready to Dig",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Ken Griffin Makes Another Major Real Estate Play. This Time in St Tropez.",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Friends Stopping By in 15 Minutes? Prep Your Patio Pronto With These Expert Ideas",
+            "keyword": "Design"
+        },
+        {
+            "news_title": "Inside JD Vance\u2019s Short-Lived Career as a Venture Capitalist",
+            "keyword": "Election 2024"
+        },
+        {
+            "news_title": "\u2018Reboot\u2019: A New Start, Whether for a Computer or a Presidential Campaign",
+            "keyword": "Word on the Street"
+        },
+        {
+            "news_title": "Herm\u00e8s Bucks Luxury Slowdown With Higher Sales but Flags Weakness in China",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Did God Save Donald Trump?",
+            "keyword": "Houses of Worship"
+        },
+        {
+            "news_title": "In Picking Kamala Harris, Democrats Follow the Tories\u2019 Folly",
+            "keyword": "Political Economics"
+        },
+        {
+            "news_title": "Kroger, Albertsons Agree to Pause Merger as FTC, State Challenges Proceed",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "The Only Breakfast Biscuit Recipe You\u2019ll Ever Need to Know",
+            "keyword": "Food & Drink"
+        }
+    ]
+}

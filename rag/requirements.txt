@@ -1,7 +1,4 @@
-langchain 
 pymilvus 
-ollama 
-pypdf 
-langchainhub 
-langchain-community 
-langchain-experimental
+openai
+llama-index
+llama-index-vector-stores-milvus

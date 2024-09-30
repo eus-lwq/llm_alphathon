@@ -1,0 +1,405 @@
+{
+    "Date": "2023-12-6",
+    "News": [
+        {
+            "news_title": "Containership Hits Bridge in the Suez Canal",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "U.S. Charges Four Russians With War Crimes in Ukraine",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Facebook and Instagram Steer Predators to Children, New Mexico Attorney General Alleges in Lawsuit",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Civilized Debate and the \u2018Notre Dame Ten\u2019",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Johnny Damon\u2019s Florida Home, Complete With Hair Salon, Lists for $30 Million",
+            "keyword": "private properties"
+        },
+        {
+            "news_title": "Europe\u2019s Gas Prices Could Fall Further Next Year ",
+            "keyword": "Gas Markets"
+        },
+        {
+            "news_title": "The New Rule That Will Make Your Golf Ball Fly Less Far",
+            "keyword": "Golf"
+        },
+        {
+            "news_title": "Who\u2019s Holding Up the Section 702 Anti-Terror Tool?",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Was Congress Right to Expel George Santos?",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Real-Estate Collusion Is Finally Coming to an End",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "The Tikkun Olam Vote",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "U.K. Makes Arrest in Probe Into Jet-Engine Parts Scandal",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Biden, the Houthis and the Terror List",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "As U.S. Seeks Calmer China Ties, Europe Gets Tough",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Kevin McCarthy: I\u2019m Leaving the House but Not the Fight",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Texas Bank Overdraws Its Own Accounts After Messy Tech Update",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "The Best Holiday Cookies of 2023 Are Also the Biggest",
+            "keyword": "Food & Drink"
+        },
+        {
+            "news_title": "Wastewater and Rising JN.1 Variant Stir Covid Holiday Worries",
+            "keyword": "Your Health"
+        },
+        {
+            "news_title": "How Is China\u2019s Economy Doing? Not Nearly as Well as China Says It Is",
+            "keyword": "Journal Reports: Year in Review"
+        },
+        {
+            "news_title": "Top Public and Private Colleges in the South",
+            "keyword": "Journal Reports: College Rankings"
+        },
+        {
+            "news_title": "Google Announces AI System Gemini After Turmoil at Rival OpenAI",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Confused by All the Hiltons and Marriotts? Us Too.",
+            "keyword": "Carry On"
+        },
+        {
+            "news_title": "Big Tobacco Rethinks Its Smoking Addiction",
+            "keyword": "Heard on the street"
+        },
+        {
+            "news_title": "Kamala Harris Works to Bridge Democratic Divide Over Israel-Hamas War",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Lawsuits Seek to Link Tylenol Ingredient to Autism, ADHD",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "13 Gift Ideas for the Extremely Generous Shopper",
+            "keyword": "Style"
+        },
+        {
+            "news_title": "Bitcoin Mining Used More Water Than New York City Last Year",
+            "keyword": "Science | environment"
+        },
+        {
+            "news_title": "ExxonMobil Sets Plan to Boost Earnings, Cash Flow ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "The Medicare Gold Rush Is Slowing Down",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Robert Kraft Matches $100 Million Donation to Fight Antisemitism",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "What You Need to Know About Kids and Money",
+            "keyword": "Family & Technology"
+        },
+        {
+            "news_title": "The Price Is Right for Indian Stocks",
+            "keyword": "HEARD ON THE STREET"
+        },
+        {
+            "news_title": "Vast Data\u2019s CEO Discusses Fundraising, Future Plans",
+            "keyword": "Pro VC New Money"
+        },
+        {
+            "news_title": "Nvidia\u2019s CEO Still Plans to Sell High-End Chips in China",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Is That Food Ultra-Processed? How to Tell",
+            "keyword": "Health & Wellness"
+        },
+        {
+            "news_title": "New York Could Be the Latest State to Ban Noncompete Agreements",
+            "keyword": "New York"
+        },
+        {
+            "news_title": "What\u2019s a Real-Estate Fund Worth? Depends on Who\u2019s Doing the Math",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Dragos Launches Program to Provide Water, Electric Utilities With Free Cybersecurity Tools",
+            "keyword": "Pro Cyber News"
+        },
+        {
+            "news_title": "U.S. Gas Startup at Center of Epic Feud With Global Energy Giants",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Climate Change Made Their Homes Unsafe. Who Pays for Their Move?",
+            "keyword": "Africa"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        },
+        {
+            "news_title": "\u2018El Loco\u2019 Won the Argentina Election Last Month With Outlandish Ideas. Now He\u2019s Backpedaling.",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Russia Rejects \u2018Significant Proposal\u2019 to Trade for WSJ\u2019s Gershkovich, Whelan, U.S. Says",
+            "keyword": "Russia"
+        },
+        {
+            "news_title": "European Developers Are Wooing Wine Lovers With Their Own Hassle-Free Vineyards",
+            "keyword": "Real Estate"
+        },
+        {
+            "news_title": "And You Thought PowerPoint Presentations Couldn\u2019t Get Any Worse",
+            "keyword": "a-hed"
+        },
+        {
+            "news_title": "23andMe Hack Is a Wake-Up Call for Your Password Habits",
+            "keyword": "Personal Technology"
+        },
+        {
+            "news_title": "Cuban Intelligence Recruits Driven by Ideology, Not Money",
+            "keyword": "National Security"
+        },
+        {
+            "news_title": "Marketing \u2018Bidenomics\u2019 Wasn\u2019t Biden\u2019s Idea?",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "Alaska Airlines Pilot Accused of Trying to Cut Engines Midflight Avoids Attempted Murder Charges",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Elon Musk\u2019s AI Startup Seeks to Raise $1 Billion",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Israel Says It Has Killed Half of Hamas\u2019s Battalion Commanders",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "McKinsey Shrinks New Partner Class by Roughly 35%",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Pro-Trump Electors in Wisconsin\u00a0Acknowledge There Was an Effort to \u2018Improperly Overturn\u2019 2020 Vote",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Remembering Norman Lear, Who Staged a Sitcom Revolution",
+            "keyword": "Appreciation"
+        },
+        {
+            "news_title": "Joe Biden\u2019s Ukraine Emergency",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Georgia\u2019s Flat Tax Advances",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "A Moot Supreme Court on ADA Lawsuits",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Joe Biden\u2019s Assist to Hunter\u2019s Business",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Taylor Swift\u2019s Benjamin Button Is Time\u2019s Cover Cat of the Year",
+            "keyword": "Music"
+        },
+        {
+            "news_title": "Republicans Block Ukraine Aid Bill, Putting New Pressure on Border Talks",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "CIOs Look Past the OpenAI Drama",
+            "keyword": "CIO Journal"
+        },
+        {
+            "news_title": "Vladimir Putin Meets With Saudi, U.A.E. Rulers in Bid to Refresh Alliances",
+            "keyword": "Russia"
+        },
+        {
+            "news_title": "Seven West Media Names CFO Howard to Replace Warburton as CEO",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "House GOP Raises Specter of Contempt Charge Against Hunter Biden",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Pennsylvania Governor Rebukes Penn President Over Testimony on Antisemitism",
+            "keyword": "Education"
+        },
+        {
+            "news_title": "Untitled Art Review: An Exuberant Fair in Miami Beach",
+            "keyword": "Art Review"
+        },
+        {
+            "news_title": "The Wildly Popular Men\u2019s Jacket to Avoid This Winter\u2014and What to Wear Instead",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "The Best Music of 2023: Rich Rewards Outside the Mainstream",
+            "keyword": "Music Review"
+        },
+        {
+            "news_title": "\u2018Vertigo of Color: Matisse, Derain, and the Origins of Fauvism\u2019 Review: The World in Heightened Hues",
+            "keyword": "Art Review"
+        },
+        {
+            "news_title": "\u2018The Peer Effect\u2019 Review: Trying to Find a Key to Success",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "McDonald\u2019s to Launch CosMc\u2019s, an Alien-Inspired Restaurant Serving Slushes To-Go",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Released Hostages Press Netanyahu to Do More to Save Those Remaining",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "AbbVie to Buy Cerevel Therapeutics for $8.7 Billion",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Chewy Names David Reeder as Next Finance Chief",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "The Best Books of 2023: Politics",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Norman Lear, Who Reinvented the Sitcom, Dies at 101",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "The Best Books of 2023: Mystery",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "DEI Drives Campus Antisemitism",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "The Best Books of 2023: Books for Children",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Five Best: Books on Gilded Age Politics",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Kamala Harris\u2019s Communication Problem",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "The Political Price of Anti-Israel Protests",
+            "keyword": "Wonder Land"
+        },
+        {
+            "news_title": "Bond Yields Tumble, Stocks Retreat",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "Narendra Modi Cruises Toward Re-Election in 2024",
+            "keyword": "East is East"
+        },
+        {
+            "news_title": "Maimonides Goes Wrong ",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Emission Control (Thursday Crossword, December 7)",
+            "keyword": "Crossword"
+        },
+        {
+            "news_title": "A Disney World Survival Kit: 7 Gadgets to Make Your Trip Cheaper and More Comfortable",
+            "keyword": "Gear & Gadgets"
+        },
+        {
+            "news_title": "Mostly Seasonal Protests",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "AMD Rolls Out New Chips, Aiming for Nvidia\u2019s AI Crown",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Switzerland Charges Trafigura and a Former Top Executive With Bribery",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "IRS Turns Down 20,000 Refund Claims for Covid Tax Credit",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Bank of Canada Keeps Rates Unchanged, Cites Progress on Cooling Inflation",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Verizon Taps Peloton\u2019s Marketing Chief as CMO",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "BAT Takes $31.5 Billion Charge on U.S. Cigarette Brands",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Treasury\u2019s Janet Yellen Visits Mexico as Part of Anti-Fentanyl Offensive",
+            "keyword": "Latin America"
+        },
+        {
+            "news_title": "U.S. Crude-Oil Inventories Fall More Than Expected ",
+            "keyword": "Oil Markets"
+        },
+        {
+            "news_title": "The Wealth Tax You May Already Owe",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Knife Attacker in Paris Faces Preliminary Terrorism Charges",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "What to Watch in Tonight\u2019s Four-Candidate Republican Debate",
+            "keyword": "Election 2024"
+        },
+        {
+            "news_title": "The U.S. Can Afford a Bigger Military. We Just Can\u2019t Build It.",
+            "keyword": "CAPITAL ACCOUNT | GREG IP"
+        }
+    ]
+}

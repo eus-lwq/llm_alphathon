@@ -1,0 +1,441 @@
+{
+    "Date": "2022-7-6",
+    "News": [
+        {
+            "news_title": "Carlos Santana Passes Out on Stage During Michigan Concert",
+            "keyword": "Music"
+        },
+        {
+            "news_title": "American Airlines to Pay Pilots Triple to Work Flights Dropped in Computer Glitch",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Inflation Fears Drove Larger Fed Rate Increase",
+            "keyword": "U.S. Economy"
+        },
+        {
+            "news_title": "Crypto Broker Voyager Digital Seeks Bankruptcy Protection",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "Gary Gensler\u2019s Bitcoin Regulation Grab",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Why Marc Elrich Won\u2019t Protect Supreme Court Justices",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "The Beltway\u2019s Case of Biden Remorse",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Biden\u2019s Charter School Revisions",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Biden\u2019s Six-Misstep 2022 Midterm Strategy",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "The Global Search for Energy Security",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "Fred Gray, \u2018Chief Counsel\u2019 for Civil Rights",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "The Supreme Court Saves Politics",
+            "keyword": "Wonder Land"
+        },
+        {
+            "news_title": "We Owe Unborn Babies Their Burials",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "GameStop Shares Rise After Board Declares Stock Split",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "We Want to Rebuild U.S. Relations With China",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "After Highland Park Shooting, Illinois Officials Call for More Use of Red- Flag Law",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "\u20181368\u2019 Review: Mutual Exchange",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Electra Fire in Northern California Prompts Evacuations",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Uvalde Police Officer Had School Shooter in Sight but Didn\u2019t Shoot, Report Finds",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Heads of FBI, MI5 Issue Joint Warning on Chinese Spying",
+            "keyword": "China"
+        },
+        {
+            "news_title": "Biden Picks Denver Airport Chief to Lead Federal Aviation Administration ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Highland Park Parade Shooting Suspect Confessed, Prosecutors Say",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "\u2018Liza Minnelli Live in New York\u2019 Review: Party Like It\u2019s 1979",
+            "keyword": "Music Review"
+        },
+        {
+            "news_title": "In Scale (Thursday Crossword, July 7)",
+            "keyword": "Crossword"
+        },
+        {
+            "news_title": "Covid-19 Vaccine Doses Thrown Away ",
+            "keyword": "Health"
+        },
+        {
+            "news_title": "Akron, Ohio, Curfew Lifted Following Jayland Walker Protests ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "FDA Suspends Ban on Juul While Vaping Company Appeals",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Amazon Adds Grubhub Delivery to Prime Membership",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "J&J Talc Judge Weighs Expert Help to Value Cancer Claims ",
+            "keyword": "Pro Bankruptcy"
+        },
+        {
+            "news_title": "Stocks Rise After Fed Minutes",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "Hiring Demand Remained Strong in May",
+            "keyword": "Economic Data"
+        },
+        {
+            "news_title": "Biden Announces Final Rules for Pension Bailout ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "White House Communications Director to Step Down",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Blackstone Invests $400 Million in Environmental Commodity Exchange Xpansiv",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Who Was Killed in the Highland Park Shooting?",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "British Airways Slashes More Than 10,000 Flights Amid Industry Staffing Shortages",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Democrats Move Ahead on Drug-Pricing Piece of Broader Agenda",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Slim Beverage Cans Gain Ground Against Their Squatter Cousins ",
+            "keyword": "CMO Today"
+        },
+        {
+            "news_title": "Dallas Cowboys Face Backlash After Partnering With Gun-Themed Coffee Company",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "FDA Will Help Overseas Baby-Formula Makers Keep Selling in U.S.",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "In Florida\u2019s Naples, a $62 Million Home Sale Sets a Price Record",
+            "keyword": "PrIVate Properties"
+        },
+        {
+            "news_title": "Democrats Criticize Biden Plan to Nominate Antiabortion Republican to  Judgeship",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Vanguard to Pay $6 Million to Investors Hit With Big Tax Bills ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Nipsey Hussle: Jury Finds Eric Holder Jr. Guilty for 2019 Murder of Rapper",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Federal Authorities Say 1,500 Fugitives Captured in June Dragnet ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "France to Nationalize EDF to Help It Combat Europe\u2019s Energy Crisis",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Apple Ratchets Up Security Tool for iPhone Users Targeted by Sophisticated Spyware",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Highland Park: What to Know About the July Fourth Shooting",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "The Best Time to Visit Montana\u2019s Glacier National Park? Before the Cars Come Back. ",
+            "keyword": "Off Duty Travel"
+        },
+        {
+            "news_title": "France\u2019s Macron Confronts Divided Parliament With Plan to Raise Retirement Age",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Derby\u2019s Take: Once Again, Bond Yields Have Ominous Message on Outlook",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "11 Flights, 6 Airlines, 4 Days: A Flying Test of the U.S. Travel System",
+            "keyword": "Carry On"
+        },
+        {
+            "news_title": "FTX Presses for Crypto Derivatives Approval",
+            "keyword": "Finance"
+        },
+        {
+            "news_title": "K2 Launches Certification for ESG Claims",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "Batteries Become Do-Or-Die for Air-Taxi Startups",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        },
+        {
+            "news_title": "Red States Are Winning the Post-Pandemic Economy",
+            "keyword": "Economy"
+        },
+        {
+            "news_title": "Trump-Era Changes to Endangered Species Act Tossed by Court ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Nasdaq, NYSE Win Court Battle With SEC Over Market Data",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Russian and Ukrainian Forces Prepare for Next Phase of Battle for Donbas ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Defrauded Students to Get Easier Path to Debt Forgiveness Under New Biden Plan ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "BNY Mellon Names Goldman Sachs Veteran as Its Next Finance Chief ",
+            "keyword": "CFO Journal"
+        },
+        {
+            "news_title": "Investor Concerns Over Buyout Prices Reflected in Stock Trading",
+            "keyword": "Pro PE Industry News"
+        },
+        {
+            "news_title": "It\u2019s Not Easy Being an Intolerant Californian",
+            "keyword": "Best of the Web"
+        },
+        {
+            "news_title": "Home Near Major Colorado Ski Resorts Lists for $13.25 Million",
+            "keyword": "Private Properties"
+        },
+        {
+            "news_title": "Americans Ask Biden to Help Free Relatives Held in Saudi Arabia, Egypt ",
+            "keyword": "N/A"
+        },
+        {
+            "news_title": "How to Grill Fish Without Overcooking It",
+            "keyword": "Slow Food Fast"
+        },
+        {
+            "news_title": "BA.5 Subvariant Drives Majority of Recent Covid-19 Cases ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "University Courses Sometimes Come From a Company",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Brittney Griner\u2019s Case Faces Tensions Back Home",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "U.S. Law Firm to Represent Russian Oligarch Roman Abramovich as U.S. Seeks to Seize His Planes",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Cushman & Wakefield Is Held in Contempt in Trump Probe",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Gavin Newsom\u2019s 2024 Presidential Campaign Has Begun",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "The West Needs an Arms Race",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "The Abortion Case Wasn\u2019t Really About Abortion",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Science Informs the Moral Case Against Abortion",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Gas-Tax Holiday Is a Losing Proposition",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "James Joyce and T.S. Eliot: Writers and Bankers",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "The \u2018Worst U.S. President\u2019 Who Wasn\u2019t",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Money Doesn\u2019t Talk at School",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Food, Energy Issues Set to Dominate G-20 Meeting of Top Diplomats Amid Ukraine War",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Norwegian Cruise Line to End Its Covid-Testing Requirement ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Gas and Nuclear Power Can Be \u2018Green\u2019 Under New EU Plan",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "China Police Database Was Left Open Online for Over a Year",
+            "keyword": "China"
+        },
+        {
+            "news_title": "This Connecticut Home Renovation Mixes Old and New",
+            "keyword": "Homes"
+        },
+        {
+            "news_title": "Fortune Cookies Favor the Brave ",
+            "keyword": "Overheard"
+        },
+        {
+            "news_title": "America\u2019s Gridlocked Democracy Struggles to Meet China Challenge",
+            "keyword": "Capital Account"
+        },
+        {
+            "news_title": "Russia Tensions Threaten Food Supplies for 4 Million Syrians ",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "Natalie Portman\u2019s Arms Are the Breakout Stars of \u2018Thor: Love and Thunder\u2019",
+            "keyword": "The A-hed"
+        },
+        {
+            "news_title": "U.K. Flexes New Muscle in Antitrust Probes Over Microsoft and Amazon",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "U.S. Crackdown on Juul and Smoking: What to Know",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Amazon Could Turn Grubhub Into a Tastier Meal ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Macmillan Says Retailers Can Again Order Its Books After Cyberattack",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Healthcare Premiums Could Surge for Millions of Americans",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Announcing Your Layoff on Social Media Can Be a Smart Career Move",
+            "keyword": "Work & Life"
+        },
+        {
+            "news_title": "Hitch Rack, Trunk Rack, Roof Rack: A Guide to Picking the Best Option for Your Bike",
+            "keyword": "Gear & Gadgets"
+        },
+        {
+            "news_title": "School Shootings Drive Sales of Locking Systems, Alarms ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Peter Chernin Bets Streaming Services Will Remain Hungry for Content",
+            "keyword": "Media & Marketing"
+        },
+        {
+            "news_title": "Russia\u2019s Tactical Shift in Ukraine Raises Prospect of Protracted War    ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "OPEC Secretary-General Mohammed Barkindo Dies ",
+            "keyword": "Obituaries"
+        },
+        {
+            "news_title": "Online Ad Slump Won\u2019t Be a Blip",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Want a Chic Belt? Skip the Garish Logo Buckle",
+            "keyword": "Fashion"
+        },
+        {
+            "news_title": "Twitter\u2019s Tussle With Delhi Will Define Online Speech in India ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Shanghai Revives Mass Testing as Cases Slip Through China\u2019s Covid Armor ",
+            "keyword": "China"
+        },
+        {
+            "news_title": "Consumers Say 2022 Is the Worst Economy Ever",
+            "keyword": "Streetwise"
+        },
+        {
+            "news_title": "The 27-Time Major Winner With a Gap on His R\u00e9sum\u00e9: Wimbledon",
+            "keyword": "Tennis"
+        },
+        {
+            "news_title": "European Industries Jockey for Scarce Natural Gas",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Investors Pour Billions Into China ETFs",
+            "keyword": "ETFs"
+        },
+        {
+            "news_title": "Highflying Cyber Firms Cut Staff After Raising Hundreds of Millions of Dollars ",
+            "keyword": "Pro Cyber News"
+        }
+    ]
+}

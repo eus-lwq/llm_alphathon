@@ -1,0 +1,110 @@
+1 1 2012
+2 1 2012
+3 1 2012
+4 1 2012
+Traceback (most recent call last):
+  File "/Users/wanqing/Downloads/Alphathon/wsj_scrapper/crawl.py", line 231, in <module>
+    searching_start_end(args.start, args.end, waiting_time)
+  File "/Users/wanqing/Downloads/Alphathon/wsj_scrapper/crawl.py", line 202, in searching_start_end
+    time.sleep(waiting_time) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+25 6 2012
+Traceback (most recent call last):
+  File "/Users/wanqing/Downloads/Alphathon/wsj_scrapper/crawl.py", line 231, in <module>
+    searching_start_end(args.start, args.end, waiting_time)
+  File "/Users/wanqing/Downloads/Alphathon/wsj_scrapper/crawl.py", line 201, in searching_start_end
+    scrap.get_elements_from_web(year, month, day, waiting_time)
+  File "/Users/wanqing/Downloads/Alphathon/wsj_scrapper/crawl.py", line 66, in get_elements_from_web
+    page = requests.get(title_url, headers=headers)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/urllib3/connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/urllib3/connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/urllib3/connection.py", line 693, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/urllib3/connection.py", line 199, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+KeyboardInterrupt
+8 8 2012
+9 8 2012
+10 8 2012
+11 8 2012
+12 8 2012
+13 8 2012
+14 8 2012
+15 8 2012
+16 8 2012
+Traceback (most recent call last):
+  File "/Users/wanqing/Downloads/Alphathon/wsj_scrapper/crawl.py", line 231, in <module>
+    searching_start_end(args.start, args.end, waiting_time)
+  File "/Users/wanqing/Downloads/Alphathon/wsj_scrapper/crawl.py", line 201, in searching_start_end
+    scrap.get_elements_from_web(year, month, day, waiting_time)
+  File "/Users/wanqing/Downloads/Alphathon/wsj_scrapper/crawl.py", line 66, in get_elements_from_web
+    page = requests.get(title_url, headers=headers)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/urllib3/connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/urllib3/connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/urllib3/connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/urllib3/connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "/Users/wanqing/miniforge3/envs/alpha/lib/python3.12/ssl.py", line 1319, in do_handshake
+    self._sslobj.do_handshake()
+KeyboardInterrupt

@@ -1,0 +1,785 @@
+{
+    "Date": "2015-11-13",
+    "News": [
+        {
+            "news_title": "Not Guilty Verdicts on All Counts in \u2018Goodfellas\u2019 Case",
+            "keyword": "Crime"
+        },
+        {
+            "news_title": "BrokerCheck Guide to Advisers Is No Yelp: Vonnegut",
+            "keyword": "Wealth Management"
+        },
+        {
+            "news_title": "Pennsylvania Inches Closer to Budget Deal",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Horizon Holders Approve Stock Issuance for Depomed Bid",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Sylvester Stallone Talks About \u2018Creed\u2019",
+            "keyword": "Film"
+        },
+        {
+            "news_title": "Kurdish Forces Retake Control of Sinjar",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "AstraZeneca Gets FDA\u2019s OK for Lung-Cancer Drug    ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Carson Shrugs Off Attack by Trump    ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Nordstrom, Penney, Macy\u2019s: Don\u2019t Investors Know It\u2019s Christmas?    ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Vape-Shop Owners Chart New Ground ",
+            "keyword": "Metro Money"
+        },
+        {
+            "news_title": "Germany\u2019s Merkel Sticking to Open-Arms Migrant Policy",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Let It Snow",
+            "keyword": "BEST OF THE WEB"
+        },
+        {
+            "news_title": "Utah Judge Amends Order to Remove Child From Lesbian Couple\u2019s Care    ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Best-Selling Books, Week Ended Nov. 8",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Anti-Licensing Movement Scores a Victory",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "MSCI Inclusion of Chinese Stocks Could Boost Tech Firms",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "U.S. Oil-Rig Count Rises After 10 Weeks of Declines",
+            "keyword": "Oil Markets"
+        },
+        {
+            "news_title": "Elliott Boosts Stake in Dialog Again    ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Grocery King John Catsimatidis Extends His Brand\u2014on the Radio",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Eurozone Economy Slows as Exports Weaken",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "The World\u2019s First Aerial Photographer",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Winston Churchill: Too Big to Fail",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Why Banks Crying About Regulation Don\u2019t Deserve Your Tears    ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Voices: How Advisers Should Make a Critical Technology Decision",
+            "keyword": "Wealth Management"
+        },
+        {
+            "news_title": "Obama: Islamic State No Longer Growing in Strength\n\t\t\n\t\t\t",
+            "keyword": "Capital Journal"
+        },
+        {
+            "news_title": "International Soccer Comes Home to...Brooklyn?",
+            "keyword": "Sports"
+        },
+        {
+            "news_title": "USPS Posts Annual Loss, Though Revenue Rises",
+            "keyword": "Earnings"
+        },
+        {
+            "news_title": "Private-Equity Executive Wins City Link Trial Over Christmas Layoffs       ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "TV Programmers Push Netflix for Promotions, Branding",
+            "keyword": "CMO"
+        },
+        {
+            "news_title": "U.S. Consumer Sentiment Climbs",
+            "keyword": "Economic Data"
+        },
+        {
+            "news_title": "British Airways to Halt Sharm El Sheikh Return Flights",
+            "keyword": "U.K."
+        },
+        {
+            "news_title": "China\u2019s Quiet Two-Child Experiment",
+            "keyword": "Essay"
+        },
+        {
+            "news_title": "Canadian Economy Shifting to Non-Resource Industries: BOC\u2019s Wilkins",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Bank of Russia Will Cut Rates by March, Says Governor    ",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Canadian Economy Shifting to Non-Resource Industries: BOC\u2019s Wilkins",
+            "keyword": "ABC"
+        },
+        {
+            "news_title": "Rokos Picks Prime Brokers For $1.5 Billion Hedge Fund\n\t\t\n\t\t\t",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Penney Sales Rise, but Shares Fall",
+            "keyword": "Earnings"
+        },
+        {
+            "news_title": "How the Battle Over \u2018Safe Spaces\u2019 Began",
+            "keyword": "Word on the Street"
+        },
+        {
+            "news_title": "Suu Kyi\u2019s Party Wins Myanmar Election",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "Tolerance, Free Speech Collide on Campus       ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "U.K. Serious Fraud Office Charges 10   Over Euribor ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Tour the House \u2018Ben-Hur\u2019 Built",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Charlton Heston\u2019s Longtime Home Lists for $12.25 Million",
+            "keyword": "Private Properties"
+        },
+        {
+            "news_title": "Thousands Hit With Surprise Tax Bill on Income in IRAs  ",
+            "keyword": "Tax Report"
+        },
+        {
+            "news_title": "Cambodian Court Orders Arrest of Opposition Leader Sam Rainsy",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "Palestinian Shoots Dead Two Israelis Near Hebron     ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Canadian Energy Sector Pain Spreads    ",
+            "keyword": "Canada"
+        },
+        {
+            "news_title": "California College Dean Resigns After Protests Over Racial Concerns",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Putin Plans First Visit to Iran Since 2007    ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Treasurys Boosted by Retail Sales, PPI",
+            "keyword": "Credit Markets"
+        },
+        {
+            "news_title": "The Definition of Recession Needs a Rethink",
+            "keyword": "Central Banks Commentary"
+        },
+        {
+            "news_title": "Kerry Arrives in Vienna for Talks on Syria",
+            "keyword": "World"
+        },
+        {
+            "news_title": "NBER Paper Looks at Where Emerging-Market Investors Put Their Money",
+            "keyword": "Central Banks Research"
+        },
+        {
+            "news_title": "Jury Says Ernst & Young Liable for Madoff Investor\u2019s Losses    ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Glass Lewis Backs Ethan Allen Board in Proxy Fight    ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Canadian Pension Funds to Buy Chicago Toll Road    ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "No Plans to Allow Toronto Island Airport to Expand, Transport Minister Says      ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Photos of the Day: Nov. 13",
+            "keyword": "Slideshow"
+        },
+        {
+            "news_title": "Supreme Court to Review Abortion Law in Texas   ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "GOP Candidates Return to Bob Jones University, as Party Shifts Right   ",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Staples, Office Depot in Talks to Transfer Corporate Contracts",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Perilous Job: Aide to North Korea\u2019s Kim",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "Exxon Mobil Top Public Affairs Executive to Retire in January",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Missouri Football Coach Gary Pinkel to Resign",
+            "keyword": "College Football"
+        },
+        {
+            "news_title": "Murphy Rejects Mets\u2019 Offer, Will Test Free-Agent Market",
+            "keyword": "New York Mets"
+        },
+        {
+            "news_title": "G-20 Leaders Set to Approve Overhaul of Corporate-Tax Rules",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Volkswagen Sales Dented Amid Emissions Scandal    ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Canada Aims to Lift Mexican Visa Rule, Strengthen U.S. Ties    ",
+            "keyword": "Canada"
+        },
+        {
+            "news_title": "U.S. Expects to Have Limited Role in Egypt Crash Probe",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Mysteries: Cooking Up a Plot",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "From the Vale of Cashmere to 19th-Century Persians ",
+            "keyword": "On Photography"
+        },
+        {
+            "news_title": "The Art Dealer Who Ripped Off Hitler",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "College Basketball Shoots to Be Watchable Again",
+            "keyword": "College Basketball"
+        },
+        {
+            "news_title": "FDA Completes Food-Safety Rules    ",
+            "keyword": "Health Policy"
+        },
+        {
+            "news_title": "A Very Funny Novel About Dying",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "The Secret to Rome\u2019s Success",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Why We Need the Wild",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Euro Retreats Against Dollar ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "America\u2019s First Power Couple",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Perfect Couples Party for Cancer Research",
+            "keyword": "Heard & Scene"
+        },
+        {
+            "news_title": "Mexico\u2019s Teachers Gird for Tests ",
+            "keyword": "Latin America"
+        },
+        {
+            "news_title": "Baby Boxing, Cat Beating and Octopus Wrestling",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Children\u2019s Books: Winter Tales",
+            "keyword": "Books"
+        },
+        {
+            "news_title": "Five Best: Christine L. Corton",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "She Launched a New Era of Portraiture",
+            "keyword": "Masterpiece"
+        },
+        {
+            "news_title": "U.S. Government Bonds Rise After Data ",
+            "keyword": "Credit Markets"
+        },
+        {
+            "news_title": "New York Developer Resolves Lawsuit With Kazakhstan",
+            "keyword": "Real Estate"
+        },
+        {
+            "news_title": "Gold Ends Nearly Flat",
+            "keyword": "Commodities"
+        },
+        {
+            "news_title": "Palestinians Must Confront Self-Inflicted Ills",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Teen Sexting: Dumb but Not Always Criminal",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "We Seek the Facts on Exxon\u2019s Climate Studies",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "Time to Consider the Many Borders of Legal Adulthood",
+            "keyword": "Letters"
+        },
+        {
+            "news_title": "U.S. \u2018Reasonably Certain\u2019 Drone Strike Killed \u2018Jihadi John\u2019",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Copper\u2019s Losses Pile Up",
+            "keyword": "Commodities"
+        },
+        {
+            "news_title": "Oil Prices: The Bottom Isn\u2019t In",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Sumitomo Mitsui to Enter Talks to Buy GE Japan Leasing      ",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "Natural Gas Gains Following Inventory Data ",
+            "keyword": "Gas Markets"
+        },
+        {
+            "news_title": "It Flummoxed Einstein",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Cleveland Fed\u2019s Mester Says Economy Can Handle Fed Rate Increase",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Love Letters by the Nabokovs",
+            "keyword": "Bookshelf"
+        },
+        {
+            "news_title": "Turkey to Press G-20 on Refugees, Syria",
+            "keyword": "World"
+        },
+        {
+            "news_title": "U.S. Producer Prices Stymied by Low Inflation",
+            "keyword": "Economic Data"
+        },
+        {
+            "news_title": "Kia Recalls More Than 256,000 Souls",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Ukraine to Get Third Billion-Dollar Loan Guarantee From U.S.",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Tyco Revenue Falls as Currency Impact Hurts",
+            "keyword": "Earnings"
+        },
+        {
+            "news_title": "CMO Today: Hulu Seeks to Sell Stake to Time Warner",
+            "keyword": "CMO Today Newsletter"
+        },
+        {
+            "news_title": "Brazil\u2019s Eletrobras Posts Quarterly Loss    ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Bank of Japan Looking to Fatten Capital Buffer Against Potential Losses",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "The 10-Point: Gerard Baker on Airstrikes, Democratic Donors, Venture Capitalism and More.",
+            "keyword": "The 10-Point"
+        },
+        {
+            "news_title": "Air France Fires Four Staff Suspected of Accosting Executives ",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "\u2018What Does Conservative Mean in the 21st Century?\u2019",
+            "keyword": "Morning Editorial Report"
+        },
+        {
+            "news_title": "Buell\u2019s Take: ECB Likely to Move Despite Fed Taking Pressure Off",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Sumitomo Mitsui Profit Slumps on Emerging-Markets Slowdown    ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Buell\u2019s Take: ECB Likely to Move Despite Fed Taking Pressure Off",
+            "keyword": "Pro Central Banks Newsletter"
+        },
+        {
+            "news_title": "GM to Import Chinese-Made Buick",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Today\u2019s Top Supply Chain and Logistics News From WSJ",
+            "keyword": "WSJ Logistics Report"
+        },
+        {
+            "news_title": "Gold Falls As Investors Balk",
+            "keyword": "Precious Metals"
+        },
+        {
+            "news_title": "Indonesia Current-Account Gap Shrinks",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "U.S. Takes South China Sea Dispute to New Heights",
+            "keyword": "World"
+        },
+        {
+            "news_title": "U.S. Airstrike Targets \u2018Jihadi John,\u2019 Terrorist in Beheading Videos    ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Amec Saved by Foster Wheeler Buy     ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Syngenta Shares Rise on Takeover Report    ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "From \u2018Bubble\u2019 to \u2018Crash,\u2019 the Incredible Origins of 7 Finance Terms",
+            "keyword": "Weekend Investor"
+        },
+        {
+            "news_title": "A Sizable Challenge: Mapping Alaska",
+            "keyword": "The Numbers"
+        },
+        {
+            "news_title": "Global Oil Demand Growth to Slow in 2016",
+            "keyword": "Oil Markets"
+        },
+        {
+            "news_title": "Two Chinese Firms Aim to Raise Up to $2.6 Billion in Hong Kong IPOs",
+            "keyword": "IPOs"
+        },
+        {
+            "news_title": "Cerberus Pockets Northern Rock Loans    ",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Noble Group Generates Cash But Investors Still See Red",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "China Bond Investors Bet on Bailout",
+            "keyword": "Credit Markets"
+        },
+        {
+            "news_title": "Toshiba Investors Spooked by U.S. Nuclear Unit Charges",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Oil Prices Depressed By U.S. Data",
+            "keyword": "Oil Markets"
+        },
+        {
+            "news_title": "Malaysian Growth Slows in Third Quarter       ",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "Fed Keeps Asian Markets on Edge",
+            "keyword": "Stocks"
+        },
+        {
+            "news_title": "RBI Likely to Stand Pat Next Month, Broker Says",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "BOJ Likely to Help Yen Weaken More",
+            "keyword": "Central Banks"
+        },
+        {
+            "news_title": "U.S. Dollar Flat Against Yen Ahead of U.S. Retail Sales",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "The Eurozone\u2019s Minsky Conundrum",
+            "keyword": "Central Banks Commentary"
+        },
+        {
+            "news_title": "VW Calls On Whistleblowers to Step Forward",
+            "keyword": "Autos Industry"
+        },
+        {
+            "news_title": "Rex Ryan Returns to Beat the Jets    ",
+            "keyword": "New York Jets"
+        },
+        {
+            "news_title": "Sports Teams Score Lucrative Deals in China    ",
+            "keyword": "Asia"
+        },
+        {
+            "news_title": "BHP Billiton Shares Fall to Near-Decade Low",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Pepper...and Salt",
+            "keyword": "Pepper & Salt"
+        },
+        {
+            "news_title": "Why Politics Will Keep Rattling the Eurozone ",
+            "keyword": "Brussels Beat"
+        },
+        {
+            "news_title": "Turning Loved Ones Into Caregivers",
+            "keyword": "Work in Progress"
+        },
+        {
+            "news_title": "Facebook Prods Users to Share a Bit More      ",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "How Nidera\u2019s \u2018Rogue Trader\u2019 Had Struck Before",
+            "keyword": "Markets"
+        },
+        {
+            "news_title": "Mylan Loses Hostile Bid for Perrigo",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Mylan-Perrigo Deal: What Is the Price of Failure?    ",
+            "keyword": "Heard on the Street"
+        },
+        {
+            "news_title": "Transportation Officials Assess France\u2019s New Border Controls       ",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Paris Attacks Prompt State of Emergency in France      ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "In L.A., One Way to Beat Traffic Runs Into Backlash ",
+            "keyword": "The A-Hed"
+        },
+        {
+            "news_title": "Kips Bay, an Overlooked Neighborhood ",
+            "keyword": "Open House"
+        },
+        {
+            "news_title": "The Horror in Paris",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Paris Attacks\u2019 Scale Underscores Global Threats    ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "In Syria, Assad Foes Pay High Price for Failed Offensive",
+            "keyword": "Middle East"
+        },
+        {
+            "news_title": "GOP Race Turns Nasty As Rivalries Crystallize    ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Canadian Pacific Pitches Tie-Up With Norfolk Southern    ",
+            "keyword": "WSJ Logistics Report"
+        },
+        {
+            "news_title": "New York Intensifies Security Measures After Paris Attacks    ",
+            "keyword": "Security"
+        },
+        {
+            "news_title": "Weeks of Testimony Didn\u2019t Convince Jurors in \u2018Goodfellas\u2019 Trial",
+            "keyword": "Crime"
+        },
+        {
+            "news_title": "Paris Violence an \u2018Attack on All of Humanity,\u2019 Obama Says",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Paris Explosions Heard During Soccer Match With Germany ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "How Churches Are Rethinking Sunday School",
+            "keyword": "Greater New York"
+        },
+        {
+            "news_title": "Cheaper Oil Fails to Yield Holiday Cheer for Retailers",
+            "keyword": "Economic Data"
+        },
+        {
+            "news_title": "Freedom Communications\u2019 Pension Plan Is Underfunded",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Knicks\u2019 Opponents Begin to Figure Out Jerian Grant",
+            "keyword": "New York Knicks"
+        },
+        {
+            "news_title": "In Skelos Case, Sticking Point Is Personal Details",
+            "keyword": "Crime"
+        },
+        {
+            "news_title": "Eurozone\u2019s QE Is Losing Its Punch      ",
+            "keyword": "Europe Markets"
+        },
+        {
+            "news_title": "NCAA Orphan No More, NJIT Finds Itself a Family to Play With",
+            "keyword": "College Basketball"
+        },
+        {
+            "news_title": "Park Avenue Apartment Tower Shifts Sales Approach",
+            "keyword": "Real Estate"
+        },
+        {
+            "news_title": "U.S. Stocks\u2019 6-Week Win Streak Ends",
+            "keyword": "U.S. Markets"
+        },
+        {
+            "news_title": "China, Russia Bristle Over U.S. Campaign Talk    ",
+            "keyword": "National Security"
+        },
+        {
+            "news_title": "The War on Terror Escalates",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Lagarde: Yuan Should Be IMF Reserve Currency",
+            "keyword": "Economy"
+        },
+        {
+            "news_title": "Casino Plan for Martha\u2019s Vineyard Blocked by Judge   ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Clinton\u2019s Coal Reparations",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Lobbyist Explains Call With Sheldon Silver",
+            "keyword": "Crime"
+        },
+        {
+            "news_title": "Europe\u2019s Refugee Dodge",
+            "keyword": "Review & Outlook"
+        },
+        {
+            "news_title": "Spain Condemns Attacks on Paris    ",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "Paris Attacks Prompt Statement of Solidarity From Russia       ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Ukraine Separatists Feel Abandoned as Moscow\u2019s Attention Shifts    ",
+            "keyword": "Europe"
+        },
+        {
+            "news_title": "The Rise of the College Crybullies",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "The Real Cost of Obama\u2019s Overtime Mandate",
+            "keyword": "Cross Country"
+        },
+        {
+            "news_title": "For Sanders, Party Loyalty Is a Tricky Issue",
+            "keyword": "Politics"
+        },
+        {
+            "news_title": "Federal Regulators Order Clean Out of California Pipeline     ",
+            "keyword": "U.S."
+        },
+        {
+            "news_title": "Notable & Quotable: Claremont Dissenters",
+            "keyword": "Notable & Quotable"
+        },
+        {
+            "news_title": "T-Mobile\u2019s Latest Move Quietly Brings Price Increases, Data Limit",
+            "keyword": "Tech"
+        },
+        {
+            "news_title": "Track Federation Suspends Russian Team    ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "FanDuel to Stop Accepting New Deposits from New York",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "The Legal Case Unions Fear They Cannot Win",
+            "keyword": "Commentary"
+        },
+        {
+            "news_title": "What Would Jesus Short?",
+            "keyword": "Business World"
+        },
+        {
+            "news_title": "Merkel \u2018Shocked\u2019 by Paris Attacks   ",
+            "keyword": "World"
+        },
+        {
+            "news_title": "Oil Prices Fall Toward $40",
+            "keyword": "Oil Markets"
+        },
+        {
+            "news_title": "GM, UAW to Extend Contract by One Week    ",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "Target Family Scion Bruce Dayton Dies at 97",
+            "keyword": "Business"
+        },
+        {
+            "news_title": "TimkenSteel Suspends Dividend Amid Steel Glut, Cheaper Imports",
+            "keyword": "Business"
+        }
+    ]
+}
