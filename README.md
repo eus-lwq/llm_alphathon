@@ -2,7 +2,8 @@
 We utilized large language models from January 1, 2012, to December 31, 2019, leveraging a Retrieval-Augmented Generation (RAG) framework combined with GPT-4o for market regime summarization. For market regime prediction, we employed GPT-4o mini, extending from January 1, 2012, to July 31, 2024, with out-of-sample testing performed from 2020 to 2024.
 
 ## 1. Data collection: Wall Street Journal News Crawler
-Data Collection: After attempting to crawl data from multiple sources, only The Wall Street Journal provided a comprehensive dataset from 2012 to 2024, suitable for U.S. equity market analysis.
+Data Collection: After attempting to crawl data from multiple sources, only The Wall Street Journal provided a comprehensive dataset from 2012 to 2024, suitable for U.S. equity market analysis. The code of wsj crawler is based on https://github.com/gonzalezcortes/scraping_news_articles and modified.
+
 ### How to use
 #### Step 1.0 Install Dependencies
 - option 1. intsall from pip
