@@ -57,8 +57,6 @@ this is an optional step , currently we just need title, description, date, and 
 python 3 web_scrap.py
 ```
 
-
-
 ## 2. Market Regime Summarization: RAG Indexing & Prompt Engineering & Query
 Market Regime Summarization: We used the RAG framework and Llama-Index to incorporate daily news and structure the dataset indexing, enabling the model to recursively merge text chunks and utilize this data during generation. The summarized training data was embedded into the Milvus vector database for efficient storage and retrieval. 
 Following prompt engineering, the model produced two market regime classification schemas, each supported by detailed descriptions and evidence: 
@@ -72,14 +70,15 @@ python3 wsj_orgnizer_weekday.py <gmm_labels_df_csv> <start_date> <end_date> <wsj
 # example usage:
 python3 wsj_orgnizer_weekday.py data/gmm_labels.csv 2012-01-01 2019-12-31 data/wsj_weekday data/wsj_weekday_reorg
 ```
-#### Step 2.2 Market condition converter
+#### (optional) Step 2.2 Market condition naming converter
+if generated market condition name needed be modified, use this step to convert market condition in batch processing.
 ```
 python3 market_condition_converter.py <old_dir_path> <new_dir_path>
 # example usage:
 python3 market_condition_converter.py data/wsj_weekday_reorg data/wsj_weekday_convert
 ```
 #### Step 2.3 Use RAG to summarize the market regime
-run `rag_multiple_files.ipynb` with RAG db indexing, and prompt engineering to get the market regime analysis and result
+run `rag_multiple_files.ipynb` with RAG db indexing (we basically depends on the data input for the vector db), and prompt engineering to get the market regime analysis and result
 
 
 ## 3. Market regime prediction: 
