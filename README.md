@@ -1,5 +1,16 @@
-# Market Regime Labeling Based on Investor Sentiments Using Large Language Models (LLMs)
-We utilized large language models from January 1, 2012, to December 31, 2019, leveraging a Retrieval-Augmented Generation (RAG) framework combined with GPT-4o for market regime summarization. For market regime prediction, we employed GPT-4o mini, extending from January 1, 2012, to July 31, 2024, with out-of-sample testing performed from 2020 to 2024.
+#  2-D Bayesian Regime Switch: Market Regime Labeling Based on Investor Sentiments Using Large Language Models (LLMs)
+- **Problem worked on**: Using Large Language Models (LLMs) in Investment
+- **Team Name**: Big Red, Big Purple
+- **Description**: This repos utilized large language models from January 1, 2012, to December 31, 2019, leveraging a Retrieval-Augmented Generation (RAG) framework combined with GPT-4o for market regime summarization. For market regime prediction, we employed GPT-4o mini, extending from January 1, 2012, to July 31, 2024, with out-of-sample testing performed from 2020 to 2024.
+- **Another Repo**: https://github.com/aolueur/alphathon-gmm
+  
+## Contributors
+- **Elina (Fuwei) Zhuang**: fz266@cornell.edu
+- **Hudson Chen**: hc884@cornell.edu
+- **Shun Wang**: sw2337@cornell.edu
+- **Joshua (Yuanzhi) Ma**: ym533@cornell.edu
+- **Yuao Peng**: yp439@cornell.edu
+- **Wanqing Li**: w.li@nyu.edu
 
 ## 1. Data collection: Wall Street Journal News Crawler
 Data Collection: After attempting to crawl data from multiple sources, only The Wall Street Journal provided a comprehensive dataset from 2012 to 2024, suitable for U.S. equity market analysis. The code of wsj crawler is based on https://github.com/gonzalezcortes/scraping_news_articles and modified.
@@ -58,10 +69,10 @@ python 3 web_scrap.py
 ```
 
 ## 2. Market Regime Summarization: RAG Indexing & Prompt Engineering & Query
-Market Regime Summarization: We used the RAG framework and Llama-Index to incorporate daily news and structure the dataset indexing, enabling the model to recursively merge text chunks and utilize this data during generation. The summarized training data was embedded into the Milvus vector database for efficient storage and retrieval. 
-Following prompt engineering, the model produced two market regime classification schemas, each supported by detailed descriptions and evidence: 
-- one with three categories (Bear, Neutral, Bull) and
-- one with five categories (Recovery, Expansion, Peak, Contraction, Recession).
+Market Regime Summarization: We improved the interpretability and contextual readability of LLMs using the RAG framework by incorporating day-to-day news, enabling the model to utilize this data during generation. We employed Llama-Index to structure dataset indexing and implemented tree summarization, allowing the model to recursively merge text chunks and summarize them in a bottom-up fashion (i.e., building a tree from leaves to root). The summarized training data was embedded into the Milvus vector database for efficient vector storage and retrieval. When a structured prompt is made, we leverage a query engine that allows natural language queries to extract the most relevant embeddings from the vector database, granting the LLM access to pertinent information. We selected GPT-4o for its enhanced reasoning capabilities, reduced latency, and lower cost compared to GPT-4. After LLM summarization, two market regime classification schemas were developed respectively, each supported by detailed descriptions and evidence.
+- Three categories in Bear (Contraction), Neutral (Uncertainty), Bull (Expansion).
+- Five categories in Recovery, Expansion, Peak, Contraction, and Recession.
+
 ### How to run
 #### Step 2.1 Data reorgnization
 ```
@@ -111,4 +122,3 @@ Prompt:
   - Market Regime 3: This regime is characterized by slowing economic growth, declining corporate profits, and increasing market volatility, often leading to a downturn.
   - Market Regime 4: This regime is marked by a significant decline in economic activity, rising unemployment, and falling stock prices, often leading to a prolonged economic downturn.
 ```
-
