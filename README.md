@@ -7,6 +7,7 @@ Data Collection: After attempting to crawl data from multiple sources, only The 
 #### Step 1.0 Install Dependencies
 - option 1. intsall from pip
 ```
+cd crawler
 pip install -r requirements.txt
 ```
 
@@ -62,6 +63,22 @@ Market Regime Summarization: We used the RAG framework and Llama-Index to incorp
 Following prompt engineering, the model produced two market regime classification schemas, each supported by detailed descriptions and evidence: 
 - one with three categories (Bear, Neutral, Bull) and
 - one with five categories (Recovery, Expansion, Peak, Contraction, Recession).
+### How to run
+#### Step 2.1 Data reorgnization
+```
+cd summarization
+python3 wsj_orgnizer_weekday.py <gmm_labels_df_csv> <start_date> <end_date> <wsj_folder_path> <output_file_path>
+# example usage:
+python3 wsj_orgnizer_weekday.py data/gmm_labels.csv 2012-01-01 2019-12-31 data/wsj_weekday data/wsj_weekday_reorg
+```
+#### Step 2.2 Market condition converter
+```
+python3 market_condition_converter.py <old_dir_path> <new_dir_path>
+# example usage:
+python3 market_condition_converter.py data/wsj_weekday_reorg data/wsj_weekday_convert
+```
+#### Step 2.3 Use RAG to summarize the market regime
+run `rag_multiple_files.ipynb` with RAG db indexing, and prompt engineering to get the market regime analysis and result
 
 
 ## 3. Market regime prediction: 
