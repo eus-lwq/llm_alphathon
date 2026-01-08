@@ -58,7 +58,7 @@ traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_17135351
 trio==0.26.2
 trio-websocket==0.11.1
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1717802530399/work
-urllib3==2.2.3
+urllib3==2.6.3
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
 websocket-client==1.8.0
 wheel==0.44.0
